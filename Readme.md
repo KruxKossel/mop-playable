@@ -7,6 +7,8 @@ Todo o projeto será gerenciado através do Github, isso é: toda comunicação,
 ## MVP (Minimum viable product).
 Não queremos uma aplicação 100% perfeita de começo, vamos seguir uma metodologia de startup e definir um Produto mínimo viável.
 
+
+
 ### Requisitos do MVP.
 
 [ ] Ser uma aplicação totalmente web, o mais leve possível e que possa ser utilizada via browser(Chrome/Firefox).
@@ -17,6 +19,7 @@ Não queremos uma aplicação 100% perfeita de começo, vamos seguir uma metodol
 [ ] Permitir que o usuário imprima o deck dele.
     [ ]  A aplicação deverá colocar a página em portrait mode, e colocar 10 fundos de cartas igualmente espaçados,
     [ ]  Na página seguinte a aplicação deverá colocar 10 cartas selecionadas no deck, igualmente espaçadas de forma que ao imprimir frente e verso as cartas fiquem alinhadas.
+[ ] Primeira versão no ar até 01/12/2024. (14 dias antes da H2HC)
 
 ## Como contribuir:
 
