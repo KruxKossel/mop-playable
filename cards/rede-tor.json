@@ -1,0 +1,9 @@
+{
+    "id": "49eda16d-fdd2-467d-ae92-4bfd36a81bee",
+    "name": "Rede TOR",
+    "cost": "2{B}",
+    "image": "rede-tor.webp",
+    "type": "Encantamento Mítico",
+    "edition": "BSidesSP 2024",
+    "description": "Mágicas que tiverem seu custo de mana pagos com manas geradas pelo terreno encantado não podem ser anuladas. Criaturas que  tiverem custo de habilidades pagas com manas geradas pelo terreno  encantado não podem ser bloqueadas neste turno."
+}
