@@ -29,3 +29,9 @@ Não queremos uma aplicação 100% perfeita de começo, vamos seguir uma metodol
 3. Todo o código será em Inglês, não por elitismo, mas porque é uma oportunidade para que todos possamos aprender.
 4. Toda comunicação pode ser feita em Português mesmo, através de issues, comentários e pull-requests.
 5. Seja cordial com o amigo, estamos todos aqui para aprender.
+
+## Techstack
+1. Tailwind for CSS.
+2. Basic HTML
+3. Javascript to be defined (SvelteKit/React)
+4. Hosted in Github Pages
