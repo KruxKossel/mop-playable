@@ -140,7 +140,7 @@
    methods: {
      getCardImage(image) {
        try {
-         return `/images/${image}`;
+         return `${import.meta.env.BASE_URL}images/${image}`;
        } catch {
          return '/default-placeholder.webp';
        }
@@ -161,7 +161,7 @@
      }
    },
    mounted() {
-     fetch('/cards2.json')
+     fetch(`${import.meta.env.BASE_URL}cards.json`)
        .then(response => response.json())
        .then(data => {
          this.cards = [...data.cards]; // Garante reatividade
