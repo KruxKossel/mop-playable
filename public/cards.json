@@ -1,0 +1,679 @@
+{
+    "cards": [
+        {
+            "id": "081d6f7d-63b9-47d1-99b7-5c7c2828607a",
+            "name": "Adestrador de Capivara",
+            "cost": "",
+            "image": "adestrador-de-capivara.webp",
+            "type": "Encantamento – Habilidade",
+            "edition": "",
+            "description": "Você é capaz de ensinar Hacking para qualquer pessoa e até mesmo para capivaras! +1/0 para cada criatura do tipo Hacker."
+        },
+        {
+            "id": "e07738e3-2aec-4121-8a5c-d3fba2aab73e",
+            "name": "Ewerson Guimarães - Crash",
+            "cost": "",
+            "image": "adestrador-de-capivara-ewerson-guimarães-crash-1.jpg",
+            "type": "Criatura - Anscient Hacker",
+            "edition": "",
+            "description": "Durante 3 turnos quando um jogador for comprar a primeira carta de seu turno, você pode olhar a carta e decidir se o jogador deve comprá-la ou descartá-la. Caso decida pelo descarte, o jogador compra uma carta."
+        },
+        {
+            "id": "711d6dd1-b5ce-40bd-844a-b21c3740dac6",
+            "name": "João Brasio",
+            "cost": "{3}{W}{W}{W}",
+            "image": "agente-imperial-joão-brasio.jpg",
+            "type": "Criatura - Humano Hacker",
+            "edition": "",
+            "description": "Vigilância: Proteção contra underground. Vigilante Efeito: Quando João Brasio entra no campo de batalha, olhe a mão do jogador alvo, escolha uma carta do tipo criatura hacker, o jogador alvo descarta esta carta. Se a carta contiver o tipo underground, este jogador perde 5 pontos de vida. Power/Toughness: 4/4"
+        },
+        {
+            "id": "a73c2f31-ecc6-4ee2-9d73-269db3376504",
+            "name": "0-Day Exploit",
+            "cost": "{B}{B}{1}",
+            "image": "0-day-exploit.webp",
+            "type": "Mágica Instantânea - Exploit",
+            "edition": "",
+            "description": "Revele a carta do topo do deck do oponente. Se a carta for um permanente, coloque ela em jogo sobre o seu controle. Se for uma carta de mágica instantânea ou feitiço, você pode escolher jogá-la imediatamente sem pagar seu custo de mana."
+        },
+        {
+            "id": "e1ce39fe-ef40-484d-bd49-ccf27dd72aa9",
+            "name": "Walter Capanema",
+            "cost": "",
+            "image": "advogado-walter-capanema.webp",
+            "type": "Criatura – Advogado Hacker",
+            "edition": "",
+            "description": "Walter Capanema é um mestre das artes arcanas, especialmente no que se refere à manipulação das leis dos homens. Quando Walter Capanema entra em jogo, você pode escolher uma carta do seu oponente e exilá-la (colocá-la fora do jogo) ou escolher uma carta sua que esteja exilada e colocá-la novamente em sua mão. \"\"O terror da 12.737, o pânico do Marco, que marco? Civil?"
+        },
+        {
+            "id": "6ea82880-41e0-40d8-9043-c70bc361a680",
+            "name": "Alexandre Sieira",
+            "cost": "",
+            "image": "alexandre-sieira.webp",
+            "type": "Criatura",
+            "edition": "",
+            "description": "Quando o Sieira entra em campo, você lança sua startup de cloud security e pode comprar 2 cartas extras. Ao comprar duas cartas extras, crie outra startup."
+        },
+        {
+            "id": "4c397bd0-22aa-476a-bf09-0da16735b967",
+            "name": "Olhar do Guardião",
+            "cost": "",
+            "image": "altaica-olhar-do-guardião.jpg",
+            "type": "Mágica Instantânea - Exploit",
+            "edition": "Altaica",
+            "description": "Escolha um oponente. Olhe todas as cartas na mão daquele oponente e escolha uma mágica instantânea, feitiço ou encantamento no campo de batalha que aquele jogador controle. Você pode jogar uma cópia dessa carta sem pagar seu custo de mana até o final do turno."
+        },
+        {
+            "id": "1457f86f-0a6a-48f0-9b63-452df13436d2",
+            "name": "Anchises - BSidesSP Organizer",
+            "cost": "{X}{U}{B}{R}",
+            "image": "anchises.webp",
+            "type": "Criatura – Ancient Mythic Hacker",
+            "edition": "",
+            "description": "Ao conjurar esta carta, escolha qualquer criatura em seu campo de batalha e adicione X/0. \"\"#IKnowAnchises\"\" – Ao conjurar esta carta, você será automaticamente incluído na comunidade de segurança e ganhará 20 anos de experiência de mercado. Seu currículo será aceito em todos os lugares e você poderá se tornar CISO onde desejar."
+        },
+        {
+            "id": "2e1c7fb1-c1c2-4818-8609-e817064c3cd7",
+            "name": "Alessandro Barreto, Vigilante do Ciberespaço",
+            "cost": "{2}{W}{U}",
+            "image": "alesandro-barreto,-vigilante-do-ciberespaço.jpg",
+            "type": "Criatura — Humano Hacker",
+            "edition": "",
+            "description": "1WU, T: Investigue. (Crie uma ficha de artefato incolor chamada Indício com \"\"2, Sacrifique este artefato: Compre um card.\"\") Sempre que você sacrificar um Indício, você pode exilar uma carta alvo do cemitério de um oponente."
+        },
+        {
+            "id": "bdc0d070-9fa2-4b86-b923-a7f0ea87a6a8",
+            "name": "Alcyon Junior",
+            "cost": "{1}{B}",
+            "image": "alcyon-junior.webp",
+            "type": "Criatura – Humano Hacker",
+            "edition": "",
+            "description": "Sempre que um oponente joga uma mágica instantânea ou feitiço, você pode fazer com que Alcyon se torne alvo daquela mágica ou feitiço. Se fizer isso, neutralize a mágica ou feitiço e coloque um marcador de \"\"Proteção\"\" em Alcyon. Remova três marcadores de \"\"Proteção\"\" de Alcyon: Olhe as cinco cartas do topo do seu grimório. Você pode revelar uma carta de artefato ou encantamento entre elas e adicioná-la à sua mão. Embaralhe as outras cartas de volta no seu grimório."
+        },
+        {
+            "id": "b3910ad9-b118-49a9-81cd-4d4a1a3250c5",
+            "name": "Anonymous",
+            "cost": "",
+            "image": "anonymous.webp",
+            "type": "Criatura – Hacktivista",
+            "edition": "",
+            "description": "Realize uma operação de hacking para expor o alvo selecionado. O jogador alvo revela a primeira carta do seu deck e a coloca no final do baralho."
+        },
+        {
+            "id": "38a19b22-4e1d-463a-a02e-06f0cf95c822",
+            "name": "Andrea Thome - Imperatriz WOMCY",
+            "cost": "",
+            "image": "andrea-thome-imperatriz-womcy.webp",
+            "type": "Criatura - GRC Expert",
+            "edition": "",
+            "description": "Durante a fase de ataque, caso o oponente escolha uma criatura para defender, essa criatura recebe -1/-1 até o final do turno. Se você for mulher, para cada criatura destruída ganhe +1 ponto de vida."
+        },
+        {
+            "id": "d5f207c5-406a-4bee-b5bf-32e1ec30f4bd",
+            "name": "Vrechson",
+            "cost": "{W}",
+            "image": "aprendiz-incansável-vrechson_-1.jpg",
+            "type": "Criatura - Bounty Hacker",
+            "edition": "",
+            "description": "Quando Vrechson entra no campo de batalha ou é colocado no cemitério vindo do campo de batalha, retorne uma carta do tipo certificação ou equipamento hacker do seu cemitério para sua mão. Vrechson recebe +1/+1 por cada carta de certificação ou equipamento hacker que você controla."
+        },
+        {
+            "id": "1ef15bc3-64d6-4e4b-ad01-f6fccd91ac57",
+            "name": "Antônio coOler",
+            "cost": "2{R}",
+            "image": "antônio-cooler.jpg",
+            "type": "Criatura — Hacker Raiz",
+            "edition": "",
+            "description": "Ímpeto Sempre que Antônio coOler atacar, você pode descartar um card. Se fizer isso, compre um card. {2}{R}, {T}, Sacrifique um artefato: Antônio coOler causa 2 pontos de dano a qualquer alvo."
+        },
+        {
+            "id": "7dd2b614-9e5b-4716-bb3f-077b67a9aafb",
+            "name": "Wagner Elias",
+            "cost": "{2U}",
+            "image": "appsec-warrior-wagner-elias-1.webp",
+            "type": "Criatura - Ancient Hacker",
+            "edition": "",
+            "description": "Sempre que um oponente joga uma magia instantânea ou feitiço, diga um número de 1-10 ao oponente, se ele errar o nome da vulnerabilidade do OWASP TOP10, Wagner Elias neutraliza uma magia instantânea ou feitiço. SQL Injection: {U}, e sacrifique um artefato: Destrua o artefato alvo."
+        },
+        {
+            "id": "437ef4a7-db37-44b7-90ff-553d9f5cf88c",
+            "name": "Apura",
+            "cost": "",
+            "image": "apura.webp",
+            "type": "Player Card",
+            "edition": "",
+            "description": "adicione {R} em sua pool de mana."
+        },
+        {
+            "id": "1f0ef9d1-9dfb-4ef7-9efc-1c0fe193f939",
+            "name": "Arquitetura — LV",
+            "cost": "",
+            "image": "arquitetura-lv.webp",
+            "type": "Encantamento Mítico",
+            "edition": "",
+            "description": "Quando Arquitetura — LV entra no campo de batalha, escolha um jogador. Este jogador deverá inverter o grimório e jogar com as cartas viradas para cima. \"\"Para alguns, a stack é invertida mesmo"
+        },
+        {
+            "id": "3e061585-e919-41ec-910f-cc08198bb7e4",
+            "name": "Arqu1t3t0s",
+            "cost": "{B}{B}",
+            "image": "arqu1t3t0s.webp",
+            "type": "Criatura - Mythological Hacker",
+            "edition": "",
+            "description": "Toda vez que você compra um card, você ganha 2 pontos de vida. Toda vez que um oponente compra um card, ele perde 2 pontos de vida."
+        },
+        {
+            "id": "3914fbc2-93e9-4d21-9162-3b12b91fe4e3",
+            "name": "Arthur Paixão",
+            "cost": "{3}{R}{W}",
+            "image": "arthur-paixão-2.jpg",
+            "type": "Criatura - CISSP Paladín",
+            "edition": "",
+            "description": "Impetu, Atropelar. Quando Arthur Paixão entra em jogo, escolha um — Trembolona — as outras criaturas que você controla recebem +2/+0 até o fim do turno. Testosterona — as outras criaturas que você controla recebem atropelar até o fim do turno. Reforço (Ao conjurar essa mágica você pode pagar o custo de reforço adicional para ativar ambas habilidades.)"
+        },
+        {
+            "id": "Thau0x01",
+            "name": "Arauto do Caos Cibernético",
+            "cost": "{B}{B}{B}",
+            "image": "arauto-do-caos-cibernético-thau0x01.jpg",
+            "type": "Criatura – Underground Pirate",
+            "edition": "",
+            "description": "Quando Thau0x01 entra no campo de batalha, todos jogadores descartam uma carta aleatoriamente. Sacrifique: O jogador alvo descarta duas cartas aleatoriamente. Ative esta habilidade a qualquer momento que você poderia jogar um feitiço."
+        },
+        {
+            "id": "001",
+            "name": "MASTERS OF PWNAGE",
+            "cost": "{R}{R}{G}{1}",
+            "image": "back-card.webp",
+            "type": "",
+            "edition": "",
+            "description": ""
+        },
+        {
+            "id": "7be118a8-a6b8-4f18-b242-dee527650424",
+            "name": "Aula de Geografia",
+            "cost": "",
+            "image": "aula-de-geografia.webp",
+            "type": "Encantamento – Aura",
+            "edition": "",
+            "description": "Aula de geografia entra em jogo encantando um terreno. O terreno encantado passa a se chamar \"\"Espírito Santo\"\" e as manas geradas por esse terreno podem ser usadas como se tivesse todas as cores. Sacrifique Aula de Geografia: Destrua a criatura alvo com nome Rodrigo Jorge, compre uma carta."
+        },
+        {
+            "id": "8fff9d48-5d2e-412f-8bdb-09394751e93a",
+            "name": "Bash bunny",
+            "cost": "{2}",
+            "image": "bash-bunny.webp",
+            "type": "Artefato — Ferramenta Hacker",
+            "edition": "",
+            "description": "1, T: Ganhe controle de um artefato alvo com custo de mana convertido igual ou inferior a 2 até o final do turno. 2, T, Sacrifique Bash bunny: Destrua um artefato alvo ou devolva um artefato alvo para a mão do seu dono."
+        },
+        {
+            "id": "eb6e434a-961d-4353-8ee4-f0b11da6f551",
+            "name": "Ave de Rapina",
+            "cost": "{3W}",
+            "image": "ave-de-rapina-2.webp",
+            "type": "Criatura — Ave de Rapina",
+            "edition": "",
+            "description": "Vigilância, Voar Sempre que Ave de Rapina atacar, previna o próximo 1 ponto de dano que seria causado a você neste turno. 1W: As criaturas que você controla ganham Vigilância até o final do turno."
+        },
+        {
+            "id": "820c8336-c7de-4d5f-ba4e-e7f33ccf60f2",
+            "name": "Assolini — Caçador de APT",
+            "cost": "elas deixam rastros que só caçadores sabem seguir.",
+            "image": "assolini-caçador-de-apt.jpg",
+            "type": "Criatura — Ancient Hacker",
+            "edition": "{3}{B}{G}",
+            "description": "Sempre que Assolini — Caçador de APT atacar, crie um token de artefato chamado Log com \"\"2, Sacrifique este artefato: Compre um card.\"\" {B}{G}, Sacrifique um Log: Exile uma carta do cemitério de um oponente. \"\"APT’s não desaparecem"
+        },
+        {
+            "id": "b30d3f76-73ff-402a-a937-f8be56a53ef4",
+            "name": "Black Hat Conference",
+            "cost": "",
+            "image": "black-hat-conference.webp",
+            "type": "Player Card",
+            "edition": "Cyber Land",
+            "description": ""
+        },
+        {
+            "id": "BrasNET",
+            "name": "Cyberland",
+            "cost": "{R}",
+            "image": "brasnet-3.webp",
+            "type": "Player Card",
+            "edition": "",
+            "description": ":tap_symbol:, Adiciona :red_mana: ao seu pool de mana. Aqui nasceu a cena Hacker brasileira | Thanks Mauritz!"
+        },
+        {
+            "id": "3181dc5b-a486-41ca-89d5-34dab6900745",
+            "name": "Willian Caprino",
+            "cost": "{2}{U}{B}",
+            "image": "billy-willian-caprino.webp",
+            "type": "Criatura — Jurassic Hacker",
+            "edition": "",
+            "description": "Infiltrar: Quando Willian Caprino entra no campo de batalha, escolha um oponente. Durante o turno desse jogador, você pode olhar a mão dele uma vez. Engenharia Social: {U}, Sacrifique Willian Caprino: Ganhe controle de um artefato ou criatura alvo que aquele jogador controle até o final do turno. Desvire essa permanente. Ele ganha ímpeto até o final do turno. Willian sabe que as melhores brechas são as humanas, não as digitais."
+        },
+        {
+            "id": "50aacdf1-66a5-494c-888d-6d842b5eaab4",
+            "name": "Blaze Information Security",
+            "cost": "3{U}{B}",
+            "image": "blaze-information-securitu.webp",
+            "type": "Planinauta — Hacker",
+            "edition": "",
+            "description": "+1: Até o final do próximo turno, uma criatura ou artefato que um oponente controla não pode atacar, bloquear ou ativar habilidades. -2: Exile o card do topo do grimório de um oponente. Você pode jogá-lo neste turno, e pode gastar mana como se fosse de qualquer cor para lançá-lo. -7: Você recebe um emblema com \"\"Toda vez que um oponente conjurar uma mágica, você pode olhar os três cards do topo do grimório dele e exilar um deles."
+        },
+        {
+            "id": "256d5c86-4138-4c19-ac23-c467b5908f07",
+            "name": "Bozo Awards",
+            "cost": "{U}{U}{1}",
+            "image": "bozo-awards.webp",
+            "type": "Mágica Instantânea",
+            "edition": "",
+            "description": "Magia lendária que revela a verdade sobre os impostores. Olhe a carta do topo do deck adversário e revele-a. Se essa carta for um card de criatura, destrua-a e ganhe 3 pontos de vida."
+        },
+        {
+            "id": "BTTng",
+            "name": "BTTng",
+            "cost": "{U}{U}",
+            "image": "bttng.webp",
+            "type": "Mágica Instantânea",
+            "edition": "",
+            "description": "Acesse instantaneamente todo o poder de inteligência de ameaças. Descubra informações valiosas sobre seus adversários e suas táticas. Olhe as próximas duas cartas do seu deck e revele a mão do seu adversário."
+        },
+        {
+            "id": "50a7b903-64eb-478a-89f9-10546bd10d05",
+            "name": "Cyber Land",
+            "cost": "",
+            "image": "bsidesjp-bsides-joão-pessoa.jpg",
+            "type": "Player Card",
+            "edition": "BSidesJP - BSides João Pessoa",
+            "description": "Adicione {G} na sua pool de mana."
+        },
+        {
+            "id": "952f143a-50a0-4d30-9165-f42bfeee8427",
+            "name": "Bravul",
+            "cost": "{R}{R}",
+            "image": "bravul.webp",
+            "type": "Mágica Instantânea",
+            "edition": "",
+            "description": "Cause 3 pontos de dano a qualquer alvo. Se esta mágica foi conjurada durante o combate, as criaturas que você controla ganham +1/+0 até o final do turno."
+        },
+        {
+            "id": "9a9d56db-ea55-4700-9de9-3508156ba1eb",
+            "name": "Bruno MPHX",
+            "cost": "{3}{B}",
+            "image": "bruno-mphx.webp",
+            "type": "Criatura — Underground Pirate",
+            "edition": "",
+            "description": "Sempre que uma criatura que um oponente controla morrer, você pode pagar 1. Se fizer isso, compre um card. ⚫, Sacrifique outra criatura: Coloque um marcador +1/+1 em Bruno MPHX."
+        },
+        {
+            "id": "d8fae171-a274-4e8d-94dd-8e58394c8370",
+            "name": "Breno Silva",
+            "cost": "{1}{1}{1}",
+            "image": "breno-silva-1.webp",
+            "type": "Criatura — Hacker Raiz",
+            "edition": "",
+            "description": "Patentes: Sempre que você conjura um feitiço de encantamento, coloque um marcador +1/+1 em Breno Silva. Habilidade: 1W, T: Olhe os três primeiros cards do seu deck. Você pode revelar um feitiço de encantamento entre eles e colocá-lo na sua mão. Coloque os demais no fundo do seu deck em qualquer ordem. Breno investe na construção de defesas tão robustas quanto seu arsenal de ataque. Poder/Resistência: 2/3"
+        },
+        {
+            "id": "736db4fa-63d1-443d-b021-2498abc9f33b",
+            "name": "Carol Bozza, Agente de vendas",
+            "cost": "2{U}{B}",
+            "image": "carol-bozza,-agente-de-vendas.webp",
+            "type": "Criatura — Humano Hacker",
+            "edition": "",
+            "description": "1, sacrifique um artefato, {T}: O jogador alvo revela uma carta do topo do seu deck. Se a carta revelada for do tipo terreno, este jogador descarta duas cartas e você compra duas cartas."
+        },
+        {
+            "id": "2cb78074-5132-4657-a93a-da34cab536f3",
+            "name": "Certified Ethical Hackudo",
+            "cost": "",
+            "image": "certified-ethical-hackudo.webp",
+            "type": "Encantamento — Certificação",
+            "edition": "",
+            "description": "Quando este encantamento entrar em jogo, cause 1 ponto de dano a qualquer alvo para cada certificação de segurança que você possui. Minhas 37 certificações provam que sou melhor que você."
+        },
+        {
+            "id": "6cdf0433-7646-4144-98d3-e3ab4dd2d88b",
+            "name": "Capitão Crunch",
+            "cost": "3{R}{R}{U}",
+            "image": "capitão-crunch-1.jpg",
+            "type": "Criatura – Hacker Mítico",
+            "edition": "",
+            "description": "Ímpeto Sempre que Capitão Crunch ataca, você pode escolher até dois alvos. Distribua 5 pontos de dano como desejar entre eles. 2{R}{U}, 🔄: Escolha um jogador. Esse jogador não pode jogar mágicas no próximo turno dele. \"\"Com um apito, eu coloco o mundo sob meus pés\"\" (John T. Draper) Poder/Toughness: 5/5"
+        },
+        {
+            "id": "dadde31c-c396-4e1f-9308-0948eb475ea0",
+            "name": "Cavaleiros do Zodíaco da SI",
+            "cost": "{2}{W}{B}",
+            "image": "cavaleiros-do-zodíaco-da-si-1.jpg",
+            "type": "Mágica Instantânea",
+            "edition": "",
+            "description": "Escolha até duas criaturas no campo de batalha. Até o final do turno, inverta o poder e a resistência dessas criaturas. \"\"Confundir o adversário é tão eficaz quanto o Deny do cosmos quando está ao seu lado."
+        },
+        {
+            "id": "460a9db2-335c-4f56-a64a-fe55666534dd",
+            "name": "Campanha de Phishing",
+            "cost": "{1}{U}{B}",
+            "image": "campanha-de-phishing.webp",
+            "type": "Feitiço",
+            "edition": "",
+            "description": "Revele os 3 cards do topo do grimório de um oponente. Escolha um deles. O oponente deve escolher: perder 3 pontos de vida ou você coloca o card escolhido em sua mão. Se um oponente controlar uma permanente com 'Hekate' ou 'Hacker Rangers' no nome, ele pode pagar {1} para anular esta mágica."
+        },
+        {
+            "id": "7227b39b-5006-40cc-9afe-aae4b17ec582",
+            "name": "Christiane Borges",
+            "cost": "",
+            "image": "christiane-borges-1.webp",
+            "type": "Criatura – Humano Hacker",
+            "edition": "",
+            "description": "Maker! Quando Christiane Borges entra em jogo, todas as cartas dos adversários são viradas."
+        },
+        {
+            "id": "CISSPBR",
+            "name": "Lista de discussão – CISSPBR",
+            "cost": "{U}{U}{U}",
+            "image": "cisspbr.webp",
+            "type": "Player Card",
+            "edition": "",
+            "description": "Adicione na sua pool de mana. Se você sabe o que é isso, considere-se um dinossauro."
+        },
+        {
+            "id": "f3a8e1fd-6cce-4926-99be-2254ba56be35",
+            "name": "OutOfBound",
+            "cost": "{G}{G}",
+            "image": "chuck,-out0fb0und-you-name-it!-maycon-vitali.webp",
+            "type": "Criatura - Underground Pirate",
+            "edition": "",
+            "description": "Quando OutOfBound entra em jogo, todos os adversários devem desbloquear seus celulares. O primeiro que receber uma mensagem deve mostrar para todos e se for áudio, perde 1 ponto de vida. Se for p0rn ganha 1 ponto de vida. Válido por 3 turnos."
+        },
+        {
+            "id": "chkrootkit",
+            "name": "chkrootkit",
+            "cost": "é sobre restaurar a ordem.",
+            "image": "chkrootkit-1.webp",
+            "type": "Encantamento",
+            "edition": "1{W}{W}{G}",
+            "description": "Detecção de Ameaças: No início da sua fase de manutenção, escolha um oponente aleatoriamente. Olhe o topo do deck desse oponente. Você pode colocar uma carta de criatura do topo do deck desse oponente no fundo do deck dele. Purificação de Sistema: 2{W}, Sacrifique chkrootkit: Exile todas as cartas do tipo rootkit de todos os jogadores. Para cada carta exilada desta forma, você ganha 1 ponto de vida. \"\"Limpeza não é apenas sobre remoção"
+        },
+        {
+            "id": "chuck_newbie",
+            "name": "chuck_newbie",
+            "cost": "{1}{U}{B}",
+            "image": "chuck_newbie-9.webp",
+            "type": "Criatura – Underground Pirate",
+            "edition": "",
+            "description": "Toda vez que chuck_newbie causa dano de combate a um jogador, você pode olhar a mão desse jogador e escolher um carta que não seja terreno. Aquele jogador descarta a carta escolhida. {U}{B}: chuck_newbie recebe \"\"não pode ser bloqueado\"\" até o final do turno."
+        },
+        {
+            "id": "## Clube dos Mercenários",
+            "name": "Cyber Land",
+            "cost": "{N/A}",
+            "image": "clube-dos-mercenários.jpg",
+            "type": "Player Card",
+            "edition": "",
+            "description": ""
+        },
+        {
+            "id": "80f1abf3-aa7b-4686-b021-0cea80fd05df",
+            "name": "Clandestine",
+            "cost": "{B}{B}",
+            "image": "clandestine.webp",
+            "type": "Creature — Underground Pirate",
+            "edition": "",
+            "description": "Deathtouch Whenever Clandestine deals damage to an opponent, look at the top card of that opponent's library. You may put that card into their graveyard. {B}{B}, {T}: Exile the top card of target opponent's library. \"\"True strength lies in information unseen by others."
+        },
+        {
+            "id": "b6cefff6-f6ef-4b8d-8378-5732dc06f282",
+            "name": "Cleiton MrCl0wn",
+            "cost": "",
+            "image": "cleiton-mrcl0wn-1.webp",
+            "type": "Criatura – Underground Pirate",
+            "edition": "",
+            "description": "Mestre em OSINT brasileiro. Quando MrCl0wn entra em jogo, você pode olhar as próximas três cartas do deck adversário e escolher a ordem em que elas serão colocadas no topo do deck. Se você estiver vestindo uma camisa do Imaginário Nerd & Hacker, ganhe 1 ponto de vida."
+        },
+        {
+            "id": "c6a8f86a-000c-4374-8a3c-cfe4682fbe1d",
+            "name": "Conscientização e Gamificação",
+            "cost": "{N/A}",
+            "image": "conscientização-e-gamificação.jpg",
+            "type": "Mágica Instantânea",
+            "edition": "",
+            "description": "Use a plataforma de gamificação da Hacker Rangers para educar e empoderar suas cartas. Sua criatura mais fraca fica com X de defesa, sendo X o maior valor de ataque do adversário."
+        },
+        {
+            "id": "7c7d8f56-c808-466b-a768-9bec5aedaba3",
+            "name": "Claudio Jack Chan - Ex-celente!",
+            "cost": "",
+            "image": "claudio-jack-chan-ex-celente!.webp",
+            "type": "Criatura - Humano Hacker",
+            "edition": "",
+            "description": "Quando Claudio \"\"Jack Chan\"\" entra em jogo, todos os jogadores que não estiverem vestindo um terno perdem 5 pontos de vida. Os jogadores que estiverem bebendo Whde vida."
+        },
+        {
+            "id": "213a23ef-0408-42b1-8f47-aea03c1150c6",
+            "name": "Firewall Humano",
+            "cost": "",
+            "image": "conscientização-em-segurança-firewall-humano.jpg",
+            "type": "Encantamento – Habilidade",
+            "edition": "",
+            "description": "Sempre que uma criatura que você controla se torna alvo de uma mágica ou habilidade que um oponente controla, você pode pagar 1. Se fizer isso, cancele aquela mágica ou habilidade."
+        },
+        {
+            "id": "fa9d512c-a9b9-4f56-90b5-375e69a051ce",
+            "name": "Conviso",
+            "cost": "",
+            "image": "conviso-platform-aspm-2.webp",
+            "type": "Player Card",
+            "edition": "",
+            "description": "*️⃣, adicione 🔵 a sua pool de mana."
+        },
+        {
+            "id": "972a266a-f565-42b1-9525-212fb8c03271",
+            "name": "Conviso Platform (ASPM)",
+            "cost": "{2}{U}",
+            "image": "conviso-platform-aspm-2.webp",
+            "type": "Encantamento - Habilidade Defensiva",
+            "edition": "",
+            "description": "Graças a maturidade de segurança no seu processo de desenvolvimento seguro, enquanto Conviso Platform permanecer em jogo todas criaturas que você controla recebem +0/+2."
+        },
+        {
+            "id": "ffd25549-0d64-4272-92ae-1942902d73d0",
+            "name": "Thais M.",
+            "cost": "1{U}{B}",
+            "image": "cpu-therapist-thais-m.) medium.webp",
+            "type": "Criatura — Mythological Hacker",
+            "edition": "",
+            "description": "Sempre que Thais M. causar dano de combate a um jogador, olhe o card do topo do grimório daquele jogador. Você pode colocá-lo no cemitério. 1{U}{B}, T: Olhe o card do topo do seu grimório. Você pode colocá-lo no fundo do grimório."
+        },
+        {
+            "id": "05dc99b4-e8c0-48ca-9911-33852b20a8c0",
+            "name": "CTF da H2HC",
+            "cost": "{B}{R}",
+            "image": "ctf-da-h2hc.webp",
+            "type": "Feitiço",
+            "edition": "",
+            "description": "Destrua até duas cyberlands que um oponente controla. Se terrenos forem destruídos desta forma, você pode buscar no seu grimório uma cyberland e colocá-lo no campo de batalha virado. Em seguida, embaralhe seu grimório. \"\"Vocês podem jogar o jogo, mas o tabuleiro é nosso..."
+        },
+        {
+            "id": "ac01c667-eb2d-42ae-8d5c-409d7f14da29",
+            "name": "Cymulate Platform",
+            "cost": "{3}",
+            "image": "cymulate-platform.webp",
+            "type": "Artefato — Ferramenta Hacker",
+            "edition": "",
+            "description": "Habilidade 1: :tap: Adicione 1 de mana. Habilidade 2: 2, :tap: Revele os três cards do topo do seu grimório. Você pode colocar um card de artefato revelado desta forma em sua mão. Coloque os demais no fundo do seu grimório em qualquer ordem."
+        },
+        {
+            "id": "1aeb2108-50ec-4ea4-bd1e-d9d28dad36cd",
+            "name": "Curso Hacker",
+            "cost": "{U}{U}{1}",
+            "image": "curso-hacker.webp",
+            "type": "Mágica instantânea",
+            "edition": "",
+            "description": "Faça esse curso e vire um hacker. Ganhe uma máscara igual do Anonymous e tente invadir o Instagram de alguém. Invada o deck do seu adversário, pegue uma carta aleatória, mas deixe uma carta sua com ele, pois você não soube esconder seu IP."
+        },
+        {
+            "id": "0c3b4bbc-bf69-480e-b59c-d3f13cb1b924",
+            "name": "Cybelle Oliveira",
+            "cost": "{2}{U}{U}",
+            "image": "cybelle-oliveira.webp",
+            "type": "Criatura — Humano Hacker",
+            "edition": "",
+            "description": "Quando Cybelle entra no campo de batalha, olhe os três primeiros cards do topo do seu deck. Você pode revelar uma carta de encantamento ou feitiço dentre eles e colocá-la na sua mão. Coloque os demais cards no fundo do seu deck em qualquer ordem. Fofoca de Malware: Sempre que você joga um feitiço de encantamento ou feitiço, você pode escolher um jogador. Esse jogador revela os três cards do topo do deck. Exile uma das cartas que seja um feitiço ou uma criatura até Cybelle deixar o campo de batalha. Estar sempre um passo à frente não é apenas útil, é essencial."
+        },
+        {
+            "id": "54d45b13-652b-4041-a6bd-1d25de3a901d",
+            "name": "Daiane, Nascida Da Lótus Negra",
+            "cost": "",
+            "image": "daiane,-nascida-da-lótus-negra-2.jpg",
+            "type": "Criatura - Mobile Hacker",
+            "edition": "",
+            "description": "Afinidade por dispositivos móveis. (Esta carta custa 1 a menos para conjurar por cada dispositivo móvel que você possua) Tap, Sacrifique: Adicione 3 manas de qualquer cor à sua reserva de mana. 0/2 Player Card"
+        },
+        {
+            "id": "6ea76b60-d153-4c34-ad26-e34d939eb1d8",
+            "name": "Cult of Dead Cow",
+            "cost": "{B}{B}{2}",
+            "image": "cult-of-dead-cow.webp",
+            "type": "Criatura — Ancient Hacker",
+            "edition": "",
+            "description": "Quando Cult of Dead Cow entra no campo de batalha, o oponente alvo revela a própria mão. Você pode exilar um card dela com valor de mana 3 ou menos. Se um jogador descartar um card devido a um efeito que você controla, você pode comprar um card. Liberdade não se dá, se toma... um exploit por vez."
+        },
+        {
+            "id": "af739a1b-9bc4-4358-9a39-e5e08791209d",
+            "name": "Daniel Chactoura — d3v",
+            "cost": "{R}",
+            "image": "daniel-chactoura-d3v.webp",
+            "type": "Criatura — Pentester",
+            "edition": "",
+            "description": "Ímpeto Quando Daniel Chactoura — d3v entra no campo de batalha, você pode causar 2 pontos de dano a qualquer alvo. Toda vez que você conjurar uma mágica instantânea ou feitiço, Daniel Chactoura — d3v recebe +1/+0 até o final do turno."
+        },
+        {
+            "id": "be2094c4-55c8-4a69-8225-1e03e65e6f18",
+            "name": "Deauth Attack",
+            "cost": "{2}{B}",
+            "image": "deauth-attack.webp",
+            "type": "Mágica instantânea",
+            "edition": "",
+            "description": "Equipamentos perdem todas as suas habilidades e não podem ser equipados até o final do turno. Além disso, se você controlar uma permanente com 'CTF' ou 'H2HC' no nome, seus oponentes não podem conjurar mágicas de artefato neste turno."
+        },
+        {
+            "id": "5f23a8fd-2581-446f-87af-01e8e57a78c7",
+            "name": "Dark Waves Conference",
+            "cost": "",
+            "image": "dark-waves-conference.webp",
+            "type": "Player Card",
+            "edition": "",
+            "description": "Cyber Land Ability: :tap: adicione :skull: em sua mana pool. Para cada login/senha FTP válidos capturados via WIFI adicione uma mana extra."
+        },
+        {
+            "id": "4015a522-d27b-4577-b2bd-336bddede13a",
+            "name": "Danios",
+            "cost": "",
+            "image": "daniel-oi_.webp",
+            "type": "Criatura – Humano Hacker",
+            "edition": "",
+            "description": "Habilidades: - 2, T: Previna todo o dano de combate que seria causado a você e a criaturas que você controla neste turno. - Sacrifique Alexos: Criaturas que você controla ganham proteção contra a cor escolhida até o final do turno. 1/4 Player Card"
+        },
+        {
+            "id": "b6de3052-57b0-468b-a1cc-6397ce03d7b6",
+            "name": "Garoa Hacker Clube",
+            "cost": "",
+            "image": "garoa-hacker-clube.webp",
+            "type": "Hacker Clube",
+            "edition": "",
+            "description": ":tap: Adicione :blue_circle:"
+        },
+        {
+            "id": "ea3ff415-bcc6-4fd5-8618-563beff60cb7",
+            "name": "GoHacking - EHPX",
+            "cost": "{2}{U}{B}",
+            "image": "gohacking-ehpx.webp",
+            "type": "Encantamento — Treinamento",
+            "edition": "",
+            "description": "Quando GoHacking - EHPX entrar no campo de batalha, crie um token de artefato chamado Script Injetável que é um artefato com: \"\"🔄,a história revela uma verdade escondida."
+        },
+        {
+            "id": "ff49e2f8-98bd-43fd-85d1-814ad1e16471",
+            "name": "Lucas Pinheiro",
+            "cost": "",
+            "image": "lucas-pinheiro.webp",
+            "type": "Criatura — Humano Hacker",
+            "edition": "RedZone",
+            "description": "Quando Lucas Pinheiro entrar no campo de batalha, procure em seu grimório por um card chamado Plataforma Cymulate, revele-o e coloque-o em sua mão. Em seguida, embaralhe seu2.jpg"
+        },
+        {
+            "id": "01292e65-54fd-4af2-9c2a-7519b5a74d5b",
+            "name": "Ricardo Iramar",
+            "cost": "",
+            "image": "ricardo-iramar-1.webp",
+            "type": "Criatura – Humano Hacker",
+            "edition": "",
+            "description": "2, T: Escolha um oponente. O oponente alvo revela uma carta aleatoriamente de sua mão, se a carta revelada for um feitiço ou mágica instantânea, você pode conjurar uma cópia dessa carta sem pagar seu custo de mana."
+        },
+        {
+            "id": "2",
+            "name": "Roberto Espreto",
+            "cost": "{B}{B}",
+            "image": "roberto-espreto.webp",
+            "type": "Criatura — Hacker Raiz",
+            "edition": "",
+            "description": "Toda vez que uma criatura de um oponente morrer, você pode ganhar 2 pontos de vida. ⚫️, Sacrifique outra criatura: Exile um card do cemitério de um oponente. Se o card exilado for uma criatura, coloque um marcador +1/+1 em Roberto Espreto."
+        },
+        {
+            "id": "1",
+            "name": "Ricardo L0gan",
+            "cost": "{1}{B}{B}",
+            "image": "ricardo-l0gan.webp",
+            "type": "Criatura - Underground Pirate",
+            "edition": "",
+            "description": "Especialista em macOS/Mach-O Files Ao conjurar o L0gan todos seus dispositivos iOS ficam bloqueados até o fim da partida. Se você tem macOS/iPhone, descarte uma carta de magia."
+        },
+        {
+            "id": "7e01ad93-7f7f-4a45-8db7-1b3aad58a4ed",
+            "name": "Rodolpho Rod0x",
+            "cost": "{G}{U}",
+            "image": "rodolpho-rod0x.webp",
+            "type": "Criatura — Humano Hacker",
+            "edition": "",
+            "description": "Sempre que Rodolpho Rod0x atacar, você pode revelar os três cards do topo do seu grimório. Coloque todos os terrenos revelados desta forma no campo de batalha virados e o restante no fundo do grimório em qualquer ordem. :green::blue:, :tap:: Escolha um oponente. Aquele jogador revela um card aleatório da mão. Se for uma mágica, você pode copiá-la e escolher novos alvos para a cópia."
+        },
+        {
+            "id": "f9a1cd68-c324-4cea-bd0d-5b1f35406962",
+            "name": "Rodrigo Escobar (ipax)",
+            "cost": "{B}{R}{1}",
+            "image": "rodrigo-escobar-ipax.webp",
+            "type": "Criatura — Hacker Raiz",
+            "edition": "",
+            "description": "Quando Rodrigo Escobar (ipax) entra no campo de batalha, escolha uma criatura ou artefato que um oponente controla. Até o final do turno, ganhe controle daquela permanente. Se ela for sacrificada neste turno, cause 2 pontos de dano a qualquer alvo. Sempre que você sacrificar um artefato, compre um card."
+        },
+        {
+            "id": "b5ecb142-f639-4fd4-9a10-17aeeb5df803",
+            "name": "Rob Robert — Cyber Avenger",
+            "cost": "3{R}{W}",
+            "image": "rob-robert-cyber-avenger.webp",
+            "type": "Criatura — Diva Hacker",
+            "edition": "",
+            "description": "Ímpeto Sempre que Rob Robert — Cyber Avenger atacar, você pode destruir um artefato alvo que um oponente controla. Se fizer isso, Rob Robert — Cyber Avenger ganha indestrutível até o final do turno. {R}, {W}, {T}: Rob Robert — Cyber Avenger causa 2 pontos de dano a qualquer alvo e você ganha 1 pontos de vida. \"\"No mundo digital, ela é a chama que purifica as sombras."
+        },
+        {
+            "id": "05",
+            "name": "Cyber Land",
+            "cost": "",
+            "image": "sem-mestres,-sem-lamahs,-sem-deuses...-somente-nós-e-nossas-máquinas. (zine axur 05) medium.jpg",
+            "type": "Player Card",
+            "edition": "",
+            "description": "Adicione ♻️"
+        },
+        {
+            "id": "51a41501-ce0b-42da-b359-114687016c17",
+            "name": "Security BSides São Paulo (BSidesSP)",
+            "cost": "",
+            "image": "security-bsides-são-paulo-bsidessp.jpg",
+            "type": "Conferência / BSidesSP",
+            "edition": "",
+            "description": ""
+        }
+    ]
+}
