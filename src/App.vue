@@ -7,7 +7,7 @@
     </header>
     <main>
       <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
-        <CardDeckSelector />
+        <CardDeckSelector/>
       </div>
     </main>
   </div>
@@ -15,11 +15,18 @@
 
 <script>
 import CardDeckSelector from './components/CardDeckSelector.vue'
+import Card from './components/Card.vue'
+import CardSelector from './components/CardSelector.vue'
+import DeckBuilder from './components/DeckBuilder.vue'
+
 
 export default {
   name: 'App',
   components: {
-    CardDeckSelector
+    CardDeckSelector,
+    Card,
+    CardSelector,
+    DeckBuilder
   }
 }
 </script>
