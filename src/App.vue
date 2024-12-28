@@ -20,10 +20,7 @@ import CardDeckSelector from './components/CardDeckSelector.vue'
 export default {
   name: 'App',
   components: {
-    CardDeckSelector,
-    Card,
-    CardSelector,
-    DeckBuilder
+    CardDeckSelector
   }
 }
 </script>
