@@ -1,0 +1,10 @@
+{
+    "id": "4fe40f03-846d-4e41-97d0-cdb8c98cd9ab",
+    "name": "Octopus SIEM",
+    "cost": "{4}{U}{U}",
+    "type": "Instant",
+    "description": "Analisa as jogadas passadas e alerta para as ameaças futuras. Esta carta anula a mágica instantânea e previne o dano de combate até o fim do turno. Revele as duas primeiras cartas do deck do adversário e coloque uma delas na parte inferior do deck dele.",
+    "image": "Octopus SIEM.webp",
+    "edition": null,
+    "year": null
+}

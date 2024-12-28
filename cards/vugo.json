@@ -1,0 +1,12 @@
+{
+    "id": "2c5ce984-5af9-41d9-9cae-0d1b65ebd81d",
+    "name": "Yugo",
+    "cost": "{2}{B}",
+    "type": "Creature — Underground Pirate",
+    "description": "Furtivoidade: Esta criatura não pode ser bloqueada por criaturas com poder igual ou superior ao dela.\nSempre que Yugo causar dano de combate a um jogador, olhe os dois cards do topo do grimório daquele jogador. Exile um deles e coloque o outro no fundo do grimório.\n{B}, Sacrifique um artefato: Coloque um +1/+1 contador em Yugo.",
+    "image": "Yugo.webp",
+    "edition": null,
+    "year": null,
+    "power": 2,
+    "toughness": 3
+}

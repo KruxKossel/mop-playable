@@ -1,0 +1,10 @@
+{
+    "id": "77d69e5f-14cf-449e-b915-af7a686b2ba0",
+    "name": "OmniSec",
+    "cost": "{2}{W}{U}{B}{R}{G}",
+    "type": "Encantamento Mitico",
+    "description": "Quando OmniSEC entra no campo de batalha, exila todas as outras magicas e habilidades na pilha. Cada jogador ganha controle de todas as criaturas que ele proprio controlava antes das magicas exiladas serem jogadas. Cada jogador revela as cartas do topo do seu deck ate revelar uma carta do tipo criatura, artefato, feitico, encantamento ou planinautir. Cada jogador coloca essa carta em seu mao. Coloque o restante no fundo do deck em qualquer ordem.",
+    "image": "OmniSec.webp",
+    "edition": null,
+    "year": null
+}

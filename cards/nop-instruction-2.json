@@ -1,0 +1,11 @@
+{
+    "id": "c13d7cc8-ecdf-4ad5-bfda-d91ff20e6f71",
+    "name": "NOP Instruction",
+    "cost": "{2}",
+    "type": "Encantamento",
+    "description": "Quando NOP Instruction entrar no campo de batalha, escolha uma criatura. Enquanto NOP Instruction permanecer no campo de batalha, a criatura escolhida não pode atacar ou bloquear.",
+    "image": "NOP Instruction.webp",
+    "edition": null,
+    "year": null,
+    "flavor": "\"Nem toda ação precisa de uma resposta imediata; às vezes, você apenas para o código no lugar certo.\""
+}

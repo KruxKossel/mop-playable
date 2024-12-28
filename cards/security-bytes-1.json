@@ -1,0 +1,10 @@
+{
+    "id": "d2db8b78-1f22-4cb1-b4aa-0dd1a2cd175c",
+    "name": "Security Bytes",
+    "cost": "{3}{U}{B}",
+    "type": "Planinautas — Conferéncia",
+    "description": "Compre um card e depois descarte um card. Se você descartar uma mágica ou artefato, ganhe 2 pontos de vida. +1: Crie um token de artefato chamado \"Estação de Monitoramento\" com \"Adicione uma mana de qualquer cor.\" -2: Você recebe um emblema com \"Artefatos que você controla têm \"{T}, Pague {1}: Compre um card.\"",
+    "image": "Security Bytes.webp",
+    "edition": null,
+    "year": null
+}

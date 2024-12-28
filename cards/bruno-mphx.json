@@ -1,0 +1,12 @@
+{
+    "id": "b7ed7aab-a969-4cc9-8b20-f6d0a0b88512",
+    "name": "Bruno MPHX",
+    "cost": "{3}{B}",
+    "type": "Criatura — Underground Pirate",
+    "description": "Sempre que uma criatura que um oponente controla morrer, você pode pagar {1}. Se fizer isso, compre um card. {B}, Sacrifique outra criatura: Coloque um marcador +1/+1 em Bruno MPHX.",
+    "image": "Bruno MPHX.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 3
+}

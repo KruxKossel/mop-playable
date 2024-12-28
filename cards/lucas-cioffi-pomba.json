@@ -1,0 +1,12 @@
+{
+    "id": "29876e6d-5c17-4ba1-a449-5ca99fc1629d",
+    "name": "Lucas Cioffi — Pomba",
+    "cost": "{2}{U}{R}",
+    "type": "Criatura — Cloud Hacker",
+    "description": "Quando Lucas Cioffi — Pomba entra no campo de batalha, você pode procurar em seu grimório por um card de artefato com custo de mana convertido igual ou inferior a 3, revelá-lo e colocá-lo em sua mão. Em seguida, embaralhe seu grimório. {4}{U}, {T}: Exile um card de artefato de um cemitério. Lucas Cioffi — Pomba causa 2 danos a qualquer alvo.",
+    "image": "Lucas Cioffi — Pomba.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 3
+}

@@ -1,0 +1,12 @@
+{
+    "id": "b5abf8c1-1a47-4b4b-b1ac-bdc5762d7db8",
+    "name": "Rodrigo Sp0oKer",
+    "cost": "{2}{U}",
+    "type": "Criatura - Cloud Hacker",
+    "description": "Sempre que você jogar uma carta de Cyber Land, procure em seu grimório por uma carta de Encantamento, Habilidade e coloque-a no topo. Sacrifique uma Cyber Land: Rodrigo Sp0oKer fica indestruível até o final do turno. Esta habilidade só pode ser ativada uma vez por turno. No seu próximo redor da mesa e ganhe +1/+1.",
+    "image": "Rodrigo Sp0oKer.webp",
+    "edition": null,
+    "year": null,
+    "power": 1,
+    "toughness": 4
+}

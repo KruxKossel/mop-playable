@@ -1,0 +1,10 @@
+{
+    "id": "9c2981a4-14b9-4b64-8b1c-6af349f4b91f",
+    "name": "Vrechson",
+    "cost": "{1}{B}",
+    "type": "Criatura - Bounty Hacker",
+    "description": "Quando Vrechson entra no campo de batalha ou é colocado no cemitério vindo do campo de batalha retorne uma carta do tipo certificação ou equipamento hacker do seu cemitério para sua mão. Vrechson recebe +1/+1 por cada carta de certificação ou equipamento hacker que você controla.",
+    "image": "Vrechson.webp",
+    "edition": null,
+    "year": null
+}

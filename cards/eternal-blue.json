@@ -1,0 +1,11 @@
+{
+    "id": "69a4eaf5-5acc-4d71-a904-a1089c0d0e57",
+    "name": "Eternal Blue",
+    "cost": "{U}{U}{U}",
+    "type": "Instant",
+    "description": "Exploit (When you cast this spell, you may sacrifice a creature as an additional cost.)\nIf Eternal Blue was Exploited, target player draws three cards. Otherwise, that player draws two cards.",
+    "image": "Eternal Blue.webp",
+    "edition": null,
+    "year": null,
+    "flavor": "\"Eternity obeys neither mortal rules, nor mortal fins as the seas.\""
+}

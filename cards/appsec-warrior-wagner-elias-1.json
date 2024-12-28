@@ -1,0 +1,12 @@
+{
+    "id": "71cc9f81-0b69-4c31-8cd5-c4d6a6d6e769",
+    "name": "Wagner Elias",
+    "cost": "{2}{U}",
+    "type": "Creature - Ancient Hacker",
+    "description": "Sempre que um oponente joga uma magia instantânea ou feitiço, diga um número de 1-10 ao oponente, se ele errar o nome da vulnerabilidade do OWASP TOP10, Wagner Elias neutraliza uma magia instantânea ou feitiço.\nSQL Injection: Sacrifique um artefato: Destrua o artefato alvo.",
+    "image": "Wagner Elias.webp",
+    "edition": null,
+    "year": null,
+    "power": 1,
+    "toughness": 4
+}

@@ -1,0 +1,12 @@
+{
+    "id": "f3b00b98-6d27-4f03-afcf-2a2be8c75c34",
+    "name": "Capitão Crunch",
+    "cost": "{3}{R}{R}{U}",
+    "type": "Criatura — Hacker Mítico",
+    "description": "Ímpeto\nSempre que Capitão Crunch ataca, você pode escolher até dois alvos. Distribua 5 pontos de dano como desejar entre eles.\nEscolha um jogador: Esse jogador não pode empilhar mágicas no próximo turno dele.",
+    "image": "Capitão Crunch.webp",
+    "edition": null,
+    "year": null,
+    "power": 5,
+    "toughness": 5
+}

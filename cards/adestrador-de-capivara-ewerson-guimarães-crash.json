@@ -1,0 +1,12 @@
+{
+    "id": "a4b5d392-e945-4f43-9189-3abf86fc2e8e",
+    "name": "Ewerson Guimarães - Crash",
+    "cost": "",
+    "type": "Criatura - Anscient Hacker",
+    "description": "Durante 3 turnos quando um jogador for comprar a primeira carta de seu turno, você pode olhar a carta e decidir se o jogador deve comprá-la ou descartá-la. Caso decida pelo descarte, o jogador compra uma carta.",
+    "image": "adestrador-de-capivara-ewerson-guimarães-crash.webp",
+    "edition": "Player Card",
+    "year": "",
+    "power": 3,
+    "toughness": 3
+}

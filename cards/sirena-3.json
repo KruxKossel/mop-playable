@@ -1,0 +1,10 @@
+{
+    "id": "38b4aa2e-f143-4cfd-aac0-1d687c761a07",
+    "name": "Sirena",
+    "cost": "{2}{G}{G}",
+    "type": "Criatura - Plananauta",
+    "description": "Até o final do turno, uma criatura alvo que você controla ganha Vigilância e indestruível. {-2}: Crie dois tokens de criatura branca 1/1 com Vigilância. {-6}: Você recebe um emblema com \"Criaturas que você controla têm Vigilância e recebem +2/+2.\"",
+    "image": "Sirena.webp",
+    "edition": null,
+    "year": null
+}

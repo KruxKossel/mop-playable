@@ -1,0 +1,10 @@
+{
+    "id": "c7fdc908-d17b-4aa1-bb87-0e89d6995c23",
+    "name": "Hacking Club",
+    "cost": "{2}{R}",
+    "type": "Planinautas — Hacker",
+    "description": "+1: Escolha até um artefato ou criatura. Até o final do próximo turno, aquele permanente não pode atacar, bloquear ou ativar habilidades.\n-2: Crie um token de artefato chamado \"Exploit\" como \"Sacrifique este artefato: Compre um carta.\"\n-7: Você recebe um emblema com: \"Toda vez que um oponente descartar uma carta, você pode jogar cartas exiladas desta forma e usar mana como se fossem permanentes que você controla.\"",
+    "image": "Hacking Club.webp",
+    "edition": null,
+    "year": null
+}

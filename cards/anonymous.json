@@ -1,0 +1,10 @@
+{
+    "id": "4a3c5f80-f4c5-4a58-98f1-0baf1b884572",
+    "name": "Anonymmous",
+    "cost": "{R}",
+    "type": "Criatura - Hacktivista",
+    "description": "Realize uma operação de hacking para expor o alvo selecionado. O jogador alvo revela a primeira carta do seu deck e a coloca no final do baralho.",
+    "image": "Anonymmous.webp",
+    "edition": "Player Card",
+    "year": null
+}

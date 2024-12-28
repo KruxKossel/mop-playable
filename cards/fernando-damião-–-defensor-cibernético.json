@@ -1,0 +1,12 @@
+{
+    "id": "4bb6b9e3-6c82-4f24-8901-d4f0ad4b89ca",
+    "name": "Fernando Damião – Defensor Cibernético",
+    "cost": "{2}{W}{U}",
+    "type": "Criatura — Humano Hacker",
+    "description": "Suas criaturas e artefatos tem Ward 2. (Sempre que uma criatura ou artefato que você controla for alvo de uma magia ou habilidade que um oponente controla, anule-a a menos que este oponente pague {2})\n{X}{1}: Sacrifique Fernando Damião – Defensor Cibernético, previna todo dano de combate que seria causado a você e as permanentes que você controla até o final do turno.",
+    "image": "Fernando Damião – Defensor Cibernético.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 4
+}

@@ -1,0 +1,10 @@
+{
+    "id": "e3ddf798-3c5b-4d7d-9b77-d7eb845f8e4f",
+    "name": "Jordan Bonagura",
+    "cost": "{2}{U}{B}",
+    "type": "Criatura — Ancient Hacker",
+    "description": "Quando Jordan Bonagura entra no campo de batalha, você pode procurar no seu deck por uma carta de conferência e colocá-la em sua mão, depois embaralhe seu deck.\nÀ: {T}, {Q}: Jordan Bonagura realiza um teste de intrusão. Olhe o topo do deck de até dois oponentes. Você pode escolher uma das cartas vistas e colocar essa carta no fundo do respectivo oponente.",
+    "image": "Jordan Bonagura.webp",
+    "edition": null,
+    "year": null
+}

@@ -1,0 +1,12 @@
+{
+    "id": "f90f7462-47ea-494c-9e38-dfe82b1d48d5",
+    "name": "chuck_newbie",
+    "cost": "{1}{B}{R}",
+    "type": "Creature - Underground Pirate",
+    "description": "Toda vez que chuck_newbie causa dano de combate a um jogador, voce pode olhar a mao desse jogador e escolher um carta que nao seja terreno. Aquele jogador descarta a carta escolhida. \n{B}: chuck_newbie recebe \"nao pode ser bloqueado\" ate o final do turno.",
+    "image": "chuck_newbie.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 1
+}

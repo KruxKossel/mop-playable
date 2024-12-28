@@ -1,0 +1,12 @@
+{
+    "id": "7a823a02-f7fd-4d05-aa3f-33598dc04aee",
+    "name": "Maycon Vitali",
+    "cost": "{3}{G}",
+    "type": "Creature - Underground Pirate",
+    "description": "Affinity for artifacts. (This spell costs {1} less to cast for each artifact you control.)\n{5}{G}: Maycon Vitali gains \"can't be blocked\" until end of turn.",
+    "image": "Maycon Vitali.webp",
+    "edition": null,
+    "year": null,
+    "power": 5,
+    "toughness": 2
+}

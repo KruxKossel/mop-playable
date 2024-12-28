@@ -1,0 +1,13 @@
+{
+    "id": "07634534-5d05-4b5a-8a67-b52fbd2f10a2",
+    "name": "Rafael Capucho",
+    "cost": "{2}{G}",
+    "type": "Criatura — Humano Hacker",
+    "description": "Alcance\nSempre que um artefato entrar no campo de batalha sob seu controle, você ganha 2 pontos de vida.\n{0}, {G}: Destrúa o artefato alvo.",
+    "flavor": "\"Simplesmente, o maior Hacker do Brasil\"",
+    "image": "Rafael Capucho.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 4
+}

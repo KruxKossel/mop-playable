@@ -1,0 +1,12 @@
+{
+    "id": "f2e37c8d-13cd-4f2e-a230-c654c98bcf8d",
+    "name": "Maycon Vitalì",
+    "cost": "{G}{B}",
+    "type": "Criatura - Underground Pirate",
+    "description": "Quando Outf{TR}0und entra em jogo, todos os adversários devem desbloquear seus celulares. O primeiro que receber uma mensagem deve mostrá-la para todos e se for áudio, perde 1 ponto de vida. Se for p0rn, ganha 1 ponto de vida. Válido por 3 turnos.",
+    "image": "Maycon Vitalì.webp",
+    "edition": "Player Card",
+    "year": null,
+    "power": 5,
+    "toughness": 2
+}

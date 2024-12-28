@@ -1,0 +1,10 @@
+{
+    "id": "4e0f8512-cf98-42e5-a208-27dea80cc7b4",
+    "name": "Herrera",
+    "cost": "{0}{0}{0}",
+    "type": "Criatura - Bounty Hacker",
+    "description": "Quando Herrera entra no campo de batalha busque em seu grimório por uma carta de magia instantânea ou feitiço do tipo vexílio de browser e coloque em sua mão, embaralhe. Pague 2 pontos de vida: Você pode conjurar cartas de tipo vexílio de browser sem pagar seu custo de mana. Use essa habilidade somente uma vez por turno.",
+    "image": "Herrera.webp",
+    "edition": "Marg dos Browsers",
+    "year": ""
+}

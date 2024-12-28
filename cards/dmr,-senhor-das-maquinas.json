@@ -1,0 +1,12 @@
+{
+    "id": "b3a42f07-2a0b-4e52-b1e6-adb8df4c239a",
+    "name": "Dmr, Senhor das Maquinas",
+    "cost": "{3},{B},{R}",
+    "type": "Criatura Lendária - Ancient Hacker",
+    "description": "Impeto, iniciativa\nQuando Dmr, Senhor das Maquinas entra no campo de batalha, crie uma ficha de criatura 1/1 do tipo android \"x86\" e uma ficha de criatura 2/2 do tipo android \"x64\".\n• Sacrifique uma criatura do tipo android: Dmr, causa 3 pontos de dano ao jogador ou criatura alvo e você ganha 3 pontos de vida.",
+    "image": "Dmr, Senhor das Maquinas.webp",
+    "edition": null,
+    "year": null,
+    "power": 4,
+    "toughness": 1
+}

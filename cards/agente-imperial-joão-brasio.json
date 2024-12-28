@@ -1,0 +1,10 @@
+{
+    "id": "0b9d7cd7-4d6f-4f88-a03f-7d7ed90a633f",
+    "name": "João Brasio",
+    "cost": "{3}{B}{B}",
+    "type": "Criatura - Humano Hacker",
+    "description": "Vigilância: Proteção contra underground.\nVigilância\nQuando João Brasio entra no campo de batalha, olhe a mão do jogador alvo, escolha uma carta do tipo criatura Hacker; o jogador alvo descarta esta carta. Se a carta contiver o tipo underground, este jogador perde 5 pontos de vida.",
+    "image": "joão-brasio.webp",
+    "edition": "Player Card",
+    "year": ""
+}

@@ -1,0 +1,11 @@
+{
+    "id": "0fb9cbc3-64e3-4e71-a1e2-89df3bdb6548",
+    "name": "Linha de Defesa",
+    "cost": "{1}{W}",
+    "type": "Mágica Instantânea",
+    "description": "Previna todo o dano que seria causado a você e a criaturas que você controla neste turno.\n\nSe um oponente atacou com três ou mais criaturas neste turno, crie um token de criatura branca 1/1 com Vigilância.",
+    "image": "Linha de Defesa.webp",
+    "edition": null,
+    "year": null,
+    "flavor": "\"A primeira barreira nunca cai enquanto houver quem a redefenda\""
+}

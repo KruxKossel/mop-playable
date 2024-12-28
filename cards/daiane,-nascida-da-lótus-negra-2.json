@@ -1,0 +1,12 @@
+{
+    "id": "7e0bcc66-4f6c-4f9e-8ed3-d703395f1c3b",
+    "name": "Daiane, Nascida Da Lótus Negra",
+    "cost": "{3}",
+    "type": "Criatura - Mobile Hacker",
+    "description": "Afinidade por dispositivos móveis. (Este criatura custa {1} menos para comprar por cada dispositivo móvel que você possui) {0}, Sacrifique: Adicione 3 manas de qualquer cor à sua reserva de mana.",
+    "image": "Daiane, Nascida Da Lótus Negra.webp",
+    "edition": null,
+    "year": null,
+    "power": 0,
+    "toughness": 2
+}

@@ -1,0 +1,12 @@
+{
+    "id": "c6fc26fb-19d5-409f-aa66-ce621da0f1d9",
+    "name": "Assolini — Caçador de APT",
+    "cost": "{3}{B}{G}",
+    "type": "Criatura — Ancient Hacker",
+    "description": "Sempre que Assolini — Caçador de APT atacar, crie um token de artefato chamado Log com \"2, Sacrifique este artefato: Compre um card.\" {B}{G}, Sacrifique um Log: Exile uma carta do cemitério de um oponente.",
+    "image": "Assolini — Caçador de APT.webp",
+    "edition": null,
+    "year": null,
+    "power": 4,
+    "toughness": 4
+}

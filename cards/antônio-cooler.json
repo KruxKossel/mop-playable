@@ -1,0 +1,12 @@
+{
+    "id": "f91eda1e-4754-4d17-b891-d2c51d50f9d2",
+    "name": "Antônio coOler",
+    "cost": "{2}{R}",
+    "type": "Criatura — Hacker Raiz",
+    "description": "Imbato\nSempre que Antônio coOler atacar, você pode descartar um card. Se fizer isso, compre um card.\n{2}, {T}, Sacrifique um artefato: Antônio coOler causa 2 pontos de dano a qualquer alvo.",
+    "image": "Antônio coOler.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 2
+}

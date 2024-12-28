@@ -1,0 +1,10 @@
+{
+    "id": "cfa99bc7-8b6e-4c0d-ac37-e5cd47d74f1d",
+    "name": "Endrigo Antonini",
+    "cost": "{W}{B}{B}",
+    "type": "Creature — CISSP Paladin",
+    "description": "Vigilance\nWhen Endrigo Antonini enters the battlefield, you gain 3 life.\n{W}, {B}: Prevent the next 1 damage that would be dealt to any target this turn.",
+    "image": "Endrigo Antonini.webp",
+    "edition": "Player Card",
+    "year": ""
+}

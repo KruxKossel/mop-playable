@@ -1,0 +1,10 @@
+{
+    "id": "8ee5c785-0a5b-4a34-9144-a70c7d4fe95d",
+    "name": "Olhar do Guardião",
+    "cost": "{3}{B}{B}",
+    "type": "Mágica Instantânea - Exploit",
+    "description": "Escolha um oponente. Olhe todas as cartas na mão daquele oponente e escolha uma mágica instantânea, feitiço ou encantamento no campo de batalha que aquele jogador controle. Você pode colocar uma cópia dessa carta sem pagar seu custo de mana até o final do turno.",
+    "image": "Olhar do Guardião.webp",
+    "edition": null,
+    "year": null
+}

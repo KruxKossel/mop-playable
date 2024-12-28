@@ -1,0 +1,12 @@
+{
+    "id": "c66b6d32-4050-4bf9-abdd-eee34bfc20ec",
+    "name": "Penegui",
+    "cost": "{2}{G}",
+    "type": "Criatura — Hardware Hacker",
+    "description": "Sempre que Penegui entrar no campo de batalha, você pode procurar por um Artefato — Equipamento Hacker no seu grimório e colocar em jogo sem pagar o custo de mana.",
+    "image": "Penegui.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 3
+}

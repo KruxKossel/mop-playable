@@ -1,0 +1,10 @@
+{
+    "id": "c7caf03e-1b8d-4c57-8a4f-d2aa2b3acea1",
+    "name": "Filipi Pires",
+    "cost": "{2}{B}{G}",
+    "type": "Criatura — Hacker Speaker",
+    "description": "Quando Filipi Pires entra no campo de batalha, você pode olhar os três cards do topo do grimório de um oponente. Coloque um desses cards no cemitério daquele jogador e os outros dois de volta no topo em qualquer ordem. {4}, {T}: Exile um card de artefato de um cemitério. Você pode jogar aquele card neste turno sem pagar seu custo de mana, se o fizer, sacrifique-o ao deixar o campo.",
+    "image": "Filipi Pires.webp",
+    "edition": null,
+    "year": null
+}

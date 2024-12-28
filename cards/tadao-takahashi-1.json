@@ -1,0 +1,12 @@
+{
+    "id": "ccacb670-4ac0-4dc0-9bef-2b67a3748fb8",
+    "name": "Tadao Takahashi",
+    "cost": "{3}{U}{U}",
+    "type": "Criatura — Ancient Hacker",
+    "description": "Quando Tadao Takahashi entra no campo de batalha, olhe os cinco primeiros cards de seu deck, revele tantos deles quantos for lands para você e coloque o restante no topo ou no fundo de seu deck em qualquer ordem. Tadao Takahashi não pode ser aniulado, ao menos que o oponente saiba o que ele faz. 'Até a próxima itetico, ou encantamento que você conjurar neste turno'. Você pode escolher novos alvos para a origem do efeito.",
+    "image": "Tadao Takahashi.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 4
+}

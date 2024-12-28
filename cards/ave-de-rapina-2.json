@@ -1,0 +1,12 @@
+{
+    "id": "3d051e35-6a68-4ba0-a631-e2e5b9e91e8d",
+    "name": "Ave de Rapina",
+    "cost": "{3}{W}",
+    "type": "Criatura — Ave de Rapina",
+    "description": "Vigilância, Voar\nSempre que Ave de Rapina atacar, previna o próximo 1 ponto de dano que seria causado a você neste turno.\nAs criaturas que você controla ganham Vigilância até o final do turno.",
+    "image": "Ave de Rapina.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 2
+}

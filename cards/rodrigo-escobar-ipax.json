@@ -1,0 +1,12 @@
+{
+    "id": "d42817ee-2caf-4db9-9bf1-8c5830bf92c5",
+    "name": "Rodrigo Escobar (inax)",
+    "cost": "{2}{B}{R}",
+    "type": "Criatura — Hacker Raiz",
+    "description": "Quando Rodrigo Escobar (inax) entra no campo de batalha, escolha uma criatura ou artefato que um oponente controla. Até o final do turno, ganhe controle daquela permanente. Se ela for sacrificada neste turno, cause 2 pontos de dano a qualquer alvo. Sempre que você sacrificar um artefato, compre um card.",
+    "image": "Rodrigo Escobar (inax).webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 3
+}

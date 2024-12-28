@@ -1,0 +1,11 @@
+{
+    "id": "f1d871a6-56a4-4cc2-9a54-64c2c4fca8e2",
+    "name": "Ghidra",
+    "cost": "{3}{U}",
+    "type": "Artefato — Ferramenta Hacker",
+    "description": "1 {U}, ◊: Escolha um artefato ou encantamento alvo. Olhe a mão do controlador da carta escolhida. Você pode colocar uma carta que não seja criaturade sua mão dele e descartá-la.\n2 {U}, ◊, Sacrifique Ghidra: Anule uma mágica alvo. Se aquela mágica for um artefato ou encantamento, você pode colocar uma carta de artefato ou encantamento do seu cemitério na sua mão.",
+    "image": "Ghidra.webp",
+    "edition": null,
+    "year": null,
+    "flavor": "\"Nas mãos certas, engenharia reversa se torna uma arma poderosa.\""
+}

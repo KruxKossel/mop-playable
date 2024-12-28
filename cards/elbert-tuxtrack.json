@@ -1,0 +1,12 @@
+{
+    "id": "4de5f82b-62fb-4551-9aa2-fa8b02453236",
+    "name": "Elbert TuxTrack",
+    "cost": "{2}{R}",
+    "type": "Criatura - Humano Hacker",
+    "description": "Sempre que Elbert TuxTrack ataca, você pode escolher um artefato ou encantamento que um oponente controla. Aquele artefato ou encantamento não pode ativar suas habilidades até o próximo turno do seu controlador.\n{R}: Ganhe controle de um artefato ou encantamento alvo até o turno seguinte. Se esse artefato ou encantamento for um Equipamento, você pode anexá-lo a uma criatura que você controla.",
+    "image": "Elbert TuxTrack.webp",
+    "edition": null,
+    "year": null,
+    "power": 2,
+    "toughness": 6
+}

@@ -1,0 +1,12 @@
+{
+    "id": "ddd6b5d0-fbef-4a34-8a68-3389d7a6c6bc",
+    "name": "Cybelle Oliveira",
+    "cost": "{2}{U}{U}",
+    "type": "Criatura — Humano Hacker",
+    "description": "Quando Cybelle entra no campo de batalha, olhe os três primeiros cards do topo do seu deck. Você pode revelar uma carta de encantamento ou feitiço dentre elas e colocá-la na sua mão. Coloque os demais cards no fundo do seu deck em qualquer ordem.\nFolga de Malware: Sempre que você joga um feitiço de encantamento ou feitiço, você pode escolher um jogador. Esse jogador revela as duas cartas do topo do deck. Exile uma dessas cartas que seja um feitiço ou encantamento, depois coloque a outra no campo de batalha.",
+    "image": "Cybelle Oliveira.webp",
+    "edition": null,
+    "year": null,
+    "power": 2,
+    "toughness": 2
+}

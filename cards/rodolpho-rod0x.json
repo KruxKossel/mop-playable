@@ -1,0 +1,12 @@
+{
+    "id": "7a1ec4a9-7fe6-4aae-bedf-9d2e8b2d8e1d",
+    "name": "Rodolpho Rodox",
+    "cost": "{2}{U}{B}",
+    "type": "Criatura — Humano Hacker",
+    "description": "Sempre que Rodolpho Rodox atacar, você pode revelar os três cards do topo do seu grimório. Coloque todos os terrenos revelados desta forma no campo de batalha virados e o restante no fundo do grimório em qualquer ordem. {4}, {T}: Escolha um oponente. Aquele jogador revela um card aleatório da mão. Se for uma mágica, você pode copiá-la e pode lançar a cópia sem pagar seu custo de mana.",
+    "image": "Rodolpho Rodox.webp",
+    "edition": null,
+    "year": null,
+    "power": 2,
+    "toughness": 4
+}

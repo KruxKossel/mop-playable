@@ -1,0 +1,11 @@
+{
+    "id": "8bfb6ed5-cc7d-4f5d-8a62-c098c9c8e781",
+    "name": "SWARMY",
+    "cost": "{G}",
+    "type": "Mágica Instantânea",
+    "description": "As criaturas que você controla recebem +1/+2 até o final do próximo turno.",
+    "image": "SWARMY.webp",
+    "edition": null,
+    "year": null,
+    "flavor": "\"A força está na união, onde cada um fortalece o outro.\""
+}

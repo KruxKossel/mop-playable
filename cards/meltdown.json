@@ -1,0 +1,10 @@
+{
+    "id": "be7d51cb-79a0-4aaa-b1d2-3f1c8e9cc8a8",
+    "name": "Meltdown",
+    "cost": "{3}{B}{B}",
+    "type": "Sorcery",
+    "description": "Feitiço — Código Malicioso\n\nEscolha um artefato ou criatura. Destrua aquele permanente.\n\nSe um artefato foi destruído desta forma, você pode procurar no seu grimório por um card de terreno básico, colocá-lo no campo de batalha e embaralhar seu grimório.",
+    "image": "Meltdown.webp",
+    "edition": null,
+    "year": null
+}

@@ -1,0 +1,11 @@
+{
+    "id": "51a83c11-a04d-4d91-93dd-4cee8f5aa8ba",
+    "name": "Diamorphine",
+    "cost": "{3}{B}",
+    "type": "Artefato — Roodit",
+    "description": "1 {B}, {T}: Escolha um jogador. Olhe o topo do deck desse jogador, você pode colocar aquela carta no cemitério.\n2 {B}, Sacrifique Diamorphine: Escolha até duas cartas de criatura no cemitério de qualquer jogador e retorne-as ao campo de batalha sob seu controle. Elas são Zumbis além de seus outros tipos.",
+    "image": "Diamorphine.webp",
+    "edition": null,
+    "year": null,
+    "flavorText": "\"Alguns fantasmas digitais não descansam; eles esperam nas tomadas, prontos para se infiltrar.\""
+}

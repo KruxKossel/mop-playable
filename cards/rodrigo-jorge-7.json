@@ -1,0 +1,12 @@
+{
+    "id": "b3a40ffd-5c14-4b86-b47a-3453f20c79fc",
+    "name": "Rodrigo Jorge",
+    "cost": "{2}{G}{G}",
+    "type": "Criatura - CISSP Paladin",
+    "description": "Atropelar. Revele X cartas do topo do seu grimório para cada modalidade de triathlon que você pratica. Escolha uma carta de criatura e coloque-a em jogo. Coloque as outras no fundo do seu grimório.",
+    "image": "Rodrigo Jorge.webp",
+    "edition": null,
+    "year": null,
+    "power": 4,
+    "toughness": 4
+}

@@ -1,0 +1,12 @@
+{
+    "id": "2d3db790-dd40-4766-81d2-c4ffa9af3765",
+    "name": "Alcyon Junior",
+    "cost": "{1}{B}",
+    "type": "Criatura - Humano Hacker",
+    "description": "Sempre que um oponente joga uma mágica instantânea ou feitiço, você pode fazer com que Alcyon se torne alvo daquela mágica ou feitiço. Se fizer isso, neutralize a mágica ou feitiço e coloque um marcador de \"Proteção\" em Alcyon.\nRemova três marcadores de \"Proteção\" de Alcyon: Olhe as cinco cartas do topo do seu grimório. Você pode revelar uma carta de artefato ou \nmágica instantânea entre elas e adicioná-la à sua mão. Embaralhe as outras cartas de volta no seu grimório.",
+    "image": "alcyon-junior.webp",
+    "edition": null,
+    "year": null,
+    "power": 2,
+    "toughness": 2
+}

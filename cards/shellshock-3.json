@@ -1,0 +1,11 @@
+{
+    "id": "e7bd7d66-fb19-4e6b-b5ca-7b9a2bea2fc4",
+    "name": "Shellshock",
+    "cost": "{X}{R}",
+    "type": "Instant",
+    "description": "Causa X pontos de dano a criatura alvo. Ela não pode ser regenerada. Se a criatura alvo for colocada em um cemitério dessa maneira, seu controlador sacrifica um terreno.",
+    "image": "Shellshock.webp",
+    "edition": null,
+    "year": null,
+    "flavor": "\"Player Card\""
+}

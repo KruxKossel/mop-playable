@@ -1,0 +1,10 @@
+{
+    "id": "df1cbc6a-9cff-4570-8aca-41d9c2a69ee4",
+    "name": "Daemon Fireball",
+    "cost": "{1}{R}",
+    "type": "Mágica Instantânea",
+    "description": "Daemon Fireball causa 3 pontos de dano a qualquer alvo. Se o alvo for uma criatura ou jogador que utilizou uma carta de artefato neste turno, Daemon Fireball causa 5 pontos de dano ao invés disso.",
+    "image": "Daemon Fireball.webp",
+    "edition": "FreeBSD Brazil",
+    "year": ""
+}

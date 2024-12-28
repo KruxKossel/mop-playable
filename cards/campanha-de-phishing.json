@@ -1,0 +1,10 @@
+{
+    "id": "f40fdab2-0c97-4062-9d94-bde893f16391",
+    "name": "Campanha de Phishing",
+    "cost": "{U}{B}",
+    "type": "Feitiço",
+    "description": "Revele os 3 cards do topo do grimório de um oponente. Escolha um deles. O oponente deve escolher: perder 3 pontos de vida ou você coloca o card escolhido em sua mão. Se um oponente controlar uma permanente com 'Hekate' ou 'Hacker Rangers' no nome, ele pode pagar {1} para anular esta mágica.",
+    "image": "Campanha de Phishing.webp",
+    "edition": null,
+    "year": null
+}

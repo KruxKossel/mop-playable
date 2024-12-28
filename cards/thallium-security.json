@@ -1,0 +1,11 @@
+{
+    "id": "b4aa0eb9-7263-4a49-98a6-3cbb5a4d7eaa",
+    "name": "Thallium Security",
+    "cost": "{C}, {A}",
+    "type": "Cyberland",
+    "description": "{C}, Add {B} {B}.",
+    "image": "Thallium Security.webp",
+    "edition": null,
+    "year": null,
+    "flavor": "\"Nossos ataques levam suas defesas ao limite, juntos garantiremos que elas resistam.\""
+}

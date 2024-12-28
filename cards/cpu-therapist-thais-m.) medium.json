@@ -1,0 +1,12 @@
+{
+    "id": "d8589e0d-ddb1-4aa8-a6b5-8f6ae4ce7bab",
+    "name": "Thais M.",
+    "cost": "{U}{B}",
+    "type": "Creature — Mythological Hacker",
+    "description": "Sempre que Thais M. causar dano de combate a um jogador, olhe o card do topo do grimório daquele jogador. Você pode colocá-lo no cemitério.\n{0}, {T}: Olhe o card do topo do seu grimório. Você pode colocá-lo no fundo do grimório.",
+    "image": "Thais M..webp",
+    "edition": null,
+    "year": null,
+    "power": 2,
+    "toughness": 4
+}

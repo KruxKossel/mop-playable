@@ -1,0 +1,12 @@
+{
+    "id": "6e6da0e6-8425-4e3f-b3c3-47d9c8c5b165",
+    "name": "Oliveira Jr.",
+    "cost": "{1}{B}{R}",
+    "type": "Criatura - Humano Hacker",
+    "description": "Impeto\nEnquanto Oliveira Jr está em jogo, seus feitiços do tipo malware custam {2} a menos para serem conjurados.",
+    "image": "Oliveira Jr..webp",
+    "edition": null,
+    "year": null,
+    "power": 2,
+    "toughness": 4
+}

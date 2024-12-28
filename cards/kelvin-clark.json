@@ -1,0 +1,12 @@
+{
+    "id": "18e8d0d0-8a77-4205-a4c2-5c8ea6089f46",
+    "name": "Kelvin Clark",
+    "cost": "{1}{G}",
+    "type": "Criatura - Humano Hacker",
+    "description": "Sempre que Kelvin Clark ataca, você pode olhar a mão do jogador defensor. {2}, {T}: Escolha um artefato ou encantamento alvo que um oponente controla. Esse alvo não pode ativar suas habilidades até o próximo turno do seu controlador",
+    "image": "Kelvin Clark.webp",
+    "edition": null,
+    "year": null,
+    "power": 1,
+    "toughness": 2
+}

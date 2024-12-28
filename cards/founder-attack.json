@@ -1,0 +1,11 @@
+{
+    "id": "b3a85fac-7d3a-47f6-85e8-15f7f62c91d8",
+    "name": "Founder Attack",
+    "cost": "{5}{B}{B}{B}{B}{B}",
+    "type": "Instant — Exploit",
+    "description": "(This spell can't be countered.)\nGain control of all cards named \"H2H1C\".\nSearch your library for a card named \"Processinho\" and exile it. You lose half your life, rounded up.",
+    "image": "Founder Attack.webp",
+    "flavor": "\"I'm one of the founders... No, actually I'm the owner of everything... If you disagree, my lawyers will be calling.\"",
+    "edition": null,
+    "year": null
+}

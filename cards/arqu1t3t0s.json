@@ -1,0 +1,12 @@
+{
+    "id": "3febe20f-42b4-4ed5-a727-97a2cf909eb2",
+    "name": "Arquilitos",
+    "cost": "{2}{B}{B}",
+    "type": "Criatura - Mythological Hacker",
+    "description": "Toda vez que você compra um card, você ganha 2 pontos de vida. Toda vez que um oponente compra um card, ele perde 2 pontos de vida.",
+    "image": "Arquilitos.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 5
+}

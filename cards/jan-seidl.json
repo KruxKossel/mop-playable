@@ -1,0 +1,12 @@
+{
+    "id": "81708984-c88f-4f6b-b402-78d9bced3f9e",
+    "name": "Jan Seidl",
+    "cost": "{2}{U}",
+    "type": "Criatura - Underground Pirate",
+    "description": "Quando Jan Seidl entra no campo de batalha, você pode procurar em seu grimório por uma carta de Feitiço - Ferramenta Hacker, revelá-la, e colocá-la na sua mão. Em seguida, embaralhe seu grimório. Sacrifique Jan Seidl: Neutralize uma magia alvo. Diga \"Os segredos mais obscuros são minhas armas\".",
+    "image": "Jan Seidl.webp",
+    "edition": null,
+    "year": null,
+    "power": 3,
+    "toughness": 2
+}

@@ -1,0 +1,10 @@
+{
+    "id": "8f354b87-33f5-4c18-bedd-92acc97abc42",
+    "name": "GoHacking — EHXD",
+    "cost": "{2}{U}{B}",
+    "type": "Encantamento - Treinamento",
+    "description": "Quando GoHacking — EHXD entrar no campo de batalha, escolha um oponente. Aquele jogador revela os três cards do topo do próprio grimório. Você pode exilar um deles.\n\nSempre que você exilar um card de um oponente, crie um token de Payload, que é um artefato com: \"e, Sacrifique este artefato: Cause 2 de dano a qualquer alvo.\"\n\nOff by one: No início da sua manutenção, se você controlar dois ou mais tokens de Payload, adicione {U} ou {B} à sua reserva de mana.",
+    "image": "GoHacking — EHXD.webp",
+    "edition": null,
+    "year": null
+}
