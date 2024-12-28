@@ -15,9 +15,6 @@
 
 <script>
 import CardDeckSelector from './components/CardDeckSelector.vue'
-import Card from './components/Card.vue'
-import CardSelector from './components/CardSelector.vue'
-import DeckBuilder from './components/DeckBuilder.vue'
 
 
 export default {
