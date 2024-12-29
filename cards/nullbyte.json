@@ -1,10 +1,10 @@
 {
-    "id": "c44a37a4-2b98-4974-a6c9-d4f3fb95c179",
-    "name": "NullByte",
-    "cost": "",
-    "type": "Player Card",
-    "description": "0: Adicione 0 em sua pool de mana.",
-    "image": "NullByte.webp",
-    "edition": "Conferência – NullByte",
-    "year": ""
+  "id": "c44a37a4-2b98-4974-a6c9-d4f3fb95c179",
+  "name": "NullByte",
+  "cost": "",
+  "type": "Player Card",
+  "description": "0: Adicione 0 em sua pool de mana.",
+  "image": "image/nullbyte.webp",
+  "edition": "Conferência – NullByte",
+  "year": ""
 }

@@ -1,10 +1,10 @@
 {
-    "id": "0a9c7d90-5426-4f92-8e0b-b0786baebb54",
-    "name": "Black Hat Conference",
-    "cost": "",
-    "type": "Cyber Land",
-    "description": "",
-    "image": "Black Hat Conference.webp",
-    "edition": "",
-    "year": ""
+  "id": "0a9c7d90-5426-4f92-8e0b-b0786baebb54",
+  "name": "Black Hat Conference",
+  "cost": "",
+  "type": "Cyber Land",
+  "description": "",
+  "image": "image/black-hat-conference.webp",
+  "edition": "",
+  "year": ""
 }

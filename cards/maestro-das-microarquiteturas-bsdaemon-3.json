@@ -1,12 +1,12 @@
 {
-    "id": "d2e1d5fe-baec-41bf-a21f-3fb1138afbce",
-    "name": "BSDaemon",
-    "cost": "{4}{B}{B}",
-    "type": "Criatura - Mythological Hacker",
-    "description": "Quando BSDaemon está em seu cemitério, você pode pagar X pontos de vida para retorná-lo do seu cemitério para sua mão, onde X é a metade dos seus pontos de vida arredondado para cima.\n{3}{B}{B}, Sacrifique BSDaemon: Você controla o RING-0 do jogador alvo durante o próximo turno. Você pode ver todas as cartas na mão do oponente e pode ver e tocar qualquer turno por ele.",
-    "image": "BSDaemon.webp",
-    "edition": null,
-    "year": null,
-    "power": 4,
-    "toughness": 4
+  "id": "d2e1d5fe-baec-41bf-a21f-3fb1138afbce",
+  "name": "BSDaemon",
+  "cost": "{4}{B}{B}",
+  "type": "Criatura - Mythological Hacker",
+  "description": "Quando BSDaemon está em seu cemitério, você pode pagar X pontos de vida para retorná-lo do seu cemitério para sua mão, onde X é a metade dos seus pontos de vida arredondado para cima.\n{3}{B}{B}, Sacrifique BSDaemon: Você controla o RING-0 do jogador alvo durante o próximo turno. Você pode ver todas as cartas na mão do oponente e pode ver e tocar qualquer turno por ele.",
+  "image": "image/bsdaemon.webp",
+  "edition": null,
+  "year": null,
+  "power": 4,
+  "toughness": 4
 }

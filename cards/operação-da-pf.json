@@ -1,11 +1,11 @@
 {
-    "id": "9f819c07-a12f-4d23-abda-99362aa33d91",
-    "name": "Operação da PF",
-    "cost": "",
-    "type": "Encantamento",
-    "description": "Busque por todas as cartas to tipo Malware, Rootkit ou Codigo Malicioso no grimório do seu oponente e coloque-as no cemitério.",
-    "image": "Operação da PF.webp",
-    "edition": "",
-    "year": "",
-    "flavor": "\"qap? estamos no qth\""
+  "id": "9f819c07-a12f-4d23-abda-99362aa33d91",
+  "name": "Operação da PF",
+  "cost": "",
+  "type": "Encantamento",
+  "description": "Busque por todas as cartas to tipo Malware, Rootkit ou Codigo Malicioso no grimório do seu oponente e coloque-as no cemitério.",
+  "image": "image/operação-da-pf.webp",
+  "edition": "",
+  "year": "",
+  "flavor": "\"qap? estamos no qth\""
 }

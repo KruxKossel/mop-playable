@@ -1,10 +1,10 @@
 {
-    "id": "2a33ca20-37cb-4b3f-b4be-86f12ed5dfbe",
-    "name": "Evilginx2",
-    "cost": "{2}{B}{B}",
-    "type": "Artifact — Equipment",
-    "description": "Quando Evilginx2 entrar em jogo, escolha um oponente. Você pode olhar a mão daquele jogador a qualquer momento. No início do seu upkeep, esse jogador revela a carta aleatório de sua mão. Se for um card não-terreno, você pode copiá-lo.",
-    "image": "Evilginx2.webp",
-    "edition": null,
-    "year": null
+  "id": "2a33ca20-37cb-4b3f-b4be-86f12ed5dfbe",
+  "name": "Evilginx2",
+  "cost": "{2}{B}{B}",
+  "type": "Artifact — Equipment",
+  "description": "Quando Evilginx2 entrar em jogo, escolha um oponente. Você pode olhar a mão daquele jogador a qualquer momento. No início do seu upkeep, esse jogador revela a carta aleatório de sua mão. Se for um card não-terreno, você pode copiá-lo.",
+  "image": "image/evilginx2.webp",
+  "edition": null,
+  "year": null
 }

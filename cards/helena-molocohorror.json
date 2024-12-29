@@ -1,12 +1,12 @@
 {
-    "id": "e9ddf81b-f176-4576-a559-1ba86aec7dcf",
-    "name": "Helena (molocohorror)",
-    "cost": "{2}{B}{B}{R}",
-    "type": "Criatura - Necromante Hacker",
-    "description": "No início do seu upkeep, você pode exilar um card de criatura com tipo Hacker do seu cemitério. Se fizer isso, crie uma ficha que é uma cópia dessa carta, exceto que ela é um Zumbi Hacker além de seus outros tipos. Ela ganha impeço. {0/0}, Sacrifique um permanente não criatura: Devolva um alvo com tipo Hacker do seu cemitério para sua mão.",
-    "image": "Helena (molocohorror).webp",
-    "edition": null,
-    "year": null,
-    "power": 4,
-    "toughness": 3
+  "id": "e9ddf81b-f176-4576-a559-1ba86aec7dcf",
+  "name": "Helena (molocohorror)",
+  "cost": "{2}{B}{B}{R}",
+  "type": "Criatura - Necromante Hacker",
+  "description": "No início do seu upkeep, você pode exilar um card de criatura com tipo Hacker do seu cemitério. Se fizer isso, crie uma ficha que é uma cópia dessa carta, exceto que ela é um Zumbi Hacker além de seus outros tipos. Ela ganha impeço. {0/0}, Sacrifique um permanente não criatura: Devolva um alvo com tipo Hacker do seu cemitério para sua mão.",
+  "image": "image/helena-molocohorror.webp",
+  "edition": null,
+  "year": null,
+  "power": 4,
+  "toughness": 3
 }

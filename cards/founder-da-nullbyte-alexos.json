@@ -1,12 +1,12 @@
 {
-    "id": "3cda2b90-d805-4c82-aa91-9d24774297d6",
-    "name": "Alexos",
-    "cost": "{2}{U}",
-    "type": "Criatura - Humano Hacker",
-    "description": "{2}, {T}: Previna todo o dano de combate que seria causado a você e a criaturas que você controla neste turno. Sacrifique Alexos: Criaturas que você controla ganham proteção contra a cor escolhida até o final do turno.",
-    "image": "Alexos.webp",
-    "edition": null,
-    "year": null,
-    "power": 1,
-    "toughness": 4
+  "id": "3cda2b90-d805-4c82-aa91-9d24774297d6",
+  "name": "Alexos",
+  "cost": "{2}{U}",
+  "type": "Criatura - Humano Hacker",
+  "description": "{2}, {T}: Previna todo o dano de combate que seria causado a você e a criaturas que você controla neste turno. Sacrifique Alexos: Criaturas que você controla ganham proteção contra a cor escolhida até o final do turno.",
+  "image": "image/alexos.webp",
+  "edition": null,
+  "year": null,
+  "power": 1,
+  "toughness": 4
 }

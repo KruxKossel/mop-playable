@@ -1,11 +1,11 @@
 {
-    "id": "c4a7ce1c-3ce7-4aeb-a79f-9d9734692fd3",
-    "name": "Arquitetura — IV",
-    "cost": "",
-    "type": "Encantamento Mítico",
-    "description": "Quando Arquitetura — I.V entra no campo de batalha, escolha um jogador. Este jogador deverá inverter o grimório e jogar com as cartas viradas para cima.",
-    "image": "Arquitetura — IV.webp",
-    "edition": "",
-    "year": "",
-    "flavor": "\"Para alguns, a stack é invertida mesmo\""
+  "id": "c4a7ce1c-3ce7-4aeb-a79f-9d9734692fd3",
+  "name": "Arquitetura — IV",
+  "cost": "",
+  "type": "Encantamento Mítico",
+  "description": "Quando Arquitetura — I.V entra no campo de batalha, escolha um jogador. Este jogador deverá inverter o grimório e jogar com as cartas viradas para cima.",
+  "image": "image/arquitetura-lv.webp",
+  "edition": "",
+  "year": "",
+  "flavor": "\"Para alguns, a stack é invertida mesmo\""
 }

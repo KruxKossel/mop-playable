@@ -1,10 +1,10 @@
 {
-    "id": "9b561af5-6f8d-4a6c-a2df-5cf9eacb3aa4",
-    "name": "Metasploit Framework",
-    "cost": "{3}",
-    "type": "Artefato — Ferramenta Hacker",
-    "description": "Instalar Exploits — Quando Metasploit Framework entra em jogo você pode exilar até dois cards do tipo exploit de sua mão com custo convertido menor ou igual a 3 e anexá-los. {3}, {T}: Você pode copiar qualquer exploit anexado em Metasploit Framework e jogá-lo sem pagar seus custos de mana.",
-    "image": "Metasploit Framework.webp",
-    "edition": null,
-    "year": null
+  "id": "9b561af5-6f8d-4a6c-a2df-5cf9eacb3aa4",
+  "name": "Metasploit Framework",
+  "cost": "{3}",
+  "type": "Artefato — Ferramenta Hacker",
+  "description": "Instalar Exploits — Quando Metasploit Framework entra em jogo você pode exilar até dois cards do tipo exploit de sua mão com custo convertido menor ou igual a 3 e anexá-los. {3}, {T}: Você pode copiar qualquer exploit anexado em Metasploit Framework e jogá-lo sem pagar seus custos de mana.",
+  "image": "image/metasploit-framework-2.webp",
+  "edition": null,
+  "year": null
 }

@@ -1,10 +1,10 @@
 {
-    "id": "bac7892d-3d4f-4d5f-a3c5-85ab6db5ca98",
-    "name": "Humberto Jr.",
-    "cost": "{2}{G}",
-    "type": "Criatura — Oráculo Lendário",
-    "description": "Vigilância\n\nQuando Humberto Jr. entra no campo de batalha, previna todo o dano que seria causado a você e a permanentes que você controla até o final do próximo turno.\n\n{2}{G}: Ganhe 3 pontos de vida.",
-    "image": "Humberto Jr..webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "bac7892d-3d4f-4d5f-a3c5-85ab6db5ca98",
+  "name": "Humberto Jr.",
+  "cost": "{2}{G}",
+  "type": "Criatura — Oráculo Lendário",
+  "description": "Vigilância\n\nQuando Humberto Jr. entra no campo de batalha, previna todo o dano que seria causado a você e a permanentes que você controla até o final do próximo turno.\n\n{2}{G}: Ganhe 3 pontos de vida.",
+  "image": "image/humberto-jr. medium.webp",
+  "edition": "Player Card",
+  "year": ""
 }

@@ -1,12 +1,12 @@
 {
-    "id": "d5be4dfe-fbe9-492c-8aaa-aa799989f2e3",
-    "name": "Diego Aranha",
-    "cost": "{2}{W}{B}{B}",
-    "type": "Criatura - Mythological Hacker",
-    "description": "Sacrifique Diego Aranha: Exile as 5 cartas do topo do deck do jogador alvo. Você pode jogar uma dessas cartas sem pagar seu custo de mana até o final do seu próximo turno.\nPague {3} e descarte uma carta: Retorne Diego Aranha, do cemitério à sua mão. Use esta habilidade apenas durante a sua fase de manutenção.",
-    "image": "Diego Aranha.webp",
-    "edition": null,
-    "year": null,
-    "power": 2,
-    "toughness": 4
+  "id": "d5be4dfe-fbe9-492c-8aaa-aa799989f2e3",
+  "name": "Diego Aranha",
+  "cost": "{2}{W}{B}{B}",
+  "type": "Criatura - Mythological Hacker",
+  "description": "Sacrifique Diego Aranha: Exile as 5 cartas do topo do deck do jogador alvo. Você pode jogar uma dessas cartas sem pagar seu custo de mana até o final do seu próximo turno.\nPague {3} e descarte uma carta: Retorne Diego Aranha, do cemitério à sua mão. Use esta habilidade apenas durante a sua fase de manutenção.",
+  "image": "image/diego-aranha.webp",
+  "edition": null,
+  "year": null,
+  "power": 2,
+  "toughness": 4
 }

@@ -1,12 +1,12 @@
 {
-    "id": "9cec7d6b-25cb-426c-a53a-f3a00eca0f3a",
-    "name": "Alesandro Barreto, Vigilante do Ciberespaco",
-    "cost": "{2}{U}{B}",
-    "type": "Criatura — Humano Hacker",
-    "description": "1 ★, ©: Investigue. (Crie uma ficha de artefato incolor chamada Indicio com \"2, Sacrifique este artefato: Compre um card.\")\nSempre que você sacrificar um Indicio, você pode exilar uma carta alvo do cemitério de um oponente.",
-    "image": "Alesandro Barreto, Vigilante do Ciberespaco.webp",
-    "edition": null,
-    "year": null,
-    "power": 3,
-    "toughness": 3
+  "id": "9cec7d6b-25cb-426c-a53a-f3a00eca0f3a",
+  "name": "Alesandro Barreto, Vigilante do Ciberespaco",
+  "cost": "{2}{U}{B}",
+  "type": "Criatura — Humano Hacker",
+  "description": "1 ★, ©: Investigue. (Crie uma ficha de artefato incolor chamada Indicio com \"2, Sacrifique este artefato: Compre um card.\")\nSempre que você sacrificar um Indicio, você pode exilar uma carta alvo do cemitério de um oponente.",
+  "image": "image/alesandro-barreto,-vigilante-do-ciberespaço.webp",
+  "edition": null,
+  "year": null,
+  "power": 3,
+  "toughness": 3
 }

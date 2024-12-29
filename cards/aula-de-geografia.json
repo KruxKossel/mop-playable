@@ -1,10 +1,10 @@
 {
-    "id": "d506f329-91c9-4c55-8f61-c1dd1af56f0c",
-    "name": "Aula de Geografia",
-    "cost": "{G}",
-    "type": "Encantamento - Aura",
-    "description": "Aula de geografia entra em jogo encantando um terreno.\n\nO terreno encantado passa a se chamar \"Espirito Santo\" e as manas geradas por esse terreno podem ser usadas como se tivessem todas as cores.\nSacrifique Aula de Geografia: Destrua a criatura alvo com nome Rodrigo Jorge,",
-    "image": "Aula de Geografia.webp",
-    "edition": null,
-    "year": null
+  "id": "d506f329-91c9-4c55-8f61-c1dd1af56f0c",
+  "name": "Aula de Geografia",
+  "cost": "{G}",
+  "type": "Encantamento - Aura",
+  "description": "Aula de geografia entra em jogo encantando um terreno.\n\nO terreno encantado passa a se chamar \"Espirito Santo\" e as manas geradas por esse terreno podem ser usadas como se tivessem todas as cores.\nSacrifique Aula de Geografia: Destrua a criatura alvo com nome Rodrigo Jorge,",
+  "image": "image/aula-de-geografia.webp",
+  "edition": null,
+  "year": null
 }

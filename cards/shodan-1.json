@@ -1,10 +1,10 @@
 {
-    "id": "c76dcf18-ecda-42c3-902d-fc58a0ba94c2",
-    "name": "Shodan",
-    "cost": "{2}{G}",
-    "type": "Feitico",
-    "description": "Revele cinco cards do topo do deck alvo. Você pode escolher um card de artefato, criatura ou encantamento dentre eles e colocá-lo em campo de batalha sob seu controle. Os cards restantes são colocados no cemitério do alvo.",
-    "image": "Shodan.webp",
-    "edition": "",
-    "year": ""
+  "id": "c76dcf18-ecda-42c3-902d-fc58a0ba94c2",
+  "name": "Shodan",
+  "cost": "{2}{G}",
+  "type": "Feitico",
+  "description": "Revele cinco cards do topo do deck alvo. Você pode escolher um card de artefato, criatura ou encantamento dentre eles e colocá-lo em campo de batalha sob seu controle. Os cards restantes são colocados no cemitério do alvo.",
+  "image": "image/shodan.webp",
+  "edition": "",
+  "year": ""
 }

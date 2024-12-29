@@ -1,10 +1,10 @@
 {
-    "id": "e1bd3ab0-c363-4b58-860d-8ec0e66f2f24",
-    "name": "Processinho",
-    "cost": "",
-    "type": "Mágica instantânea",
-    "description": "Ao invocar o Processinho contra o adversário que falou mal ou expôs alguém, o mesmo é obrigado a descartar 2 cartas da sua mão.",
-    "image": "Processinho.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "e1bd3ab0-c363-4b58-860d-8ec0e66f2f24",
+  "name": "Processinho",
+  "cost": "",
+  "type": "Mágica instantânea",
+  "description": "Ao invocar o Processinho contra o adversário que falou mal ou expôs alguém, o mesmo é obrigado a descartar 2 cartas da sua mão.",
+  "image": "image/processinho.webp",
+  "edition": "Player Card",
+  "year": ""
 }

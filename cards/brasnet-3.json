@@ -1,10 +1,10 @@
 {
-    "id": "8e9a17f2-9e0f-4d06-92ad-67f327e2aa82",
-    "name": "BrasNET",
-    "cost": "{C}",
-    "type": "Land",
-    "description": "Adiciona {C} ao seu pool de mana.",
-    "image": "BrasNET.webp",
-    "edition": "Cyberland",
-    "year": ""
+  "id": "8e9a17f2-9e0f-4d06-92ad-67f327e2aa82",
+  "name": "BrasNET",
+  "cost": "{C}",
+  "type": "Land",
+  "description": "Adiciona {C} ao seu pool de mana.",
+  "image": "image/brasnet-3.webp",
+  "edition": "Cyberland",
+  "year": ""
 }

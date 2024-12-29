@@ -1,10 +1,10 @@
 {
-    "id": "52efd593-4554-439e-a9ed-19554c6ccd0e",
-    "name": "Hashcat Accelerator",
-    "cost": "{2}",
-    "type": "Artefato — Equipamento Hacker",
-    "description": "Equipar: 1\nA criatura equipada ganha \"ç: Escolha um oponente. Esse jogador revela X cards do topo do seu grimório, onde X é igual à força da criatura equipada. Você pode exilar um card não-terreno revelado desta forma.\"\nEnquanto Hashcat Accelerator estiver em jogo, você pode conjurar os cards exilados com ç e pode usar mana como se fosse de qualquer cor para conjurá-los.",
-    "image": "Hashcat Accelerator.webp",
-    "edition": null,
-    "year": null
+  "id": "52efd593-4554-439e-a9ed-19554c6ccd0e",
+  "name": "Hashcat Accelerator",
+  "cost": "{2}",
+  "type": "Artefato — Equipamento Hacker",
+  "description": "Equipar: 1\nA criatura equipada ganha \"ç: Escolha um oponente. Esse jogador revela X cards do topo do seu grimório, onde X é igual à força da criatura equipada. Você pode exilar um card não-terreno revelado desta forma.\"\nEnquanto Hashcat Accelerator estiver em jogo, você pode conjurar os cards exilados com ç e pode usar mana como se fosse de qualquer cor para conjurá-los.",
+  "image": "image/hashcat-accelerator.webp",
+  "edition": null,
+  "year": null
 }

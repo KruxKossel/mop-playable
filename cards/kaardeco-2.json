@@ -1,10 +1,10 @@
 {
-    "id": "1ebd8803-3d38-4ef5-a3cc-0284ca9cbc01",
-    "name": "Kaardeco",
-    "cost": "{2}{R}",
-    "type": "Criatura - Cl/CD Hacker",
-    "description": "Ímpeto\n\nToda vez que Kaardeco atacar, cause 1 ponto de dano a qualquer alvo.\n\nÐ, Descarte um card: Compre um card. Se o card descartado era uma magia de feição ou instantânea, Kaardeco ganha +2/+0 até o final do turno.",
-    "image": "Kaardeco.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "1ebd8803-3d38-4ef5-a3cc-0284ca9cbc01",
+  "name": "Kaardeco",
+  "cost": "{2}{R}",
+  "type": "Criatura - Cl/CD Hacker",
+  "description": "Ímpeto\n\nToda vez que Kaardeco atacar, cause 1 ponto de dano a qualquer alvo.\n\nÐ, Descarte um card: Compre um card. Se o card descartado era uma magia de feição ou instantânea, Kaardeco ganha +2/+0 até o final do turno.",
+  "image": "image/kaardeco-2.webp",
+  "edition": "Player Card",
+  "year": ""
 }

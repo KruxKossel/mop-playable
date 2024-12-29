@@ -1,10 +1,10 @@
 {
-    "id": "c499c3d4-ab08-4b7f-ba7a-cedf78ee8b53",
-    "name": "João Matos",
-    "cost": "{U}{B}{B}",
-    "type": "Criatura - Mythological Hacker",
-    "description": "Quando João Matos entra no campo de batalha procure em seu grimório por uma carta com nome \"JexBoss, Exploitation Tool\", coloque em sua mão e embaralhe. Enquanto João Matos está em jogo você pode jogara carta \"JexBoss, Exploitation Tool\" sem pagar seu custo de mana. \"Não basta criar; é preciso dominar. Ele, apresenta sua obra-prima e com ela, o controle de todos os JBoss.\"",
-    "image": "João Matos.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "c499c3d4-ab08-4b7f-ba7a-cedf78ee8b53",
+  "name": "João Matos",
+  "cost": "{U}{B}{B}",
+  "type": "Criatura - Mythological Hacker",
+  "description": "Quando João Matos entra no campo de batalha procure em seu grimório por uma carta com nome \"JexBoss, Exploitation Tool\", coloque em sua mão e embaralhe. Enquanto João Matos está em jogo você pode jogara carta \"JexBoss, Exploitation Tool\" sem pagar seu custo de mana. \"Não basta criar; é preciso dominar. Ele, apresenta sua obra-prima e com ela, o controle de todos os JBoss.\"",
+  "image": "image/joão-matos.webp",
+  "edition": "Player Card",
+  "year": ""
 }

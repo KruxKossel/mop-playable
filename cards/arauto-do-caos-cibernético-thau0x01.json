@@ -1,12 +1,12 @@
 {
-    "id": "6d56623b-7ed7-4f8c-a731-7c785bef4e3e",
-    "name": "Thau0x01",
-    "cost": "{B}{B}",
-    "type": "Criatura - Underground Pirate",
-    "description": "Quando Thau0x01 entra no campo de batalha, todos jogadores descartam uma carta aleatoriamente. Sacrifique: O jogador alvo descarta duas cartas aleatoriamente. Ative esta habilidade a qualquer momento que você poderia jogar um feitiço.",
-    "image": "Thau0x01.webp",
-    "edition": null,
-    "year": null,
-    "power": 3,
-    "toughness": 1
+  "id": "6d56623b-7ed7-4f8c-a731-7c785bef4e3e",
+  "name": "Thau0x01",
+  "cost": "{B}{B}",
+  "type": "Criatura - Underground Pirate",
+  "description": "Quando Thau0x01 entra no campo de batalha, todos jogadores descartam uma carta aleatoriamente. Sacrifique: O jogador alvo descarta duas cartas aleatoriamente. Ative esta habilidade a qualquer momento que você poderia jogar um feitiço.",
+  "image": "image/thau0x01.webp",
+  "edition": null,
+  "year": null,
+  "power": 3,
+  "toughness": 1
 }

@@ -1,12 +1,12 @@
 {
-    "id": "e4dcb8da-4f8b-4e62-a5d4-4ed765a1e809",
-    "name": "Felipe Pr0teus, Metamorfo Digital",
-    "cost": "{1}{U/W}{U/W}{U/W}",
-    "type": "Criatura - Mythological Hacker",
-    "description": "Uma vez por turno, você pode descartar um card para transformar Felipe Pr0teus em uma cópia de qualquer Criatura tipo Hacker no campo de batalha até o final do turno.\nSe Felipe Próteus ou uma criatura cujas habilidades ele copiou causar dano de combate a um jogador, compre uma carta.",
-    "image": "Felipe Pr0teus, Metamorfo Digital.webp",
-    "edition": null,
-    "year": null,
-    "power": 2,
-    "toughness": 4
+  "id": "e4dcb8da-4f8b-4e62-a5d4-4ed765a1e809",
+  "name": "Felipe Pr0teus, Metamorfo Digital",
+  "cost": "{1}{U/W}{U/W}{U/W}",
+  "type": "Criatura - Mythological Hacker",
+  "description": "Uma vez por turno, você pode descartar um card para transformar Felipe Pr0teus em uma cópia de qualquer Criatura tipo Hacker no campo de batalha até o final do turno.\nSe Felipe Próteus ou uma criatura cujas habilidades ele copiou causar dano de combate a um jogador, compre uma carta.",
+  "image": "image/felipe-pr0teus,-metamorfo-digital.webp",
+  "edition": null,
+  "year": null,
+  "power": 2,
+  "toughness": 4
 }

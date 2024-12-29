@@ -1,10 +1,10 @@
 {
-    "id": "9e841d0c-0d6d-4bb2-9b4c-f4572d7c4f3f",
-    "name": "Ricardo LOgan",
-    "cost": "{1}{B}{B}",
-    "type": "Criatura - Underground Pirate",
-    "description": "Especialista em macOS/Mach-O Files - Ao conjurar o LOgan todos seus dispositivos iOS ficam bloqueados até o fim da partida. Se você tem macOS/iPhone, descarte uma carta de magia.",
-    "image": "Ricardo LOgan.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "9e841d0c-0d6d-4bb2-9b4c-f4572d7c4f3f",
+  "name": "Ricardo LOgan",
+  "cost": "{1}{B}{B}",
+  "type": "Criatura - Underground Pirate",
+  "description": "Especialista em macOS/Mach-O Files - Ao conjurar o LOgan todos seus dispositivos iOS ficam bloqueados até o fim da partida. Se você tem macOS/iPhone, descarte uma carta de magia.",
+  "image": "image/ricardo-l0gan.webp",
+  "edition": "Player Card",
+  "year": ""
 }

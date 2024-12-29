@@ -1,11 +1,11 @@
 {
-    "id": "72ed9fa0-8c9c-4c4b-8d55-29e0c0ba50ac",
-    "name": "Deauth Attack",
-    "cost": "{2}{B}",
-    "type": "Mágica instantânea",
-    "description": "Equipamentos perdem todas as suas habilidades e não podem ser equipados até o final do turno. Além disso, se você controlar uma permanente com \"CIP\" ou \"HAHC\" no nome, seus oponentes não podem conjurar mágicas de artefato neste turno.",
-    "image": "Deauth Attack.webp",
-    "edition": null,
-    "year": null,
-    "flavor": "Conexão perdida. Tentando reconectar..."
+  "id": "72ed9fa0-8c9c-4c4b-8d55-29e0c0ba50ac",
+  "name": "Deauth Attack",
+  "cost": "{2}{B}",
+  "type": "Mágica instantânea",
+  "description": "Equipamentos perdem todas as suas habilidades e não podem ser equipados até o final do turno. Além disso, se você controlar uma permanente com \"CIP\" ou \"HAHC\" no nome, seus oponentes não podem conjurar mágicas de artefato neste turno.",
+  "image": "image/deauth-attack.webp",
+  "edition": null,
+  "year": null,
+  "flavor": "Conexão perdida. Tentando reconectar..."
 }

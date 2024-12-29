@@ -1,10 +1,10 @@
 {
-    "id": "67a44ba8-9a0e-4a24-8e97-cce99f76c4a4",
-    "name": "Invocacao do Hacking Holistico",
-    "cost": "{2}{B}",
-    "type": "Encantamento - Habilidade Defensiva",
-    "description": "No inicio do seu turno, olhe as tres cartas do topo do seu deck. Voce pode revelar uma carta de criatura ou encantamento entre elas e deixa-la a sua mao. Coloque as outras cartas no fundo do seu deck em qualquer ordem. // Ate o final do turno, uma criatura ou encantamento alvo que voce controla ganha protecao contra a cor de sua escolha.",
-    "image": "Invocacao do Hacking Holistico.webp",
-    "edition": "Vidas Lbius",
-    "year": ""
+  "id": "67a44ba8-9a0e-4a24-8e97-cce99f76c4a4",
+  "name": "Invocacao do Hacking Holistico",
+  "cost": "{2}{B}",
+  "type": "Encantamento - Habilidade Defensiva",
+  "description": "No inicio do seu turno, olhe as tres cartas do topo do seu deck. Voce pode revelar uma carta de criatura ou encantamento entre elas e deixa-la a sua mao. Coloque as outras cartas no fundo do seu deck em qualquer ordem. // Ate o final do turno, uma criatura ou encantamento alvo que voce controla ganha protecao contra a cor de sua escolha.",
+  "image": "image/ptaas-ibliss-invocação-do-hacking-holístico.webp",
+  "edition": "Vidas Lbius",
+  "year": ""
 }

@@ -1,11 +1,11 @@
 {
-    "id": "cb718647-0c8d-4b0a-9cd9-b028e0bbdcc0",
-    "name": "Sérgio Dias (Coxinha)",
-    "cost": "{2}{W}{W}",
-    "type": "Criatura - CISSP Paladin",
-    "description": "Conquiste seus adversários no happy hour. Suas craturas recebem +0/+1.\nCuidado para não ser ownad no bar. Se você estiver com o Bluetooth ativo, sacrifique Sérgio Dias e perca 2 pontos de vida.",
-    "image": "Sérgio Dias (Coxinha).webp",
-    "edition": null,
-    "year": null,
-    "flavor": "\"Agora dá pra tudo 'vamoná', meu senhor\", ou então tava fraco, mas resistência nos chama da adversidade\""
+  "id": "cb718647-0c8d-4b0a-9cd9-b028e0bbdcc0",
+  "name": "Sérgio Dias (Coxinha)",
+  "cost": "{2}{W}{W}",
+  "type": "Criatura - CISSP Paladin",
+  "description": "Conquiste seus adversários no happy hour. Suas craturas recebem +0/+1.\nCuidado para não ser ownad no bar. Se você estiver com o Bluetooth ativo, sacrifique Sérgio Dias e perca 2 pontos de vida.",
+  "image": "image/sérgio-dias-coxinha.webp",
+  "edition": null,
+  "year": null,
+  "flavor": "\"Agora dá pra tudo 'vamoná', meu senhor\", ou então tava fraco, mas resistência nos chama da adversidade\""
 }

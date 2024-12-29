@@ -1,10 +1,10 @@
 {
-    "id": "c1623c2b-8d0a-4c34-9d6c-f86f4c7e6e8e",
-    "name": "BSidesJP - BSides João Pessoa",
-    "cost": "",
-    "type": "Cyber Land",
-    "description": "Adicione {B} na sua pool de mana.",
-    "image": "BSidesJP - BSides João Pessoa.webp",
-    "edition": "",
-    "year": ""
+  "id": "c1623c2b-8d0a-4c34-9d6c-f86f4c7e6e8e",
+  "name": "BSidesJP - BSides João Pessoa",
+  "cost": "",
+  "type": "Cyber Land",
+  "description": "Adicione {B} na sua pool de mana.",
+  "image": "image/bsidesjp-bsides-joão-pessoa.webp",
+  "edition": "",
+  "year": ""
 }

@@ -1,10 +1,10 @@
 {
-    "id": "aa47786e-e779-4ca1-b47d-46d73e6c5a96",
-    "name": "Conviso Platform (ASPM)",
-    "cost": "{2}{U}",
-    "type": "Encantamento - Habilidade Defensiva",
-    "description": "Graças a maturidade de segurança no seu processo de desenvolvimento seguro, enquanto Conviso Platform permanecer em jogo todas criaturas que você controla recebem +0/+2.",
-    "image": "Conviso Platform (ASPM).webp",
-    "edition": null,
-    "year": null
+  "id": "aa47786e-e779-4ca1-b47d-46d73e6c5a96",
+  "name": "Conviso Platform (ASPM)",
+  "cost": "{2}{U}",
+  "type": "Encantamento - Habilidade Defensiva",
+  "description": "Graças a maturidade de segurança no seu processo de desenvolvimento seguro, enquanto Conviso Platform permanecer em jogo todas criaturas que você controla recebem +0/+2.",
+  "image": "image/conviso-platform-aspm-2.webp",
+  "edition": null,
+  "year": null
 }

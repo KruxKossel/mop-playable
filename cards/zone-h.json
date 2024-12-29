@@ -1,10 +1,10 @@
 {
-    "id": "9b71f8db-5e94-4d1e-9fed-54b2f701d9f2",
-    "name": "ZONE - H",
-    "cost": "",
-    "type": "Cyber Land",
-    "description": "Adicione {?} à sua mana pool.",
-    "image": "ZONE - H.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "9b71f8db-5e94-4d1e-9fed-54b2f701d9f2",
+  "name": "ZONE - H",
+  "cost": "",
+  "type": "Cyber Land",
+  "description": "Adicione {?} à sua mana pool.",
+  "image": "image/zone-h.webp",
+  "edition": "Player Card",
+  "year": ""
 }

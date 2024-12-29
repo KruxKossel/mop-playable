@@ -1,12 +1,12 @@
 {
-    "id": "9e388fc0-3d97-4724-a665-d0c07a86c2e7",
-    "name": "Leonardo Militelli",
-    "cost": "{2}{W}{W}",
-    "type": "Criatura - Entrepreneur Hacker",
-    "description": "Sempre que você joga um feitiço branco ou uma criatura branca entra no campo de batalha sob seu controle, você ganha 1 ponto de vida. Protocolo de Segurança: {W}{W}, Até o final do turno, outra criatura alvo ganha proteção contra a cor de sua escolha.",
-    "image": "Leonardo Militelli.webp",
-    "edition": null,
-    "year": null,
-    "power": 3,
-    "toughness": 4
+  "id": "9e388fc0-3d97-4724-a665-d0c07a86c2e7",
+  "name": "Leonardo Militelli",
+  "cost": "{2}{W}{W}",
+  "type": "Criatura - Entrepreneur Hacker",
+  "description": "Sempre que você joga um feitiço branco ou uma criatura branca entra no campo de batalha sob seu controle, você ganha 1 ponto de vida. Protocolo de Segurança: {W}{W}, Até o final do turno, outra criatura alvo ganha proteção contra a cor de sua escolha.",
+  "image": "image/leonardo-militelli.webp",
+  "edition": null,
+  "year": null,
+  "power": 3,
+  "toughness": 4
 }

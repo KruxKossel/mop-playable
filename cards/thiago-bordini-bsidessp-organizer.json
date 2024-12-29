@@ -1,10 +1,10 @@
 {
-    "id": "b38d9971-b8f4-4b75-89bd-fb0464ee1b5d",
-    "name": "Thiago Bordini - BSidesSP Organizer",
-    "cost": "{U}{U}",
-    "type": "Criatura - Humano Hacker",
-    "description": "Threat intelligence - Ao conjurar essa carta você pode ver a mão do seu oponente e as próximas 2 cartas no deck adversário - ou implementar bots de whatsapp e telegram à sua escolha.",
-    "image": "Thiago Bordini - BSidesSP Organizer.webp",
-    "edition": null,
-    "year": null
+  "id": "b38d9971-b8f4-4b75-89bd-fb0464ee1b5d",
+  "name": "Thiago Bordini - BSidesSP Organizer",
+  "cost": "{U}{U}",
+  "type": "Criatura - Humano Hacker",
+  "description": "Threat intelligence - Ao conjurar essa carta você pode ver a mão do seu oponente e as próximas 2 cartas no deck adversário - ou implementar bots de whatsapp e telegram à sua escolha.",
+  "image": "image/thiago-bordini-bsidessp-organizer.webp",
+  "edition": null,
+  "year": null
 }

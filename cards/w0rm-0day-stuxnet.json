@@ -1,11 +1,11 @@
 {
-    "id": "4dcc3c54-6ca0-4c09-9b67-d4a876db2fba",
-    "name": "StuxNet",
-    "cost": "{U}{B}",
-    "type": "Feitiço",
-    "description": "Escolha um artefato ou criatura alvo. Coloque três marcadores de \"corrupção\" nesse permanente. Enquanto o permanente tiver um marcador de \"corrupção\", ele não pode atacar, bloquear ou ativar suas habilidades. No início da fase final de cada turno, remova um marcador de \"corrupção\" do permanente.",
-    "image": "StuxNet.webp",
-    "edition": "Código Malicioso",
-    "year": null,
-    "flavor": "StuxNet não destrói, ele subverte e debilita, infiltrando-se no seu alvo."
+  "id": "4dcc3c54-6ca0-4c09-9b67-d4a876db2fba",
+  "name": "StuxNet",
+  "cost": "{U}{B}",
+  "type": "Feitiço",
+  "description": "Escolha um artefato ou criatura alvo. Coloque três marcadores de \"corrupção\" nesse permanente. Enquanto o permanente tiver um marcador de \"corrupção\", ele não pode atacar, bloquear ou ativar suas habilidades. No início da fase final de cada turno, remova um marcador de \"corrupção\" do permanente.",
+  "image": "image/stuxnet.webp",
+  "edition": "Código Malicioso",
+  "year": null,
+  "flavor": "StuxNet não destrói, ele subverte e debilita, infiltrando-se no seu alvo."
 }

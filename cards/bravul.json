@@ -1,11 +1,11 @@
 {
-    "id": "a5a71e06-b948-4aa5-9ef1-d1f2c489fbd9",
-    "name": "Bravul",
-    "cost": "{2}{R}",
-    "type": "Mágica Instantânea",
-    "description": "Cause 3 pontos de dano a qualquer alvo. Se esta mágica foi conjurada durante o combate, as criaturas que você controla ganham +1/+0 até o final do turno.",
-    "image": "Bravul.webp",
-    "edition": null,
-    "year": null,
-    "flavor": "\"A coragem surge no caos, queimando tudo que tenta bará-la.\""
+  "id": "a5a71e06-b948-4aa5-9ef1-d1f2c489fbd9",
+  "name": "Bravul",
+  "cost": "{2}{R}",
+  "type": "Mágica Instantânea",
+  "description": "Cause 3 pontos de dano a qualquer alvo. Se esta mágica foi conjurada durante o combate, as criaturas que você controla ganham +1/+0 até o final do turno.",
+  "image": "image/bravul.webp",
+  "edition": null,
+  "year": null,
+  "flavor": "\"A coragem surge no caos, queimando tudo que tenta bará-la.\""
 }

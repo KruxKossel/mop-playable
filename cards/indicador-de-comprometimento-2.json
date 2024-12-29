@@ -1,10 +1,10 @@
 {
-    "id": "f64b3b12-6fb6-4e61-8d07-1ae78770b6c1",
-    "name": "Indicador de Comprometimento",
-    "cost": "{1}{B}{B}",
-    "type": "Mágica Instantânea — Defesa",
-    "description": "Ganhe 1 ponto de vida para cada criatura que te atacar neste turno. Se essa criatura for de cor preta ou vermelha, ganhe 2 pontos de vida em vez disso. {0}: Refroquer: Seus IOCs estão atualizados. Previna todo o dano que seria causado a você e a você tenha controla neste turno.",
-    "image": "Indicador de Comprometimento.webp",
-    "edition": null,
-    "year": null
+  "id": "f64b3b12-6fb6-4e61-8d07-1ae78770b6c1",
+  "name": "Indicador de Comprometimento",
+  "cost": "{1}{B}{B}",
+  "type": "Mágica Instantânea — Defesa",
+  "description": "Ganhe 1 ponto de vida para cada criatura que te atacar neste turno. Se essa criatura for de cor preta ou vermelha, ganhe 2 pontos de vida em vez disso. {0}: Refroquer: Seus IOCs estão atualizados. Previna todo o dano que seria causado a você e a você tenha controla neste turno.",
+  "image": "image/indicador-de-comprometimento-2.webp",
+  "edition": null,
+  "year": null
 }

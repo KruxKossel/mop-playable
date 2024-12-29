@@ -1,10 +1,10 @@
 {
-    "id": "c30d2a4b-faaa-4d55-8bbb-53c96b0c9b91",
-    "name": "Ygor G — Mestre do Hardware",
-    "cost": "{2}{G}{B}",
-    "type": "Criatura — Underground Pirate",
-    "description": "Furtividade: Esta criatura não pode ser bloqueada por criaturas com poder igual ou superior ao dela.\nSempre que Ygor G — Mestre do Hardware causar dano de combate a um jogador, você pode devolver um card de artefato ou criatura do seu cemitério.\n{B}, Sacrifique outra criatura: Adicione três manas de qualquer combinação de {B} ou {G}.",
-    "image": "Ygor G — Mestre do Hardware.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "c30d2a4b-faaa-4d55-8bbb-53c96b0c9b91",
+  "name": "Ygor G — Mestre do Hardware",
+  "cost": "{2}{G}{B}",
+  "type": "Criatura — Underground Pirate",
+  "description": "Furtividade: Esta criatura não pode ser bloqueada por criaturas com poder igual ou superior ao dela.\nSempre que Ygor G — Mestre do Hardware causar dano de combate a um jogador, você pode devolver um card de artefato ou criatura do seu cemitério.\n{B}, Sacrifique outra criatura: Adicione três manas de qualquer combinação de {B} ou {G}.",
+  "image": "image/ygor-g-mestre-do-hardware.webp",
+  "edition": "Player Card",
+  "year": ""
 }

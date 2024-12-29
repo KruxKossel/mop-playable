@@ -1,10 +1,10 @@
 {
-    "id": "0e47ca56-2fb2-4a07-a2c7-c2721c16afca",
-    "name": "Pendrive da NSA",
-    "cost": "",
-    "type": "Artefato Hacker",
-    "description": "Técnica poderosa: Quando o pendrive é jogado em um estacionamento (seu campo) o oponente é obrigado a pegá-lo junto com o backdoor da sua escolha. Você pode, a qualquer momento, ver a carta do topo do seu oponente e pegá-la para sua mão.",
-    "image": "Pendrive da NSA.webp",
-    "edition": "",
-    "year": ""
+  "id": "0e47ca56-2fb2-4a07-a2c7-c2721c16afca",
+  "name": "Pendrive da NSA",
+  "cost": "",
+  "type": "Artefato Hacker",
+  "description": "Técnica poderosa: Quando o pendrive é jogado em um estacionamento (seu campo) o oponente é obrigado a pegá-lo junto com o backdoor da sua escolha. Você pode, a qualquer momento, ver a carta do topo do seu oponente e pegá-la para sua mão.",
+  "image": "image/pendrive-da-nsa.webp",
+  "edition": "",
+  "year": ""
 }

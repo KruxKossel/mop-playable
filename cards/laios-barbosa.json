@@ -1,12 +1,12 @@
 {
-    "id": "9cbf4b66-52c0-4f9f-872c-5e7c33b4f63e",
-    "name": "Laios Barbosa",
-    "cost": "{2}{G}",
-    "type": "Criatura — Ancient Hacker",
-    "description": "Vigilância\nLaios Barbosa recebe +1/+1 para cada carta de \"Certificação\" no nome que você controla.\nSempre que uma carta de \"Certificação\" entrar no campo de batalha sob seu controle, ganhe 2 pontos de vida.",
-    "image": "Laios Barbosa.webp",
-    "edition": null,
-    "year": null,
-    "power": 2,
-    "toughness": 4
+  "id": "9cbf4b66-52c0-4f9f-872c-5e7c33b4f63e",
+  "name": "Laios Barbosa",
+  "cost": "{2}{G}",
+  "type": "Criatura — Ancient Hacker",
+  "description": "Vigilância\nLaios Barbosa recebe +1/+1 para cada carta de \"Certificação\" no nome que você controla.\nSempre que uma carta de \"Certificação\" entrar no campo de batalha sob seu controle, ganhe 2 pontos de vida.",
+  "image": "image/laios-barbosa.webp",
+  "edition": null,
+  "year": null,
+  "power": 2,
+  "toughness": 4
 }

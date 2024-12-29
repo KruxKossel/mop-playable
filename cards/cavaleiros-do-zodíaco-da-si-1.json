@@ -1,11 +1,11 @@
 {
-    "id": "d30a87f4-30e1-4c50-b576-b78ceee0f1d3",
-    "name": "Cavaleiros do Zodíaco da SI",
-    "cost": "{2}{U}",
-    "type": "Mágica Instantânea",
-    "description": "Escolha até duas criaturas no campo de batalha. Até o final do turno, inverta o poder e a resistência dessas criaturas.",
-    "image": "Cavaleiros do Zodíaco da SI.webp",
-    "edition": null,
-    "year": null,
-    "flavor": "\"Confundir o adversário é tão eficaz quanto o Deny do cosmos quando está ao seu lado.\""
+  "id": "d30a87f4-30e1-4c50-b576-b78ceee0f1d3",
+  "name": "Cavaleiros do Zodíaco da SI",
+  "cost": "{2}{U}",
+  "type": "Mágica Instantânea",
+  "description": "Escolha até duas criaturas no campo de batalha. Até o final do turno, inverta o poder e a resistência dessas criaturas.",
+  "image": "image/cavaleiros-do-zodíaco-da-si-1.webp",
+  "edition": null,
+  "year": null,
+  "flavor": "\"Confundir o adversário é tão eficaz quanto o Deny do cosmos quando está ao seu lado.\""
 }

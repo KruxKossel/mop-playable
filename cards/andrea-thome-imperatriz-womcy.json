@@ -1,10 +1,10 @@
 {
-    "id": "3f307f83-f774-4d36-8a1b-cc47f5db9b25",
-    "name": "Andrea Thome - Imperatriz WOMCY",
-    "cost": "",
-    "type": "Criatura - GRC Expert",
-    "description": "Durante a fase de ataque, caso o oponente escolha uma criatura para defender, essa criatura recebe -1/-1 até o final do turno. Se você for mulher, para cada criatura destruída ganhe +1 ponto de vida.",
-    "image": "Andrea Thome - Imperatriz WOMCY.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "3f307f83-f774-4d36-8a1b-cc47f5db9b25",
+  "name": "Andrea Thome - Imperatriz WOMCY",
+  "cost": "",
+  "type": "Criatura - GRC Expert",
+  "description": "Durante a fase de ataque, caso o oponente escolha uma criatura para defender, essa criatura recebe -1/-1 até o final do turno. Se você for mulher, para cada criatura destruída ganhe +1 ponto de vida.",
+  "image": "image/andrea-thome-imperatriz-womcy.webp",
+  "edition": "Player Card",
+  "year": ""
 }

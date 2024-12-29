@@ -1,12 +1,12 @@
 {
-    "id": "2ddad5e5-78b1-4d88-b343-ebb58df3dc4d",
-    "name": "Daniel Gomes",
-    "cost": "{3}{B}",
-    "type": "Criatura — Humano Hacker",
-    "description": "Toda vez que você ativar uma habilidade de Digitlizar Cymbilas, ganhe 2 pontos de vida. {B}, {T}: Sacrifique um artefato. Previna todo o dano que seria causado a você e às criaturas que você controla até o final do turno. Sempre que um artefato que você controla for sacrificado, você pode criar um token de artefato chamado \"Relatório de Vulnerabilidade\" com \"Compre um card.\"",
-    "image": "Daniel Gomes.webp",
-    "edition": null,
-    "year": null,
-    "power": 3,
-    "toughness": 4
+  "id": "2ddad5e5-78b1-4d88-b343-ebb58df3dc4d",
+  "name": "Daniel Gomes",
+  "cost": "{3}{B}",
+  "type": "Criatura — Humano Hacker",
+  "description": "Toda vez que você ativar uma habilidade de Digitlizar Cymbilas, ganhe 2 pontos de vida. {B}, {T}: Sacrifique um artefato. Previna todo o dano que seria causado a você e às criaturas que você controla até o final do turno. Sempre que um artefato que você controla for sacrificado, você pode criar um token de artefato chamado \"Relatório de Vulnerabilidade\" com \"Compre um card.\"",
+  "image": "image/daniel-gomes.webp",
+  "edition": null,
+  "year": null,
+  "power": 3,
+  "toughness": 4
 }

@@ -1,10 +1,10 @@
 {
-    "id": "44ae4f2e-0dc2-4a87-8ed6-a32a4c0e4a8d",
-    "name": "RedZone",
-    "cost": "",
-    "type": "Cyberland",
-    "description": "Adicione {R} ou {U} ao seu pool de mana",
-    "image": "RedZone.webp",
-    "edition": "",
-    "year": ""
+  "id": "44ae4f2e-0dc2-4a87-8ed6-a32a4c0e4a8d",
+  "name": "RedZone",
+  "cost": "",
+  "type": "Cyberland",
+  "description": "Adicione {R} ou {U} ao seu pool de mana",
+  "image": "image/redzone-2.webp",
+  "edition": "",
+  "year": ""
 }

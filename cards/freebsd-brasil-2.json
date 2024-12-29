@@ -1,10 +1,10 @@
 {
-    "id": "f50f0f90-7f91-4eaa-8d58-9ea03f8f7cfe",
-    "name": "FreeBSD Brasil",
-    "cost": "",
-    "type": "Cyber Land",
-    "description": "",
-    "image": "FreeBSD Brasil.webp",
-    "edition": "",
-    "year": ""
+  "id": "f50f0f90-7f91-4eaa-8d58-9ea03f8f7cfe",
+  "name": "FreeBSD Brasil",
+  "cost": "",
+  "type": "Cyber Land",
+  "description": "",
+  "image": "image/freebsd-brasil-2.webp",
+  "edition": "",
+  "year": ""
 }

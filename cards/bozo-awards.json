@@ -1,10 +1,10 @@
 {
-    "id": "7a38b1a8-b2a0-4d0c-b31f-22fdc2d806e0",
-    "name": "Bozo Awards",
-    "cost": "{U}",
-    "type": "Mágica Instantânea",
-    "description": "Magia lendária que revela a verdade sobre os impostores. Olhe a certa do topo do deck adversário e revele-a. Se essa carta for um card de criatura, destrúa-a e ganhe 3 pontos de vida.",
-    "image": "Bozo Awards.webp",
-    "edition": null,
-    "year": null
+  "id": "7a38b1a8-b2a0-4d0c-b31f-22fdc2d806e0",
+  "name": "Bozo Awards",
+  "cost": "{U}",
+  "type": "Mágica Instantânea",
+  "description": "Magia lendária que revela a verdade sobre os impostores. Olhe a certa do topo do deck adversário e revele-a. Se essa carta for um card de criatura, destrúa-a e ganhe 3 pontos de vida.",
+  "image": "image/bozo-awards.webp",
+  "edition": null,
+  "year": null
 }

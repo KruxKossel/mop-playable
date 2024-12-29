@@ -1,11 +1,11 @@
 {
-    "id": "d09e4d9d-80f7-4f8f-9c88-679ee00a7498",
-    "name": "No Logs, No Crimes!",
-    "cost": "{2}",
-    "type": "Instantâneo",
-    "description": "Você não deixa logs! Todas as criaturas do jogador alvo recebem +2/+2.",
-    "image": "No Logs, No Crimes!.webp",
-    "edition": null,
-    "year": null,
-    "flavor": "\"No, no logs, no crimes !?\" (Log Marley)"
+  "id": "d09e4d9d-80f7-4f8f-9c88-679ee00a7498",
+  "name": "No Logs, No Crimes!",
+  "cost": "{2}",
+  "type": "Instantâneo",
+  "description": "Você não deixa logs! Todas as criaturas do jogador alvo recebem +2/+2.",
+  "image": "image/no-logs,-no-crimes!.webp",
+  "edition": null,
+  "year": null,
+  "flavor": "\"No, no logs, no crimes !?\" (Log Marley)"
 }

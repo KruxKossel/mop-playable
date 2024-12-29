@@ -1,10 +1,10 @@
 {
-    "id": "3cf44b6c-b936-4b92-9ae2-7a5d24af4b4b",
-    "name": "Dirty Cow",
-    "cost": "{2}{R}",
-    "type": "Instant",
-    "description": "Gain control of target creature until end of turn. Devour 3. (As you cast this spell, you may sacrifice any number of creatures. This spell costs 3 less to cast for each creature sacrificed this way.)",
-    "image": "Dirty Cow.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "3cf44b6c-b936-4b92-9ae2-7a5d24af4b4b",
+  "name": "Dirty Cow",
+  "cost": "{2}{R}",
+  "type": "Instant",
+  "description": "Gain control of target creature until end of turn. Devour 3. (As you cast this spell, you may sacrifice any number of creatures. This spell costs 3 less to cast for each creature sacrificed this way.)",
+  "image": "image/dirtycow-2.webp",
+  "edition": "Player Card",
+  "year": ""
 }

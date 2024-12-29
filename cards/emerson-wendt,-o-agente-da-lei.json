@@ -1,12 +1,12 @@
 {
-    "id": "4d7d38bc-75ca-4531-a164-3c89e29f09c4",
-    "name": "Emerson Wendt, o Agente da lei",
-    "cost": "{2}{G}{U}",
-    "type": "Criatura — Humano Hacker",
-    "description": "Quando Emerson Wendt, o Agente da lei entra no campo de batalha, você pode procurar no seu deck por uma carta de feitiço ou encantamento com um custo de mana de 3 ou menos, revelá-la e colocá-la na sua mão. Depois, embaralhe seu deck.\n{1}{G}{U}, {T}: Detenha uma criatura alvo que um oponente controle. (Aquela criatura não pode atacar ou bloquear e suas habilidades ativadas não podem ser ativadas) até o próximo turno.",
-    "image": "Emerson Wendt, o Agente da lei.webp",
-    "edition": null,
-    "year": null,
-    "power": 3,
-    "toughness": 2
+  "id": "4d7d38bc-75ca-4531-a164-3c89e29f09c4",
+  "name": "Emerson Wendt, o Agente da lei",
+  "cost": "{2}{G}{U}",
+  "type": "Criatura — Humano Hacker",
+  "description": "Quando Emerson Wendt, o Agente da lei entra no campo de batalha, você pode procurar no seu deck por uma carta de feitiço ou encantamento com um custo de mana de 3 ou menos, revelá-la e colocá-la na sua mão. Depois, embaralhe seu deck.\n{1}{G}{U}, {T}: Detenha uma criatura alvo que um oponente controle. (Aquela criatura não pode atacar ou bloquear e suas habilidades ativadas não podem ser ativadas) até o próximo turno.",
+  "image": "image/emerson-wendt,-o-agente-da-lei.webp",
+  "edition": null,
+  "year": null,
+  "power": 3,
+  "toughness": 2
 }

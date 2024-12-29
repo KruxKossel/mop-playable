@@ -1,12 +1,12 @@
 {
-    "id": "bf69ccab-aab3-4eb0-b3f6-9e67f28bc8b1",
-    "name": "Marina Ciavatta",
-    "cost": "{1}{G}",
-    "type": "Criatura - Humano Hacker",
-    "description": "1 G: Escolha um oponente e, com seu poder de Engenharia Social, olhe a mão daquele jogador. Uma vez por turno, você pode fazer com que Marina Ciavatta se torne alvo de uma magia ou habilidade de um oponente e, assim, redirecione essa magia ou habilidade para outro alvo à sua escolha.",
-    "image": "Marina Ciavatta.webp",
-    "edition": null,
-    "year": null,
-    "power": 2,
-    "toughness": 4
+  "id": "bf69ccab-aab3-4eb0-b3f6-9e67f28bc8b1",
+  "name": "Marina Ciavatta",
+  "cost": "{1}{G}",
+  "type": "Criatura - Humano Hacker",
+  "description": "1 G: Escolha um oponente e, com seu poder de Engenharia Social, olhe a mão daquele jogador. Uma vez por turno, você pode fazer com que Marina Ciavatta se torne alvo de uma magia ou habilidade de um oponente e, assim, redirecione essa magia ou habilidade para outro alvo à sua escolha.",
+  "image": "image/marina-ciavatta.webp",
+  "edition": null,
+  "year": null,
+  "power": 2,
+  "toughness": 4
 }

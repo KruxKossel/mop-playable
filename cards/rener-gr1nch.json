@@ -1,12 +1,12 @@
 {
-    "id": "9cadd5ca-5ae2-4efe-9551-4b5a7ecb4552",
-    "name": "Rener Grlnch",
-    "cost": "{2}{B}",
-    "type": "Criatura - Pentester",
-    "description": "Sempre que Rener Gr1nch é alvo de uma mágica ou habilidade, você pode pagar {2}. Se fizer isso, contra-ataque aquela mágica ou habilidade e remova Rener Gr1nch do jogo. Retorne-o ao campo de batalha sob seu controle no início da próxima etapa final.",
-    "image": "Rener Grlnch.webp",
-    "edition": null,
-    "year": null,
-    "power": 2,
-    "toughness": 2
+  "id": "9cadd5ca-5ae2-4efe-9551-4b5a7ecb4552",
+  "name": "Rener Grlnch",
+  "cost": "{2}{B}",
+  "type": "Criatura - Pentester",
+  "description": "Sempre que Rener Gr1nch é alvo de uma mágica ou habilidade, você pode pagar {2}. Se fizer isso, contra-ataque aquela mágica ou habilidade e remova Rener Gr1nch do jogo. Retorne-o ao campo de batalha sob seu controle no início da próxima etapa final.",
+  "image": "image/rener-gr1nch.webp",
+  "edition": null,
+  "year": null,
+  "power": 2,
+  "toughness": 2
 }

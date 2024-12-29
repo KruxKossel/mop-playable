@@ -1,10 +1,10 @@
 {
-    "id": "b3467f50-d1f3-4ebe-9be3-36ae1fc98d3f",
-    "name": "Victor Santos - Vitão",
-    "cost": "",
-    "type": "Criatura - Humano Hacker",
-    "description": "Vigilância\nQuando Vitão entrar em jogo, ganhe +2 pontos de vida.\nSe essa carta estiver em campo de batalha, Octopus SIEM não poderá ser anulado.",
-    "image": "Victor Santos - Vitão.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "b3467f50-d1f3-4ebe-9be3-36ae1fc98d3f",
+  "name": "Victor Santos - Vitão",
+  "cost": "",
+  "type": "Criatura - Humano Hacker",
+  "description": "Vigilância\nQuando Vitão entrar em jogo, ganhe +2 pontos de vida.\nSe essa carta estiver em campo de batalha, Octopus SIEM não poderá ser anulado.",
+  "image": "image/victor-santos-vitão.webp",
+  "edition": "Player Card",
+  "year": ""
 }

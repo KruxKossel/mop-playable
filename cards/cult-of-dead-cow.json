@@ -1,12 +1,12 @@
 {
-    "id": "30f0a9e2-65ed-4cc7-b4b8-cd7a94f4a4ae",
-    "name": "Cult of Dead Cow",
-    "cost": "{2}{B}{B}",
-    "type": "Criatura — Ancient Hacker",
-    "description": "Quando Cult of Dead Cow entra no campo de batalha, o oponente alvo revela a própria mão. Você pode exilar um card dela com valor de mana 3 ou menos. Se um jogador descartaria um card devido a um efeito que você controla, você pode comprar um card.",
-    "image": "Cult of Dead Cow.webp",
-    "edition": null,
-    "year": null,
-    "power": 3,
-    "toughness": 4
+  "id": "30f0a9e2-65ed-4cc7-b4b8-cd7a94f4a4ae",
+  "name": "Cult of Dead Cow",
+  "cost": "{2}{B}{B}",
+  "type": "Criatura — Ancient Hacker",
+  "description": "Quando Cult of Dead Cow entra no campo de batalha, o oponente alvo revela a própria mão. Você pode exilar um card dela com valor de mana 3 ou menos. Se um jogador descartaria um card devido a um efeito que você controla, você pode comprar um card.",
+  "image": "image/cult-of-dead-cow.webp",
+  "edition": null,
+  "year": null,
+  "power": 3,
+  "toughness": 4
 }

@@ -1,12 +1,12 @@
 {
-    "id": "bdd98c47-524f-44ef-af4c-c1c8a90b7e74",
-    "name": "Clandestine",
-    "cost": "{2}{B}{B}",
-    "type": "Creature — Underground Pirate",
-    "description": "Togue Mortifero (Whenever Clandestine deals damage to an opponent, exile the top card of that player's graveyard. You may cast that card for as long as it remains exiled.)\n{B}{B}, {T}: Exile the top card of an opponent's graveyard.",
-    "image": "Clandestine.webp",
-    "edition": null,
-    "year": null,
-    "power": 1,
-    "toughness": 4
+  "id": "bdd98c47-524f-44ef-af4c-c1c8a90b7e74",
+  "name": "Clandestine",
+  "cost": "{2}{B}{B}",
+  "type": "Creature — Underground Pirate",
+  "description": "Togue Mortifero (Whenever Clandestine deals damage to an opponent, exile the top card of that player's graveyard. You may cast that card for as long as it remains exiled.)\n{B}{B}, {T}: Exile the top card of an opponent's graveyard.",
+  "image": "image/clandestine.webp",
+  "edition": null,
+  "year": null,
+  "power": 1,
+  "toughness": 4
 }

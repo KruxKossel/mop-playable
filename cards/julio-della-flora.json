@@ -1,10 +1,10 @@
 {
-    "id": "d0b59ab7-fcf3-4bf4-8f78-d8a47f76b3e7",
-    "name": "Julio Della Flora",
-    "cost": "{2}{G}",
-    "type": "Criatura - Hardware Hacker",
-    "description": "Use seu conhecimento de hardware hacking para olhar o topo de até três cartas de qualquer grimório e colocá-las de volta em qualquer ordem. Pague {2}: Julio Della Flora ganha proteção contra feitiços ou habilidades que seu oponente controla até o final do turno.",
-    "image": "Julio Della Flora.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "d0b59ab7-fcf3-4bf4-8f78-d8a47f76b3e7",
+  "name": "Julio Della Flora",
+  "cost": "{2}{G}",
+  "type": "Criatura - Hardware Hacker",
+  "description": "Use seu conhecimento de hardware hacking para olhar o topo de até três cartas de qualquer grimório e colocá-las de volta em qualquer ordem. Pague {2}: Julio Della Flora ganha proteção contra feitiços ou habilidades que seu oponente controla até o final do turno.",
+  "image": "image/julio-della-flora.webp",
+  "edition": "Player Card",
+  "year": ""
 }

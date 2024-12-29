@@ -1,10 +1,10 @@
 {
-    "id": "d26bcbac-d9d2-4270-ac18-6ab9b30ed684",
-    "name": "Stagefright",
-    "cost": "",
-    "type": "Mágica Instantânea - Exploit",
-    "description": "O jogador alvo descarta uma carta e perde 2 pontos de vida. Se o jogador alvo possuir um smartphone android, ao invés disso, ele descarta duas cartas aleatórias e perde 4 pontos de vida.",
-    "image": "Stagefright.webp",
-    "edition": "",
-    "year": ""
+  "id": "d26bcbac-d9d2-4270-ac18-6ab9b30ed684",
+  "name": "Stagefright",
+  "cost": "",
+  "type": "Mágica Instantânea - Exploit",
+  "description": "O jogador alvo descarta uma carta e perde 2 pontos de vida. Se o jogador alvo possuir um smartphone android, ao invés disso, ele descarta duas cartas aleatórias e perde 4 pontos de vida.",
+  "image": "image/stagefright.webp",
+  "edition": "",
+  "year": ""
 }

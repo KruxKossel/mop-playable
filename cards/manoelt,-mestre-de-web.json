@@ -1,12 +1,12 @@
 {
-    "id": "4f476eeb-eddb-4df2-9e8e-21e855cf419b",
-    "name": "ManoelT, Mestre de Web",
-    "cost": "{W}{U}",
-    "type": "Criatura - Bounty Hacker",
-    "description": "Quando ManoelT entra no campo de batalha procure em seu grimório por uma carta de certificação web e anexe a uma criatura hacker que você controla, embaralhe. Suas criaturas encantadas com certificação web recebem +2/+2.",
-    "image": "ManoelT, Mestre de Web.webp",
-    "edition": null,
-    "year": null,
-    "power": 2,
-    "toughness": 2
+  "id": "4f476eeb-eddb-4df2-9e8e-21e855cf419b",
+  "name": "ManoelT, Mestre de Web",
+  "cost": "{W}{U}",
+  "type": "Criatura - Bounty Hacker",
+  "description": "Quando ManoelT entra no campo de batalha procure em seu grimório por uma carta de certificação web e anexe a uma criatura hacker que você controla, embaralhe. Suas criaturas encantadas com certificação web recebem +2/+2.",
+  "image": "image/manoelt,-mestre-de-web.webp",
+  "edition": null,
+  "year": null,
+  "power": 2,
+  "toughness": 2
 }

@@ -1,12 +1,12 @@
 {
-    "id": "6d09de03-ee55-4dde-86ec-65b76bf4ab21",
-    "name": "Geolado, Buscador do Saber",
-    "cost": "{2}{G}{U}",
-    "type": "Criatura - Bounty Hacker",
-    "description": "Lampejo\nQuando Geolado, buscador do saber entra no campo de batalha procure em seu grimório por uma carta de equipamento hacker e coloque em sua mão, embaralhe.\n1 {G} {U}: Você pode colocar uma carta de equipamento hacker de sua mão no campo de batalha anexado a uma criatura que você controla.",
-    "image": "Geolado, Buscador do Saber.webp",
-    "edition": null,
-    "year": null,
-    "power": 3,
-    "toughness": 2
+  "id": "6d09de03-ee55-4dde-86ec-65b76bf4ab21",
+  "name": "Geolado, Buscador do Saber",
+  "cost": "{2}{G}{U}",
+  "type": "Criatura - Bounty Hacker",
+  "description": "Lampejo\nQuando Geolado, buscador do saber entra no campo de batalha procure em seu grimório por uma carta de equipamento hacker e coloque em sua mão, embaralhe.\n1 {G} {U}: Você pode colocar uma carta de equipamento hacker de sua mão no campo de batalha anexado a uma criatura que você controla.",
+  "image": "image/geolado,-buscador-do-saber.webp",
+  "edition": null,
+  "year": null,
+  "power": 3,
+  "toughness": 2
 }

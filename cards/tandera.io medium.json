@@ -1,10 +1,10 @@
 {
-    "id": "08789d60-9d55-4a20-9c99-7cd12fbe73b5",
-    "name": "Tandera, Io",
-    "cost": "",
-    "type": "Cyberland",
-    "description": "Recon Beyond Sight",
-    "image": "Tandera, Io.webp",
-    "edition": "",
-    "year": ""
+  "id": "08789d60-9d55-4a20-9c99-7cd12fbe73b5",
+  "name": "Tandera, Io",
+  "cost": "",
+  "type": "Cyberland",
+  "description": "Recon Beyond Sight",
+  "image": "image/tandera.io.webp",
+  "edition": "",
+  "year": ""
 }

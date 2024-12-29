@@ -1,10 +1,10 @@
 {
-    "id": "6419f5c0-fda6-4f59-8155-df3ad7e3b22a",
-    "name": "Security BSides São Paulo (BSidesSP)",
-    "cost": "",
-    "type": "Player Card",
-    "description": "Conferencia / BSidesSP",
-    "image": "Security BSides São Paulo (BSidesSP).webp",
-    "edition": "",
-    "year": ""
+  "id": "6419f5c0-fda6-4f59-8155-df3ad7e3b22a",
+  "name": "Security BSides São Paulo (BSidesSP)",
+  "cost": "",
+  "type": "Player Card",
+  "description": "Conferencia / BSidesSP",
+  "image": "image/security-bsides-são-paulo-bsidessp.webp",
+  "edition": "",
+  "year": ""
 }

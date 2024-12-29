@@ -1,10 +1,10 @@
 {
-    "id": "81864aac-6c56-4d22-917e-8b25ad550dab",
-    "name": "Bash Bunny",
-    "cost": "{1}",
-    "type": "Artefato — Ferramenta Hacker",
-    "description": "1, © : Ganhe controle de um artefato alvo com custo de mana convertido igual ou inferior a 2 até o final do turno. 2, © : Sacrifique Bash Bunny: Destrúa um artefato alvo ou devolva um artefato alvo para a mão do seu dono.",
-    "image": "Bash Bunny.webp",
-    "edition": null,
-    "year": null
+  "id": "81864aac-6c56-4d22-917e-8b25ad550dab",
+  "name": "Bash Bunny",
+  "cost": "{1}",
+  "type": "Artefato — Ferramenta Hacker",
+  "description": "1, © : Ganhe controle de um artefato alvo com custo de mana convertido igual ou inferior a 2 até o final do turno. 2, © : Sacrifique Bash Bunny: Destrúa um artefato alvo ou devolva um artefato alvo para a mão do seu dono.",
+  "image": "image/bash-bunny.webp",
+  "edition": null,
+  "year": null
 }

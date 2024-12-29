@@ -1,11 +1,11 @@
 {
-    "id": "d7ea573e-5d24-4e36-9daa-6db3a2df8151",
-    "name": "Vazou.ai",
-    "cost": "{U}{B}",
-    "type": "Feitiço",
-    "description": "Revele os três cards do topo do grimório de um oponente. Escolha um card para celuir e coloque os outros dois no cemitério daquele jogador. Se você controla uma criatura ou artefato com \"Threat Intel\" em seu nome, compre um card.",
-    "image": "Vazou.ai.webp",
-    "edition": null,
-    "year": null,
-    "flavor": "\"Cada vazamento é um tesouro para quem sabe onde procurar.\""
+  "id": "d7ea573e-5d24-4e36-9daa-6db3a2df8151",
+  "name": "Vazou.ai",
+  "cost": "{U}{B}",
+  "type": "Feitiço",
+  "description": "Revele os três cards do topo do grimório de um oponente. Escolha um card para celuir e coloque os outros dois no cemitério daquele jogador. Se você controla uma criatura ou artefato com \"Threat Intel\" em seu nome, compre um card.",
+  "image": "image/vazou.webp",
+  "edition": null,
+  "year": null,
+  "flavor": "\"Cada vazamento é um tesouro para quem sabe onde procurar.\""
 }

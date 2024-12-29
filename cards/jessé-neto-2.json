@@ -1,12 +1,12 @@
 {
-    "id": "fdfec4ab-6ef1-4ab7-a4b4-0a48e3f72d64",
-    "name": "Jessé Neto",
-    "cost": "{2}{U}{R}",
-    "type": "Criatura — Purple teamer",
-    "description": "Imbeto\nSempre que Jessé Neto atacar, cause 2 pontos de dano a cada oponente.\n{2}, Sacrifique um artefato: Compre um card.\n{R}, Sacrifique um terreno: Anule a mágica alvo.",
-    "image": "Jessé Neto.webp",
-    "edition": null,
-    "year": null,
-    "power": 4,
-    "toughness": 3
+  "id": "fdfec4ab-6ef1-4ab7-a4b4-0a48e3f72d64",
+  "name": "Jessé Neto",
+  "cost": "{2}{U}{R}",
+  "type": "Criatura — Purple teamer",
+  "description": "Imbeto\nSempre que Jessé Neto atacar, cause 2 pontos de dano a cada oponente.\n{2}, Sacrifique um artefato: Compre um card.\n{R}, Sacrifique um terreno: Anule a mágica alvo.",
+  "image": "image/jessé-neto-2.webp",
+  "edition": null,
+  "year": null,
+  "power": 4,
+  "toughness": 3
 }

@@ -1,11 +1,11 @@
 {
-    "id": "1e673b87-dd53-4d3c-ac62-84fecb24d6b3",
-    "name": "Resposta à Incidente",
-    "cost": "{2}{U}{R}",
-    "type": "Mágica Instantânea — Defesa",
-    "description": "Anule uma mágica alvo que um oponente controle. Se essa mágica for uma criatura, cause 3 pontos de dano ao controlador dela. Se Resposta à Incidente for anulada, compre dois cards.",
-    "image": "Resposta à Incidente.webp",
-    "edition": null,
-    "year": null,
-    "flavor": "As melhores respostas não apenas interrompem, mas também avançam com cada ataque."
+  "id": "1e673b87-dd53-4d3c-ac62-84fecb24d6b3",
+  "name": "Resposta à Incidente",
+  "cost": "{2}{U}{R}",
+  "type": "Mágica Instantânea — Defesa",
+  "description": "Anule uma mágica alvo que um oponente controle. Se essa mágica for uma criatura, cause 3 pontos de dano ao controlador dela. Se Resposta à Incidente for anulada, compre dois cards.",
+  "image": "image/resposta-à-incidente.webp",
+  "edition": null,
+  "year": null,
+  "flavor": "As melhores respostas não apenas interrompem, mas também avançam com cada ataque."
 }

@@ -1,12 +1,12 @@
 {
-    "id": "fc4d5b33-6d5f-4c4b-8e10-afc0b74bf1ba",
-    "name": "Alexandre Sieira",
-    "cost": "{U}",
-    "type": "Criatura - CISSP Paladin",
-    "description": "Quando o Sieira entra em campo, você lança sua startup de cloud security e pode comprar 2 cartas extras. Ao comprar duas cartas extras, crie outra startup.",
-    "image": "alexandre-sieira.webp",
-    "edition": null,
-    "year": null,
-    "power": 0,
-    "toughness": 3
+  "id": "fc4d5b33-6d5f-4c4b-8e10-afc0b74bf1ba",
+  "name": "Alexandre Sieira",
+  "cost": "{U}",
+  "type": "Criatura - CISSP Paladin",
+  "description": "Quando o Sieira entra em campo, você lança sua startup de cloud security e pode comprar 2 cartas extras. Ao comprar duas cartas extras, crie outra startup.",
+  "image": "image/alexandre-sieira.webp",
+  "edition": null,
+  "year": null,
+  "power": 0,
+  "toughness": 3
 }

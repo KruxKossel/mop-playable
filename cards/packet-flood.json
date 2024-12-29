@@ -1,10 +1,10 @@
 {
-    "id": "5c1b2c7a-eda7-4e3d-8bb7-fe18f9b77cd6",
-    "name": "Packet-Flood",
-    "cost": "{X}{R}",
-    "type": "Feitico",
-    "description": "Packet-Flood causa X de dano dividido como você desejar entre qualquer número de criaturas, planeswalkers ou jogadores. Se X for 5 ou mais, Packet-Flood também causa 2 de dano a cada oponente e a cada criatura que eles controlam.",
-    "image": "Packet-Flood.webp",
-    "edition": null,
-    "year": null
+  "id": "5c1b2c7a-eda7-4e3d-8bb7-fe18f9b77cd6",
+  "name": "Packet-Flood",
+  "cost": "{X}{R}",
+  "type": "Feitico",
+  "description": "Packet-Flood causa X de dano dividido como você desejar entre qualquer número de criaturas, planeswalkers ou jogadores. Se X for 5 ou mais, Packet-Flood também causa 2 de dano a cada oponente e a cada criatura que eles controlam.",
+  "image": "image/packet-flood.webp",
+  "edition": null,
+  "year": null
 }

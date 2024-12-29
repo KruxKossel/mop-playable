@@ -1,11 +1,11 @@
 {
-    "id": "3ecd6c11-97ec-4adc-a988-49db2bfbd4bf",
-    "name": "Dumont HackerSpace",
-    "cost": "",
-    "type": "Cyberland",
-    "description": "Cyberland\n\nQ+, Add {C} to your mana pool.",
-    "image": "Dumont HackerSpace.webp",
-    "edition": "",
-    "year": "",
-    "flavor": "\"Um HackerSpace para todos os HackerSpaces\""
+  "id": "3ecd6c11-97ec-4adc-a988-49db2bfbd4bf",
+  "name": "Dumont HackerSpace",
+  "cost": "",
+  "type": "Cyberland",
+  "description": "Cyberland\n\nQ+, Add {C} to your mana pool.",
+  "image": "image/dumont-hackerspace.webp",
+  "edition": "",
+  "year": "",
+  "flavor": "\"Um HackerSpace para todos os HackerSpaces\""
 }

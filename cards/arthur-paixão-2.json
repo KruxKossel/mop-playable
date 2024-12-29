@@ -1,10 +1,10 @@
 {
-    "id": "0f8c6629-3e11-4de6-b937-37e8f8af3380",
-    "name": "Arthur Paixão",
-    "cost": "{3}{W}{B}",
-    "type": "Criatura - CISSP Paladin",
-    "description": "Ímpeto, Atropelar. Quando Arthur Paixão entra em jogo, escolha um —  • Todas as outras criaturas que você controla recebem +2/+0 até o fim do turno. • Testosterona — as outras criaturas que você controla recebem atropelar até o fim do turno. Retorço {W}{B} ({W}{B}: Ao somarizar, essa criatura você pode pagar {W}{B}. Se você o fizer, deposite-a transformada.)",
-    "image": "Arthur Paixão.webp",
-    "edition": "",
-    "year": ""
+  "id": "0f8c6629-3e11-4de6-b937-37e8f8af3380",
+  "name": "Arthur Paixão",
+  "cost": "{3}{W}{B}",
+  "type": "Criatura - CISSP Paladin",
+  "description": "Ímpeto, Atropelar. Quando Arthur Paixão entra em jogo, escolha um —  • Todas as outras criaturas que você controla recebem +2/+0 até o fim do turno. • Testosterona — as outras criaturas que você controla recebem atropelar até o fim do turno. Retorço {W}{B} ({W}{B}: Ao somarizar, essa criatura você pode pagar {W}{B}. Se você o fizer, deposite-a transformada.)",
+  "image": "image/arthur-paixão.webp",
+  "edition": "",
+  "year": ""
 }

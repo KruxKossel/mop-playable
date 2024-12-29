@@ -1,10 +1,10 @@
 {
-    "id": "f11e34f0-f30c-4f03-bcd4-8e768b3d4c3a",
-    "name": "TecSec podcast",
-    "cost": "{U}{B}",
-    "type": "Mágica Instantânea",
-    "description": "Escolha um:\n1. Compre duas cartas e cada oponente revela a mão dele. Para cada carta de artefato revelada desta maneira, compre um carta adicional.\n2. Exile até dois cards do cemitério de um oponente. Procure em seu grimório por uma carta com o mesmo custo de maná convertido que uma das cartas exiladas e coloque-a em sua mão. Embaralhe seu grimório.",
-    "image": "TecSec podcast.webp",
-    "edition": null,
-    "year": null
+  "id": "f11e34f0-f30c-4f03-bcd4-8e768b3d4c3a",
+  "name": "TecSec podcast",
+  "cost": "{U}{B}",
+  "type": "Mágica Instantânea",
+  "description": "Escolha um:\n1. Compre duas cartas e cada oponente revela a mão dele. Para cada carta de artefato revelada desta maneira, compre um carta adicional.\n2. Exile até dois cards do cemitério de um oponente. Procure em seu grimório por uma carta com o mesmo custo de maná convertido que uma das cartas exiladas e coloque-a em sua mão. Embaralhe seu grimório.",
+  "image": "image/tecsec-podcast.webp",
+  "edition": null,
+  "year": null
 }

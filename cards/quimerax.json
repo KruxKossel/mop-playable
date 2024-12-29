@@ -1,10 +1,10 @@
 {
-    "id": "9a4c4ff8-38db-425c-b182-fe2958d9cb37",
-    "name": "Quimerax",
-    "cost": "{0}",
-    "type": "Cyberland",
-    "description": "Ƈ: Adicione ⓿ de mana.\n1, Ƈ: Adicione ② manas de qualquer cor.",
-    "image": "Quimerax.webp",
-    "edition": null,
-    "year": null
+  "id": "9a4c4ff8-38db-425c-b182-fe2958d9cb37",
+  "name": "Quimerax",
+  "cost": "{0}",
+  "type": "Cyberland",
+  "description": "Ƈ: Adicione ⓿ de mana.\n1, Ƈ: Adicione ② manas de qualquer cor.",
+  "image": "image/quimerax.webp",
+  "edition": null,
+  "year": null
 }

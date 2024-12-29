@@ -1,11 +1,11 @@
 {
-    "id": "61f06c70-d54b-4b37-a2c9-a95f35b713de",
-    "name": "Rede TOR",
-    "cost": "{2}{B}",
-    "type": "Encantamento Mítico",
-    "description": "Encantar Terreno\nMágicas que tiverem seu custo de mana pagos com manas geradas pelo terreno encantado não podem ser anuladas.\nCriaturas que tiverem custo de habilidades pagas com manas geradas pelo terreno encantado não podem ser bloqueadas neste turno.",
-    "image": "Rede TOR.webp",
-    "edition": null,
-    "year": null,
-    "flavor": "\"Quero ver a NSA me pegar aqui, estou atrás de 7\""
+  "id": "61f06c70-d54b-4b37-a2c9-a95f35b713de",
+  "name": "Rede TOR",
+  "cost": "{2}{B}",
+  "type": "Encantamento Mítico",
+  "description": "Encantar Terreno\nMágicas que tiverem seu custo de mana pagos com manas geradas pelo terreno encantado não podem ser anuladas.\nCriaturas que tiverem custo de habilidades pagas com manas geradas pelo terreno encantado não podem ser bloqueadas neste turno.",
+  "image": "image/rede-tor.webp",
+  "edition": null,
+  "year": null,
+  "flavor": "\"Quero ver a NSA me pegar aqui, estou atrás de 7\""
 }

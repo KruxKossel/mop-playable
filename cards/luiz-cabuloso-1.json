@@ -1,12 +1,12 @@
 {
-    "id": "f6c61cbc-eee0-4b3d-a33b-7fee0b688197",
-    "name": "Luiz Cabuloso",
-    "cost": "{2}{B}{B}",
-    "type": "Criatura — Oráculo Lendário",
-    "description": "Sempre que Luiz Cabuloso causar dano de combate a um jogador, aquele jogador descarta um card. Se um card de artefato for descartado desta forma, você pode colocá-lo no campo de batalha sob seu controle.\n{0/B}, Sacrifique um artefato: Crie um token de artefato chamado \"Antifraud\" com \"{2/B}, Sacrifique este artefato: Ganhe 2 pontos de vida e cada oponente perde 2 pontos de vida.\"",
-    "image": "Luiz Cabuloso.webp",
-    "edition": null,
-    "year": null,
-    "power": 4,
-    "toughness": 3
+  "id": "f6c61cbc-eee0-4b3d-a33b-7fee0b688197",
+  "name": "Luiz Cabuloso",
+  "cost": "{2}{B}{B}",
+  "type": "Criatura — Oráculo Lendário",
+  "description": "Sempre que Luiz Cabuloso causar dano de combate a um jogador, aquele jogador descarta um card. Se um card de artefato for descartado desta forma, você pode colocá-lo no campo de batalha sob seu controle.\n{0/B}, Sacrifique um artefato: Crie um token de artefato chamado \"Antifraud\" com \"{2/B}, Sacrifique este artefato: Ganhe 2 pontos de vida e cada oponente perde 2 pontos de vida.\"",
+  "image": "image/luiz-cabuloso-1.webp",
+  "edition": null,
+  "year": null,
+  "power": 4,
+  "toughness": 3
 }

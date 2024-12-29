@@ -1,10 +1,10 @@
 {
-    "id": "e7c37dd6-ee71-4ca8-a594-971dc37c96e2",
-    "name": "Fernando Amaite",
-    "cost": "{1}{U}",
-    "type": "Criatura - Jurassic Hacker",
-    "description": "Sempre que Fernando Amaite bloqueia ou é bloqueado por uma criatura, você pode fazer com que aquela criatura não cause dano de combate neste turno. Se você possui costeletas, pague {1}: Vire e anule mágica instantânea.",
-    "image": "Fernando Amaite.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "e7c37dd6-ee71-4ca8-a594-971dc37c96e2",
+  "name": "Fernando Amaite",
+  "cost": "{1}{U}",
+  "type": "Criatura - Jurassic Hacker",
+  "description": "Sempre que Fernando Amaite bloqueia ou é bloqueado por uma criatura, você pode fazer com que aquela criatura não cause dano de combate neste turno. Se você possui costeletas, pague {1}: Vire e anule mágica instantânea.",
+  "image": "image/fernando-mercês.webp",
+  "edition": "Player Card",
+  "year": ""
 }

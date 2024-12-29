@@ -1,10 +1,10 @@
 {
-    "id": "4dc8395e-64a9-4e6b-8568-10bec726d735",
-    "name": "Lucas Pinheiro",
-    "cost": "{2}{U}{B}",
-    "type": "Criatura — Humano Hacker",
-    "description": "Quando Lucas Pinheiro entrar no campo de batalha, procure em seu grimório por um card chamado Plataforma Cumulativa, revele-o e coloque-o em sua mão. Em seguida, compre um card.\nToda vez que você ativar uma habilidade de Plataforma Cumulativa, crie um token de artefato chamado \"Redenção da Vulnerabilidade\" com \"{T}: Compre um card.\"\n{T}, Exilaim token de Redenção da Vulnerabilidade: Até o final do turno, você controla grandes Vigilantes.",
-    "image": "Lucas Pinheiro.webp",
-    "edition": "Player Card",
-    "year": null
+  "id": "4dc8395e-64a9-4e6b-8568-10bec726d735",
+  "name": "Lucas Pinheiro",
+  "cost": "{2}{U}{B}",
+  "type": "Criatura — Humano Hacker",
+  "description": "Quando Lucas Pinheiro entrar no campo de batalha, procure em seu grimório por um card chamado Plataforma Cumulativa, revele-o e coloque-o em sua mão. Em seguida, compre um card.\nToda vez que você ativar uma habilidade de Plataforma Cumulativa, crie um token de artefato chamado \"Redenção da Vulnerabilidade\" com \"{T}: Compre um card.\"\n{T}, Exilaim token de Redenção da Vulnerabilidade: Até o final do turno, você controla grandes Vigilantes.",
+  "image": "image/lucas-pinheiro.webp",
+  "edition": "Player Card",
+  "year": null
 }

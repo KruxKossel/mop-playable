@@ -1,10 +1,10 @@
 {
-    "id": "6b369a6e-bae3-4b9e-80b8-8d35cc7d9cc3",
-    "name": "Tenchi",
-    "cost": "",
-    "type": "Empresa",
-    "description": "Adicione {U} na sua pool de mana.",
-    "image": "Tenchi.webp",
-    "edition": "Tenchi",
-    "year": ""
+  "id": "6b369a6e-bae3-4b9e-80b8-8d35cc7d9cc3",
+  "name": "Tenchi",
+  "cost": "",
+  "type": "Empresa",
+  "description": "Adicione {U} na sua pool de mana.",
+  "image": "image/tenchi.webp",
+  "edition": "Tenchi",
+  "year": ""
 }

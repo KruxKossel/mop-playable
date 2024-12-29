@@ -1,10 +1,10 @@
 {
-    "id": "da799c10-5fcc-4d96-bfc5-72f09c1fb02e",
-    "name": "DrDelete, Oráculo do Underground",
-    "cost": "{3}{B}{B}",
-    "type": "Criatura - Oráculo Lendário",
-    "description": "Quando DrDelete entra no campo de batalha vire todas criaturas hackers do seu oponente, elas não desviraão durante a próxima etapa de desvira do seu oponente. Quando DrDelete é colocado no cemitério vindo do campo de batalha desvire todas criaturas hackers viradas do seu oponente. Sacrifique DrDelete: Retorne todas as criaturas do tipo underground do seu cemitério para o jogo.",
-    "image": "DrDelete, Oráculo do Underground.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "da799c10-5fcc-4d96-bfc5-72f09c1fb02e",
+  "name": "DrDelete, Oráculo do Underground",
+  "cost": "{3}{B}{B}",
+  "type": "Criatura - Oráculo Lendário",
+  "description": "Quando DrDelete entra no campo de batalha vire todas criaturas hackers do seu oponente, elas não desviraão durante a próxima etapa de desvira do seu oponente. Quando DrDelete é colocado no cemitério vindo do campo de batalha desvire todas criaturas hackers viradas do seu oponente. Sacrifique DrDelete: Retorne todas as criaturas do tipo underground do seu cemitério para o jogo.",
+  "image": "image/drdelete,-oráculo-do-underground.webp",
+  "edition": "Player Card",
+  "year": ""
 }

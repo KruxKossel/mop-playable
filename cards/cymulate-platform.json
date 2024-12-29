@@ -1,10 +1,10 @@
 {
-    "id": "3900d926-8dc0-4594-8d6c-01f2b06f9ce9",
-    "name": "Cymulate Platform",
-    "cost": "{3}",
-    "type": "Artefato — Ferramenta Hacker",
-    "description": "⦻: Adicione 1 de mana. 2, ⦻: Revele os três cards do topo do seu grimório. Você pode colocar um card de artefato revelado desta forma em sua mão. Coloque os demais no fundo do seu grimório em qualquer ordem.",
-    "image": "Cymulate Platform.webp",
-    "edition": null,
-    "year": null
+  "id": "3900d926-8dc0-4594-8d6c-01f2b06f9ce9",
+  "name": "Cymulate Platform",
+  "cost": "{3}",
+  "type": "Artefato — Ferramenta Hacker",
+  "description": "⦻: Adicione 1 de mana. 2, ⦻: Revele os três cards do topo do seu grimório. Você pode colocar um card de artefato revelado desta forma em sua mão. Coloque os demais no fundo do seu grimório em qualquer ordem.",
+  "image": "image/cymulate-platform.webp",
+  "edition": null,
+  "year": null
 }

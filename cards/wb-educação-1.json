@@ -1,11 +1,11 @@
 {
-    "id": "a4bb94fb-1d5d-4bd2-93d2-4d631fe3ebeb",
-    "name": "WB Educação",
-    "cost": "",
-    "type": "Cyberland",
-    "description": "Ø: Adicione {B} ou {G} ao seu pool de mana.",
-    "image": "WB Educação.webp",
-    "edition": "",
-    "year": "",
-    "flavor": "\"Com o conhecimento certo, você estará em níveis mais elevados!\""
+  "id": "a4bb94fb-1d5d-4bd2-93d2-4d631fe3ebeb",
+  "name": "WB Educação",
+  "cost": "",
+  "type": "Cyberland",
+  "description": "Ø: Adicione {B} ou {G} ao seu pool de mana.",
+  "image": "image/wb-educação-1.webp",
+  "edition": "",
+  "year": "",
+  "flavor": "\"Com o conhecimento certo, você estará em níveis mais elevados!\""
 }

@@ -1,10 +1,10 @@
 {
-    "id": "b0180d0f-ecca-4e43-b76a-f7ef76c7adb3",
-    "name": "Fio Cavallari - Bräu Von Hacker",
-    "cost": "{1}{R}",
-    "type": "Criatura - Ancient Hacker",
-    "description": "Sempre que um oponente joga uma mágica instantânea ou feitiço, você pode olhar o topo do seu grimório. Se for uma carta do tipo Cyberlândia, você pode revelá-la e colocá-la no campo de batalha. #1/#1 se estiver desenvolvendo uma cerveja artesanal.",
-    "image": "Fio Cavallari - Bräu Von Hacker.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "b0180d0f-ecca-4e43-b76a-f7ef76c7adb3",
+  "name": "Fio Cavallari - Bräu Von Hacker",
+  "cost": "{1}{R}",
+  "type": "Criatura - Ancient Hacker",
+  "description": "Sempre que um oponente joga uma mágica instantânea ou feitiço, você pode olhar o topo do seu grimório. Se for uma carta do tipo Cyberlândia, você pode revelá-la e colocá-la no campo de batalha. #1/#1 se estiver desenvolvendo uma cerveja artesanal.",
+  "image": "image/fio-cavallari-bräu-von-hacker.webp",
+  "edition": "Player Card",
+  "year": ""
 }

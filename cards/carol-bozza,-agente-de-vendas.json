@@ -1,12 +1,12 @@
 {
-    "id": "6f1e5436-c6c4-4c14-9ed0-cdbcf0e65bd5",
-    "name": "Carol Bozza, Agente de vendas",
-    "cost": "{2}{U}{B}",
-    "type": "Criatura — Humano Hacker",
-    "description": "{1}, sacrifique um artefato, {T}: O jogador alvo revela uma carta do topo do seu deck. Se a carta revelada for do tipo terreno, este jogador descarta duas cartas e você compra duas cartas.",
-    "image": "Carol Bozza, Agente de vendas.webp",
-    "edition": null,
-    "year": null,
-    "power": 2,
-    "toughness": 2
+  "id": "6f1e5436-c6c4-4c14-9ed0-cdbcf0e65bd5",
+  "name": "Carol Bozza, Agente de vendas",
+  "cost": "{2}{U}{B}",
+  "type": "Criatura — Humano Hacker",
+  "description": "{1}, sacrifique um artefato, {T}: O jogador alvo revela uma carta do topo do seu deck. Se a carta revelada for do tipo terreno, este jogador descarta duas cartas e você compra duas cartas.",
+  "image": "image/carol-bozza,-agente-de-vendas.webp",
+  "edition": null,
+  "year": null,
+  "power": 2,
+  "toughness": 2
 }

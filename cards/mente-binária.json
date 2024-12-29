@@ -1,11 +1,11 @@
 {
-    "id": "69dd3755-bd10-438d-b073-35fe78ea4468",
-    "name": "Mente Binária",
-    "cost": "{U}{U}{U}",
-    "type": "Mágica Instantânea",
-    "description": "Ao utilizar a Mente Binária seu adversário deverá mostrar para você as 3 melhores cartas do deck dele, você poderá escolher uma e mandá-la para /dev/null a.k.a cemitério",
-    "image": "Mente Binária.webp",
-    "edition": null,
-    "year": null,
-    "flavor": "\"Fala galera do bem!\""
+  "id": "69dd3755-bd10-438d-b073-35fe78ea4468",
+  "name": "Mente Binária",
+  "cost": "{U}{U}{U}",
+  "type": "Mágica Instantânea",
+  "description": "Ao utilizar a Mente Binária seu adversário deverá mostrar para você as 3 melhores cartas do deck dele, você poderá escolher uma e mandá-la para /dev/null a.k.a cemitério",
+  "image": "image/mente-binária.webp",
+  "edition": null,
+  "year": null,
+  "flavor": "\"Fala galera do bem!\""
 }

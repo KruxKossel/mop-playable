@@ -1,12 +1,12 @@
 {
-    "id": "d561c8a0-c2d9-4e22-b5ef-bd42f3db85df",
-    "name": "Patricia Caprioli",
-    "cost": "{1}{W}",
-    "type": "Criatura - Hacktivista",
-    "description": "Ganhe a força de todos os eventos de segurança. Para cada cyber land de eventos de segurança em jogo, Patricia Caprioli recebe +1/+1.",
-    "image": "Patricia Caprioli.webp",
-    "edition": null,
-    "year": null,
-    "power": 0,
-    "toughness": 1
+  "id": "d561c8a0-c2d9-4e22-b5ef-bd42f3db85df",
+  "name": "Patricia Caprioli",
+  "cost": "{1}{W}",
+  "type": "Criatura - Hacktivista",
+  "description": "Ganhe a força de todos os eventos de segurança. Para cada cyber land de eventos de segurança em jogo, Patricia Caprioli recebe +1/+1.",
+  "image": "image/patricia-caprioli.webp",
+  "edition": null,
+  "year": null,
+  "power": 0,
+  "toughness": 1
 }

@@ -1,12 +1,12 @@
 {
-    "id": "97445d7a-93a2-4ae0-a5f2-fbc1f4f02755",
-    "name": "Nelson Murilo",
-    "cost": "{2}{B}{B}",
-    "type": "Criatura — Jurassic Hacker",
-    "description": "{2}, {T}: Revele um card do topo do seu grimório. Se for um card de artefato, Nelson Murilo causa 2 pontos de dano a um alvo à sua escolha. Se for outro card, você compra um card.",
-    "image": "Nelson Murilo.webp",
-    "edition": null,
-    "year": null,
-    "power": 2,
-    "toughness": 2
+  "id": "97445d7a-93a2-4ae0-a5f2-fbc1f4f02755",
+  "name": "Nelson Murilo",
+  "cost": "{2}{B}{B}",
+  "type": "Criatura — Jurassic Hacker",
+  "description": "{2}, {T}: Revele um card do topo do seu grimório. Se for um card de artefato, Nelson Murilo causa 2 pontos de dano a um alvo à sua escolha. Se for outro card, você compra um card.",
+  "image": "image/nelson-murilo-1.webp",
+  "edition": null,
+  "year": null,
+  "power": 2,
+  "toughness": 2
 }

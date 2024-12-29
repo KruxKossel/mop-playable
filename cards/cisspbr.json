@@ -1,10 +1,10 @@
 {
-    "id": "8758ca14-efcd-4174-b991-54dd1f0a82ca",
-    "name": "CISSPBR",
-    "cost": "",
-    "type": "Lista de discussão",
-    "description": "Adicione {U} na sua pool de mana. Se você sabe o que é isso, considere-se um dinossauro.",
-    "image": "CISSPBR.webp",
-    "edition": "Player Card",
-    "year": ""
+  "id": "8758ca14-efcd-4174-b991-54dd1f0a82ca",
+  "name": "CISSPBR",
+  "cost": "",
+  "type": "Lista de discussão",
+  "description": "Adicione {U} na sua pool de mana. Se você sabe o que é isso, considere-se um dinossauro.",
+  "image": "image/cisspbr.webp",
+  "edition": "Player Card",
+  "year": ""
 }

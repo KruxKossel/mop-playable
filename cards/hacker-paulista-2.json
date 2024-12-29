@@ -1,10 +1,10 @@
 {
-    "id": "49467a82-4fe0-4f61-af4e-a0b4d6a99ee9",
-    "name": "Hacker Paulista",
-    "cost": "{3}{U}{B}",
-    "type": "Planinautra — Conferência",
-    "description": "Olhe o topo do deck de cada jogador. Você pode escolher uma carta de qualquer tipo desses topos e colocá-la no topo do seu deck. +1: Resolva um jogador. Exíle o card do topo do grimório deste jogador. Você pode conjurar esta carta pagando seu custo de mana, este custo pode ser pago com qualquer cor. -2: Cada oponente descarta uma carta. Você pode conjurar um destes cards dessa maneira sem pagar seus custos de mana.",
-    "image": "Hacker Paulista.webp",
-    "edition": null,
-    "year": null
+  "id": "49467a82-4fe0-4f61-af4e-a0b4d6a99ee9",
+  "name": "Hacker Paulista",
+  "cost": "{3}{U}{B}",
+  "type": "Planinautra — Conferência",
+  "description": "Olhe o topo do deck de cada jogador. Você pode escolher uma carta de qualquer tipo desses topos e colocá-la no topo do seu deck. +1: Resolva um jogador. Exíle o card do topo do grimório deste jogador. Você pode conjurar esta carta pagando seu custo de mana, este custo pode ser pago com qualquer cor. -2: Cada oponente descarta uma carta. Você pode conjurar um destes cards dessa maneira sem pagar seus custos de mana.",
+  "image": "image/hacker-paulista-2.webp",
+  "edition": null,
+  "year": null
 }

@@ -1,11 +1,11 @@
 {
-    "id": "2a9a87cc-dd36-43e5-9405-2d8c59b5f57e",
-    "name": "Espirito Santo",
-    "cost": "",
-    "type": "Land",
-    "description": "Adicione {R} ou {G} a sua reserva de mana.",
-    "image": "Espirito Santo.webp",
-    "edition": "Cyberland",
-    "year": "",
-    "flavor": "\"Apesar de alguns não acreditarem na sua existencia, o espirito santo é um berço da cultura hacker brasileira\"."
+  "id": "2a9a87cc-dd36-43e5-9405-2d8c59b5f57e",
+  "name": "Espirito Santo",
+  "cost": "",
+  "type": "Land",
+  "description": "Adicione {R} ou {G} a sua reserva de mana.",
+  "image": "image/espirito-santo.webp",
+  "edition": "Cyberland",
+  "year": "",
+  "flavor": "\"Apesar de alguns não acreditarem na sua existencia, o espirito santo é um berço da cultura hacker brasileira\"."
 }

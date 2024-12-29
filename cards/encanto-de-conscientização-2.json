@@ -1,10 +1,10 @@
 {
-    "id": "edd8bdeb-fbdb-4ddd-8e92-5b9f00c03e85",
-    "name": "Encanto de Conscientização",
-    "cost": "",
-    "type": "Mágica instantânea",
-    "description": "Pode sumonar a magia da Hekate, Inc. para conscientizar e mudar a cultura das suas cartas. \n\nSua criatura dobra o valor de defesa dela.",
-    "image": "Encanto de Conscientização.webp",
-    "edition": "",
-    "year": ""
+  "id": "edd8bdeb-fbdb-4ddd-8e92-5b9f00c03e85",
+  "name": "Encanto de Conscientização",
+  "cost": "",
+  "type": "Mágica instantânea",
+  "description": "Pode sumonar a magia da Hekate, Inc. para conscientizar e mudar a cultura das suas cartas. \n\nSua criatura dobra o valor de defesa dela.",
+  "image": "image/encanto-de-conscientização-2.webp",
+  "edition": "",
+  "year": ""
 }
