@@ -3,7 +3,7 @@
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
       <!-- Name filter -->
       <div>
-        <label class="block text-sm font-medium mb-1">Card Name</label>
+        <label class="block text-sm font-medium mb-1 text-gray-800">Card Name</label>
         <input 
           v-model="filters.name"
           type="text"
@@ -15,7 +15,7 @@
 
       <!-- Cost filter -->
       <div>
-        <label class="block text-sm font-medium mb-1">Mana Cost</label>
+        <label class="block text-sm font-medium mb-1 text-gray-800">Mana Cost</label>
         <div class="flex gap-2">
           <input 
             v-model.number="filters.costMin"
@@ -38,7 +38,7 @@
 
       <!-- Description filter -->
       <div>
-        <label class="block text-sm font-medium mb-1">Description</label>
+        <label class="block text-sm font-medium mb-1 text-gray-800">Description</label>
         <input 
           v-model="filters.description"
           type="text"
@@ -51,7 +51,7 @@
 
     <!-- Type filter -->
     <div class="mt-4">
-      <label class="block text-sm font-medium mb-1">Card Type</label>
+      <label class="block text-sm font-medium mb-1 text-gray-800">Card Type</label>
       <div class="flex flex-wrap gap-2">
         <button
           v-for="type in availableTypes"
@@ -73,7 +73,7 @@
     <div class="mt-4 flex justify-end">
       <button
         @click="clearFilters"
-        class="px-4 py-2 bg-gray-500 text-white rounded hover:bg-gray-600"
+        class="px-4 py-2 bg-gray-600 text-white rounded hover:bg-gray-700"
       >
         Clear Filters
       </button>
