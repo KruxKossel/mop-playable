@@ -21,7 +21,7 @@
       <div>{{ card.type || 'Unknown' }}</div>
     </div>
     <p class="text-sm mb-4 text-black">{{ card.description || 'No description available' }}</p>
-    <div class="flex justify-between items-center">
+    <div class="flex justify-between items-center text-black">
       <div class="flex items-center space-x-2">
         <button 
           @click="$emit('remove-card', card.id)"

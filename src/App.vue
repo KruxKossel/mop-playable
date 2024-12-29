@@ -77,6 +77,8 @@
       @close="showPrintPreview = false"
     />
   </div>
+
+  <span class="text-center font-medium">Designed with love by Masters of Pwnage community: <a href="https://github.com/fguisso"> @fguisso</a></span>
 </template>
 
 <script setup>
