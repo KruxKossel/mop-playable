@@ -74,6 +74,7 @@
     <PrintPreview
       v-if="showPrintPreview"
       :selected-cards="selectedCards"
+      :available-cards="availableCards"
       @close="showPrintPreview = false"
     />
   </div>
