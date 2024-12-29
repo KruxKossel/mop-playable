@@ -2,7 +2,7 @@
   "id": "9ac74a0e-2e83-4d68-a6d6-a649e962a4b5",
   "name": "Proxmark",
   "cost": "{3}",
-  "type": "Artifact — Equipment Hacker",
+  "type": "Artefato — Equipamento Hacker",
   "description": "Equip: 2\nThe equipped creature gains \"{etc.}: Exile a permanent you don't control. Return it to the battlefield under your control at the beginning of the next end step.\"\nIf Proxmark would leave the battlefield, return all cards exiled with it to the battlefield under your control.",
   "image": "image/proxmark.webp",
   "edition": null,

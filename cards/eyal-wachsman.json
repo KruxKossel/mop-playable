@@ -2,7 +2,7 @@
   "id": "2d869d46-8e3c-4c47-b2f7-3ec3edfbf03b",
   "name": "Eyal Wachsman",
   "cost": "{3}{U}{B}",
-  "type": "Creature — CEO Hacker",
+  "type": "Criatura — CEO Hacker",
   "description": "When Eyal Wachsman enters the battlefield, you may search your library for an artifact card with mana value 3 or less, reveal it, and put it into your hand. Then shuffle your library.\n{4}, {T}: Create a token artifact named \"Breach Simulator\" with \"{T}: Add one mana of any color.\"",
   "image": "image/eyal-wachsman.webp",
   "edition": null,

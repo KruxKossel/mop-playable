@@ -1,7 +1,7 @@
 {
   "id": "951d4cbc-98a4-4a4b-a0eb-bd58d15692bc",
   "name": "Marcos Cowboy",
-  "cost": "",
+  "cost": "{1}{B}{B}",
   "type": "Criatura - Pentester",
   "description": "Sempre que Marcos Cowboy causa dano de combate a um jogador, você pode realizar uma operação de \"PenTest\" em um artefato ou encantamento que aquele jogador controla: Olhe as três cartas do topo do seu grimório, depois coloque-as de volta em qualquer ordem entre essas cartas e sua biblioteca. Se uma dessas cartas for uma mágica instantânea ou feitiço, você pode revelá-la. Se fizer isso, copie-a, e você pode jogá-la sem pagar seu custo de mana.",
   "image": "image/marcos-cowboy.webp",

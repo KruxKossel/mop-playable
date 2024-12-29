@@ -2,7 +2,7 @@
   "id": "a5c79f7e-f0e7-4afd-be28-27d9b7e3784f",
   "name": "The Sheriff",
   "cost": "{2}{W}{W}",
-  "type": "Planinaut — Conferência",
+  "type": "Planinauta — Conferência",
   "description": "O Sheriff se torna uma criatura 4/4 com vigilância até o fim do turno.\n+1: Escolha uma permanente que você controla. Desvire essa permanente.\n-2: Alvo uma criatura ou artefato. Destrúa essa permanente se seu poder for 3 ou menos.\n-7: O Sheriff leva um tiro. Crie uma ficha de criatura do tipo Deputy com poder e defesa 4/4.",
   "image": "image/the-sheriff-4.webp",
   "edition": null,

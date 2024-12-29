@@ -2,7 +2,7 @@
   "id": "da9f1dee-adf6-4589-9a54-0d44c9f53dfe",
   "name": "Lincoln Werneck",
   "cost": "{3}{G}",
-  "type": "Creature — CISSP Paladin",
+  "type": "Criatura — CISSP Paladin",
   "description": "Whenever an artifact enters the battlefield under your control, you gain 2 life.\n{T}, {W}: Destroy target artifact.",
   "image": "image/lincoln-werneck.webp",
   "edition": null,

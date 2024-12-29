@@ -1,7 +1,7 @@
 {
   "id": "f8d11e21-7f59-4e65-8dc8-56abfcb6b1d1",
   "name": "chkrootkit",
-  "cost": "",
+  "cost": "{1}{W}{W}",
   "type": "Encantamento",
   "description": "Detecção de Ameaças: No início da sua fase de manutenção, escolha um oponente aleatoriamente. Olhe o topo do deck desse oponente. Você pode colocar uma carta à criatura do topo do deck desse oponente no fundo do deck dele.\nPurificação de Sistema: {2}{B}, Sacrifique chkrootkit: Exile todas as cartas do tipo rootkit de todos os jogadores. Para cada carta exilada desta forma, você ganha 1 Vida.",
   "image": "image/chkrootkit-1.webp",

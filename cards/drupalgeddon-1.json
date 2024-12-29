@@ -2,7 +2,7 @@
   "id": "f7ebc157-3be7-4fda-895f-4b67d32f9a2d",
   "name": "Drupalgeddon",
   "cost": "{3}{U}",
-  "type": "Instant",
+  "type": "Mágica Instantânea",
   "description": "Revele o card do topo do seu grimório. Se for um card de terreno, você pode destruir uma permanente alvo. Se for outro card, você compra um card.",
   "image": "image/drupalgeddon-1.webp",
   "edition": null,

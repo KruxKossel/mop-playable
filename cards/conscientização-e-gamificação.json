@@ -1,7 +1,7 @@
 {
   "id": "a4a7dc4c-b0e5-4b6c-afeb-d6cbb1cbf0ac",
   "name": "Conscientização e Gamificação",
-  "cost": "",
+  "cost": "{W}{W}",
   "type": "Mágica Instantânea",
   "description": "Use a plataforma de gamificação da Hacker Rangers para educar e empoderar suas cartas. Sua criatura mais fraca fica com X de defesa, sendo X o maior valor de ataque do adversário.",
   "image": "image/conscientização-e-gamificação.webp",
