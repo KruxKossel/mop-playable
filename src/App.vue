@@ -54,16 +54,54 @@
   />
       <!-- Card Browser -->
       <div class="lg:col-span-2">
-        <h2 class="text-xl font-semibold mb-4">Available Cards</h2>
+        <div class="flex justify-between items-center mb-4">
+          <h2 class="text-xl font-semibold">Available Cards</h2>
+          <div class="flex items-center gap-4">
+            <label class="text-sm font-medium text-gray-700">Cards per page:</label>
+            <select 
+              v-model="cardsPerPage" 
+              class="p-2 border rounded bg-gray-50 text-gray-800 border-gray-300 focus:border-blue-500 focus:ring-1 focus:ring-blue-500"
+            >
+              <option :value="12">12</option>
+              <option :value="24">24</option>
+              <option :value="48">48</option>
+              <option :value="60">60</option>
+            </select>
+          </div>
+        </div>
+
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           <CardDisplay
-            v-for="card in filteredCards"
+            v-for="card in paginatedCards"
             :key="card.id"
             :card="card"
             :copies-in-deck="getCardCopies(card.id)"
             @add-card="addCardToDeck"
             @remove-card="removeCardFromDeck"
           />
+        </div>
+
+        <!-- Pagination -->
+        <div class="mt-6 flex justify-center items-center gap-4">
+          <button 
+            @click="currentPage--"
+            :disabled="currentPage === 1"
+            class="px-4 py-2 border rounded bg-gray-50 text-gray-800 border-gray-300 disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500"
+          >
+            Previous
+          </button>
+          
+          <span class="text-sm text-gray-700">
+            Page {{ currentPage }} of {{ totalPages }}
+          </span>
+
+          <button 
+            @click="currentPage++"
+            :disabled="currentPage === totalPages"
+            class="px-4 py-2 border rounded bg-gray-50 text-gray-800 border-gray-300 disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500"
+          >
+            Next
+          </button>
         </div>
       </div>
 
@@ -83,7 +121,7 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, computed, watch } from 'vue'
 import CardDisplay from './components/CardDisplay.vue'
 import DeckSummary from './components/DeckSummary.vue'
 import PrintPreview from './components/PrintPreview.vue'
@@ -195,6 +233,24 @@ const filteredCards = computed(() => {
 const availableTypes = computed(() => {
   const types = new Set(availableCards.value.map(card => card.type))
   return Array.from(types).sort()
+})
+
+const cardsPerPage = ref(12)
+const currentPage = ref(1)
+
+// Reset page when filters change
+watch([activeFilters, cardsPerPage], () => {
+  currentPage.value = 1
+})
+
+const totalPages = computed(() => {
+  return Math.ceil(filteredCards.value.length / cardsPerPage.value)
+})
+
+const paginatedCards = computed(() => {
+  const startIndex = (currentPage.value - 1) * cardsPerPage.value
+  const endIndex = startIndex + cardsPerPage.value
+  return filteredCards.value.slice(startIndex, endIndex)
 })
 
 // Validation functions
