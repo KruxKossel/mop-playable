@@ -1,7 +1,7 @@
 {
   "id": "4d6a6fdd-aabf-4dcf-90ef-fd4ed15c0ac1",
   "name": "Ricardo Iramar",
-  "cost": "{2} {U}",
+  "cost": "{U}",
   "type": "Criatura - Humano Hacker",
   "description": "Escolha um oponente. O oponente alvo revela uma carta aleatoriamente de sua mão, se a carta revelada for um feitiço ou magia instantânea, você pode conjurar essa carta sem pagar seu custo de mana.",
   "image": "image/ricardo-iramar-1.webp",

@@ -1,7 +1,7 @@
 {
   "id": "d3921e51-1fa0-4a4c-9d7d-eb34a1f5a13d",
   "name": "Robertux",
-  "cost": "{3}{U}",
+  "cost": "{3}{W}",
   "type": "Criatura - Humano Hacker",
   "description": "No início do seu turno escolha um\n- Hackagatame -- Virar Robertux e virar a criatura hacker alvo, ela não desvira durante a próxima etapa de desvira.\n-Passar a Guarda -- Escolha uma criatura hacker alvo, ela recebe +2/+2 e bloqueada é defendida durante a fase de combate neste turno.",
   "image": "image/robertux.webp",
