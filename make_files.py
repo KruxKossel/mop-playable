@@ -42,9 +42,19 @@ def copy_image_files():
     # Create output folder if it doesn't exist
     output_folder.mkdir(parents=True, exist_ok=True)
     
+    # Copy back-card.webp 
+    back_card = images_folder / 'back-card.webp'
+    if back_card.exists():
+        try:
+            output_path = output_folder / 'back-card.webp'
+            output_path.write_bytes(back_card.read_bytes())
+            print(f"Copied back-card.webp")
+        except Exception as e:
+            print(f"Error copying back-card.webp: {e}")
+    
     # Copy all image files
     for image_file in images_folder.glob('*'):
-        if image_file.suffix.lower() in ['.webp', '.jpg', '.png', '.gif']:
+        if image_file.suffix.lower() in ['.webp', '.jpg', '.png', '.gif'] and image_file.name != 'back-card.webp':
             try:
                 output_path = output_folder / image_file.name
                 output_path.write_bytes(image_file.read_bytes())
