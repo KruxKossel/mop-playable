@@ -3,7 +3,7 @@
   "name": "Eyal Wachsman",
   "cost": "{3}{U}{B}",
   "type": "Criatura — CEO Hacker",
-  "description": "When Eyal Wachsman enters the battlefield, you may search your library for an artifact card with mana value 3 or less, reveal it, and put it into your hand. Then shuffle your library.\n{4}, {T}: Create a token artifact named \"Breach Simulator\" with \"{T}: Add one mana of any color.\"",
+  "description": "Quando o Eyal Wachsman entra no campo de batalha, você pode pesquisar na sua biblioteca um cartão de artefato com valor de mana 3 ou menos, revelá -lo e colocá -lo em sua mão. Então embaralhe sua biblioteca.\n{4}, {T}: crie um artefato de token chamado \"Breach Simulator\" com \"{T}: adicione uma mana de qualquer cor.\"",
   "image": "image/eyal-wachsman.webp",
   "edition": null,
   "year": null,
