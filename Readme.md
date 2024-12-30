@@ -36,3 +36,112 @@ Não queremos uma aplicação 100% perfeita de começo, vamos seguir uma metodol
 2. Basic HTML
 3. Javascript to be defined (SvelteKit/React)
 4. Hosted in Github Pages
+
+## Instalação e Execução
+
+Para rodar o projeto localmente, siga os passos abaixo:
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/masters-of-pwnage-mop-playable.git
+cd masters-of-pwnage-mop-playable
+```
+
+2. Instale as dependências:
+```bash
+npm install
+```
+
+3. Execute o projeto em modo de desenvolvimento:
+```bash
+npm run dev
+```
+
+4. Para gerar a build de produção:
+```bash
+npm run build
+```
+
+5. Para visualizar a build de produção:
+```bash
+npm run preview
+```
+
+## Arquitetura do Projeto
+
+O projeto é uma aplicação web desenvolvida com Vue.js 3 e Tailwind CSS, utilizando Vite como bundler. Abaixo está a estrutura de arquivos e suas funções:
+
+### Estrutura de Diretórios
+
+```
+├── cards/              # Contém os arquivos JSON das cartas do jogo
+├── decks/              # Armazena os decks salvos em formato JSON
+├── images/             # Imagens das cartas e assets do projeto
+├── public/             # Arquivos públicos estáticos
+├── src/                # Código fonte da aplicação
+│   ├── components/     # Componentes Vue reutilizáveis
+│   └── App.vue         # Componente principal da aplicação
+└── vite.config.js      # Configuração do Vite
+```
+
+### Principais Arquivos
+
+- `src/App.vue`: Componente principal que gerencia o construtor de decks, incluindo:
+  - Formulário de informações do deck
+  - Sistema de filtragem de cartas
+  - Gerenciamento do deck (adicionar/remover cartas)
+  - Exportação e importação de decks
+
+- `package.json`: Gerencia as dependências e scripts do projeto, incluindo:
+  - Vue.js 3 como framework principal
+  - Tailwind CSS para estilização
+  - Heroicons para ícones
+  - UUID para geração de IDs únicos
+
+- `tailwind.config.js`: Configuração do Tailwind CSS para estilização
+
+- `vite.config.js`: Configuração do bundler Vite, responsável pelo build e desenvolvimento
+
+- `cards/*.json`: Arquivos JSON contendo as informações das cartas do jogo
+
+- `fix.py` e `make_files.py`: Scripts Python auxiliares para manipulação de arquivos
+
+### Tecnologias Utilizadas
+
+- **Vue.js 3**: Framework JavaScript para construção da interface
+- **Tailwind CSS**: Framework CSS para estilização
+- **Vite**: Build tool e dev server
+- **Node.js**: Ambiente de execução JavaScript
+
+### Scripts Python
+
+O projeto possui dois scripts Python que precisam ser executados ao configurar o projeto pela primeira vez ou quando houver alterações nas cartas:
+
+1. `make_files.py`: 
+   - Combina todos os arquivos JSON da pasta `cards/` em um único arquivo `public/cards.json`
+   - Copia as imagens da pasta `images/` para `public/image/`
+   - Execute com: `python make_files.py`
+
+2. `fix.py`:
+   - Atualiza os caminhos das imagens nos arquivos JSON das cartas
+   - Tenta encontrar correspondências entre os nomes dos arquivos de imagem
+   - Execute com: `python fix.py`
+
+### Variáveis de Ambiente
+
+Este projeto não requer nenhum arquivo `.env` ou variáveis de ambiente para funcionar. Todas as configurações necessárias já estão incluídas nos arquivos do projeto.
+
+### Primeira Execução
+
+Para rodar o projeto pela primeira vez, siga esta ordem:
+
+1. Clone o repositório e instale as dependências conforme instruções acima
+2. Execute os scripts Python para preparar os arquivos:
+```bash
+python make_files.py
+python fix.py
+```
+3. Inicie o servidor de desenvolvimento:
+```bash
+npm run dev
+```
