@@ -4,6 +4,7 @@
   "cost": "{3}",
   "type": "Artefato — Equipamento Hacker",
   "description": "Equipar: 2\nA criatura equipada ganha {T}: \"{etc.}: Exile um artefato ou encantamento alvo. Até o final do turno, você pode conjurá-lo usando qualquer tipo de mana como se fosse seu. Se PROXMARK deixar o campo de batalha, devolva todos os cards exilados com ele ao campo de batalha sob 0 controle de seus donos.",
+  "image": "image/proxmark.webp",
   "edition": null,
   "year": null
 }
