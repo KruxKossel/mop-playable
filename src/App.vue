@@ -117,7 +117,7 @@
     />
   </div>
 
-  <span class="text-center font-medium">Designed with love by Masters of Pwnage community: <a href="https://github.com/fguisso"> @fguisso</a></span>
+  <span class="text-center font-medium">Designed with love by Masters of Pwnage community: <a href="https://github.com/fguisso"> @fguisso</a>,<a href="https://github.com/rafahmarinho"> @rafahmarinho</a>,<a href="https://github.com/Pastoregg"> @Pastoregg</a></span>
 </template>
 
 <script setup>
