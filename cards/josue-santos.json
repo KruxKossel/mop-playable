@@ -1,7 +1,7 @@
 {
   "id": "acd09c1a-1d5c-4c2c-94a1-c567df05b16f",
   "name": "Josué Santos (Josu)",
-  "cost": "{2}{B}{B}",
+  "cost": "{2}{G}{G}",
   "type": "Criatura - Humano Hacker",
   "description": "No início de sua manutenção, coloque um marcador +1/+1 em cada criatura que você controla. \n\nNo início da sua etapa de combate, se um oponente controlar uma criatura que tenha como alvo um ou mais artefatos que você controla, você pode procurar em seu grimório por um card de terreno básico e colocá-lo no campo virado. Se fizer isso, embaralhe seu grimório.",
   "image": "image/josue-santos.webp",

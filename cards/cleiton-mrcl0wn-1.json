@@ -1,7 +1,7 @@
 {
   "id": "52ba4b25-16f9-4577-8732-c99d22c69a51",
   "name": "Cleiton MrClown",
-  "cost": "{B}{G}",
+  "cost": "{G}{G}",
   "type": "Criatura - Underground Pirate",
   "description": "Mestre em OSINT brasileiro. Quando MrClown entra em jogo, você pode olhar as próximas três cartas do deck adversário e escolher a ordem em que elas serão colocadas no topo do deck. Se você estiver vestindo uma camisa do Imaginário Nerd & Hacker, ganhe 1 ponto de vida.",
   "image": "image/cleiton-mrcl0wn-1.webp",

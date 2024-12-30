@@ -1,7 +1,7 @@
 {
   "id": "b4f9bdea-cdf7-42cb-8e0c-3da116743e14",
   "name": "Pimps, Manipulador de Bytecodes",
-  "cost": "{1}{B}{R}",
+  "cost": "{1}{B}{W}",
   "type": "Criatura Lendária - Pentester",
   "description": "Toque mortífero, vínculo com a vida\nNo fim do seu turno escolha uma —\nHack — O jogador alvo perde pontos de vida igual o número de cartas do tipo exploit em seu cemitério.\nReapath — Busque em seu grimório por uma carta do tipo exploit e revele-a, ao encontrá-la, embaralhe.",
   "image": "image/pimps,-manipulador-de-bytecodes.webp",

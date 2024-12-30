@@ -1,7 +1,7 @@
 {
   "id": "9ff1ac22-05d9-4d85-b68f-d6df96d7e890",
   "name": "Sandro Süffert",
-  "cost": "{B}{G}",
+  "cost": "{G}{G}",
   "type": "Criatura - Oráculo Lendário",
   "description": "Tenha visão do presente, passado e futuro com seus poderes de Threat Intelligence na prevenção de ataques e análise forense dos incidentes. Associado à carta BTI: Dá +1 de defesa em qualquer criatura.",
   "image": "image/sandro-süffert.webp",
