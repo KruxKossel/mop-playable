@@ -3,7 +3,7 @@
   "name": "Guilherme Moroni",
   "cost": "{2}{W}{W}",
   "type": "Criatura — Hacker",
-  "description": "Vigilância\nToda vez que você ganhar pontos de vida, coloque um marcador +1/+1 em uma criatura que você controla.\n{W}, {T}: Previna todo o dano que seria causado a até duas criaturas que você controla neste turno.",
+  "description": "Vigilância\nToda vez que você ganhar pontos de vida, coloque um marcador +1/+1 em uma criatura que você controla.\n{W}{W}, {T}: Previna todo o dano que seria causado a até duas criaturas que você controla neste turno.",
   "image": "image/guilherme-moroni.webp",
   "edition": "Player Card",
   "year": ""
