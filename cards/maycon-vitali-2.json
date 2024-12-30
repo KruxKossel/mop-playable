@@ -3,10 +3,11 @@
   "name": "Maycon Vitali",
   "cost": "{3}{G}",
   "type": "Criatura - Underground Pirate",
-  "description": "Affinity for artifacts. (This spell costs {1} less to cast for each artifact you control.)\n{5}{G}: Maycon Vitali gains \"can't be blocked\" until end of turn.",
+  "description": "Afinidade por dispositivos móveis. (Esta carta custa T a menos para conjurar por cada dispositivo móvel que você possua)\n{5}{G}: Maycon Vitali ganha \"não pode ser bloqueado\" até o final do turno.", 
   "image": "image/maycon-vitali-2.webp",
   "edition": null,
   "year": null,
   "power": 5,
   "toughness": 2
 }
+ 
