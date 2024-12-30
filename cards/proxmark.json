@@ -3,8 +3,7 @@
   "name": "Proxmark",
   "cost": "{3}",
   "type": "Artefato — Equipamento Hacker",
-  "description": "Equip: 2\nThe equipped creature gains \"{etc.}: Exile a permanent you don't control. Return it to the battlefield under your control at the beginning of the next end step.\"\nIf Proxmark would leave the battlefield, return all cards exiled with it to the battlefield under your control.",
-  "image": "image/proxmark.webp",
+  "description": "Equipar: 2\nA criatura equipada ganha {T}: \"{etc.}: Exile um artefato ou encantamento alvo. Até o final do turno, você pode conjurá-lo usando qualquer tipo de mana como se fosse seu. Se PROXMARK deixar o campo de batalha, devolva todos os cards exilados com ele ao campo de batalha sob 0 controle de seus donos.",
   "edition": null,
   "year": null
 }
