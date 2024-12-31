@@ -3,7 +3,7 @@
   "name": "NullByte",
   "cost": "",
   "type": "Player Card",
-  "description": "0: Adicione 0 em sua pool de mana.",
+  "description": "Adicione {R} em sua pool de mana.",
   "image": "image/nullbyte.webp",
   "edition": "Conferência – NullByte",
   "year": ""

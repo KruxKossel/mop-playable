@@ -3,7 +3,7 @@
   "name": "Rob Robert — Cyber Avenger",
   "cost": "{3}{R}{B}",
   "type": "Criatura — Diva Hacker",
-  "description": "Impacto\n\nSempre que Rob Robert — Cyber Avenger atacar, você pode destruir um artefato alvo que um oponente controla. Se fizer isso, Rob Robert — Cyber Avenger ganha indefensável até o final do turno.\n\n{R}{B}: Rob Robert — Cyber Avenger causa 2 pontos de dano a qualquer alvo e você ganha 1 ponto de vida.",
+  "description": "Impacto\n\nSempre que Rob Robert — Cyber Avenger atacar, você pode destruir um artefato alvo que um oponente controla. Se fizer isso, Rob Robert — Cyber Avenger ganha indefensável até o final do turno.\n\n{R}{W}: Rob Robert — Cyber Avenger causa 2 pontos de dano a qualquer alvo e você ganha 1 ponto de vida.",
   "image": "image/rob-robert-cyber-avenger.webp",
   "edition": null,
   "year": null,

@@ -3,9 +3,12 @@
   "name": "Eternal Blue",
   "cost": "{U}{U}{U}",
   "type": "Mágica Instantânea",
-  "description": "Exploit (When you cast this spell, you may sacrifice a creature as an additional cost.)\nIf Eternal Blue was Exploited, target player draws three cards. Otherwise, that player draws two cards.",
+  "description": "Exploit (Quando vocé conjurar esta mágica, você pode sacrificar uma criatura como custo adicional.)\nSe Eternal Blue foi explorado (usou o Exploit), anule a mágica alvo. Caso contrário, compre duas cartas.",
   "image": "image/eternal-blue.webp",
   "edition": null,
   "year": null,
   "flavor": "\"Eternity obeys neither mortal rules, nor mortal fins as the seas.\""
 }
+
+
+

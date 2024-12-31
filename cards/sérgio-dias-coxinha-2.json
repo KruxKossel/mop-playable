@@ -3,7 +3,7 @@
   "name": "Sérgio Dias (Coxinha)",
   "cost": "{2}{W}{W}",
   "type": "Criatura - CISSP Paladin",
-  "description": "Conquiste seus adversários no happy hour. Suas craturas recebem +0/+1.\nCuidado para não ser ownad no bar. Se você estiver com o Bluetooth ativo, sacrifique Sérgio Dias e perca 2 pontos de vida.",
+  "description": "Conquiste seus adversários no happy hour. Suas craturas recebem +0/+1.\nCuidado para não ser ownad no bar. Se você estiver com o Bluetooth ativo, sacrifique Sérgio Dias e perca 2 pontos de vida.{W}{W}{T}Sacrifique um artefato ou encantamento:Criaturas que você controla ganham proteção contra acor de sua escolha até o final do turno",
   "image": "image/sérgio-dias-coxinha.webp",
   "edition": null,
   "year": null,
