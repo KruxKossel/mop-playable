@@ -1,6 +1,6 @@
 <template>
   <div class="bg-white rounded-lg shadow-md p-6">
-    <h2 class="text-xl font-semibold mb-4">Deck Summary</h2>
+    <h2 class="text-xl font-semibold mb-4 text-gray-800">Deck Summary</h2>
     
     <div class="mb-4">
       <div class="text-lg font-medium">{{ deckInfo.name || 'Unnamed Deck' }}</div>
