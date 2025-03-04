@@ -29,12 +29,12 @@ export default {
     },
     async importDeck() {
       if (!this.file) {
-        this.error = "Nenhum arquivo selecionado.";
+        this.error = "No one file selected.";
         return;
       }
 
       if (!this.file.name.endsWith(".json")) {
-        this.error = "O arquivo deve ter a extensão .json.";
+        this.error = "The extension must be .json.";
         return;
       }
 
@@ -42,15 +42,31 @@ export default {
         const text = await this.file.text();
         const json = JSON.parse(text);
 
-        // Validação do JSON
-        if (!json.id || !json.name || !json.author || !json.author_social || !Array.isArray(json.cards)) {
-          throw new Error("Formato inválido.");
+        
+        if (
+          !json.id || 
+          !json.name || 
+          !json.author || 
+          !json.author_social || 
+          !Array.isArray(json.cards) || 
+          json.cards.length === 0 || 
+          json.cards.some(card => !card.id || typeof card.ammount !== 'number' || card.ammount <= 0)
+        ) {
+          throw new Error("Invalid format.");
         }
 
-        this.$emit("imported", json); // Emite o deck para `App.vue`
+        const validAmountValue = 60;
+
+        const totalAmmount = json.cards.reduce((total, card) => total + card.ammount, 0);
+        
+        if (totalAmmount > validAmountValue) {
+          throw new Error("The deck must have 60 cards or fewer.");
+        }
+
+        this.$emit("imported", json); // Send deck to App.vue
         this.closeModal();
       } catch (e) {
-        this.error = "Erro ao processar o arquivo: " + e.message;
+        this.error = "The file can't be processed: " + e.message;
       }
     },
     closeModal() {

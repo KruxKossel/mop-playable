@@ -48,14 +48,14 @@
       </div>
     </div>
 
-    <!-- Modal de Importação -->
+    <!-- Import Modal -->
     <ImportDeckModal 
       :isOpen="isModalOpen"
       @imported="handleImport"
       @close="isModalOpen = false"
     />
 
-    <!-- Outros componentes -->
+    <!-- Other components -->
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
       <FilterBar :available-types="availableTypes" @filter="activeFilters = $event" />
 
@@ -108,8 +108,8 @@ import PrintPreview from './components/PrintPreview.vue'
 import FilterBar from './components/FilterBar.vue'
 import ImportDeckModal from './components/ImportDeckModal.vue'
 
-const availableCards = ref([])
-const selectedCards = ref([])
+const availableCards = ref([]) 
+const selectedCards = ref([]) 
 const showPrintPreview = ref(false)
 
 const activeFilters = ref({
@@ -180,7 +180,7 @@ const exportDeck = () => {
   URL.revokeObjectURL(url)
 }
 
-// Configuração da importação do deck
+// Deck import setup
 const isModalOpen = ref(false)
 const decks = ref([])
 
@@ -189,24 +189,29 @@ const importDeck = () => {
 }
 
 const handleImport = (deck) => {
-  console.log("Deck importado:", deck)
+  console.log("Imported deck:", deck)
   decks.value.push(deck)
 
-  // Atualizando os campos do formulário com os dados do deck importado
-  deckInfo.value.name = deck.name || '';  // Preenche o nome do deck
-  deckInfo.value.author = deck.author || '';  // Preenche o autor do deck
-  deckInfo.value.author_social = deck.author_social || '';  // Preenche a rede social do autor
+  deckInfo.value.name = deck.name || '';  // Deck name
+  deckInfo.value.author = deck.author || '';  // Deck author
+  deckInfo.value.author_social = deck.author_social || '';  // Deck author social
+
+  // Calculate the total cards
+  selectedCards.value = deck.cards.map(card => ({
+    id: card.id,
+    amount: card.ammount || 0  
+  }))
 
   isModalOpen.value = false
 }
 
-// Carregar cartas de um JSON externo
+// Load the cards from the JSON file
 fetch('cards.json')
   .then(response => response.json())
   .then(data => {
     availableCards.value = Array.isArray(data) ? data : (Array.isArray(data.cards) ? data.cards : Object.values(data))
   })
   .catch(error => {
-    console.error('Erro ao carregar as cartas:', error)
+    console.error('Error on load the cards:', error)
   })
 </script>
