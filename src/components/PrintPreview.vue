@@ -95,7 +95,7 @@ import { computed, ref } from 'vue'
 import { jsPDF } from 'jspdf'
 
 // Import the back card image
-import backCardImage from '/images/back-card.webp'
+import backCardImage from '/image/back-card.webp'
 
 const props = defineProps({
   selectedCards: {
