@@ -8,7 +8,7 @@
     </div>
 
     <div class="mb-6">
-      <div class="flex justify-between mb-2">
+      <div class="flex justify-between mb-2 text-gray-800">
         <span>Total Cards:</span>
         <span class="font-medium">{{ totalCards }}/60</span>
       </div>
@@ -27,6 +27,14 @@
       >
         Export Deck
       </button>
+      
+      <button 
+        @click="$emit('import-deck')"
+        class="w-full py-2 bg-yellow-500 text-white rounded hover:bg-yellow-600"
+      >
+        Import Deck
+      </button>
+      
       <button 
         @click="$emit('print-deck')"
         class="w-full py-2 bg-green-500 text-white rounded hover:bg-green-600"
