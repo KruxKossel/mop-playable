@@ -1,27 +1,28 @@
 <template>
-  <div class="bg-white rounded-lg shadow-md p-4 mb-6">
+  <div class="bg-slate-300 rounded-lg shadow-md p-4 mb-6">
+    <!-- Grid Filters -->
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-      <!-- Name filter -->
+      <!-- Name Filter -->
       <div>
-        <label class="block text-sm font-medium mb-1 text-gray-800">Card Name</label>
+        <label class="block text-sm font-medium mb-1 text-gray-800" aria-label="Filter cards by name">Card Name</label>
         <input 
           v-model="filters.name"
           type="text"
-          class="w-full p-2 border rounded"
+          class="w-full p-2 border rounded focus:ring-2 focus:ring-blue-500"
           placeholder="Search by name..."
           @input="emitFilters"
         >
       </div>
 
-      <!-- Cost filter -->
+      <!-- Mana Cost Filter -->
       <div>
-        <label class="block text-sm font-medium mb-1 text-gray-800">Mana Cost</label>
+        <label class="block text-sm font-medium mb-1 text-gray-800" aria-label="Filter cards by mana cost">Mana Cost</label>
         <div class="flex gap-2">
           <input 
             v-model.number="filters.costMin"
             type="number"
             min="0"
-            class="w-full p-2 border rounded"
+            class="w-full p-2 border rounded focus:ring-2 focus:ring-blue-500"
             placeholder="Min"
             @input="emitFilters"
           >
@@ -29,183 +30,147 @@
             v-model.number="filters.costMax"
             type="number"
             min="0"
-            class="w-full p-2 border rounded"
+            class="w-full p-2 border rounded focus:ring-2 focus:ring-blue-500"
             placeholder="Max"
             @input="emitFilters"
           >
         </div>
       </div>
 
-      <!-- Description filter -->
+      <!-- Description Filter -->
       <div>
-        <label class="block text-sm font-medium mb-1 text-gray-800">Description</label>
+        <label class="block text-sm font-medium mb-1 text-gray-800" aria-label="Filter cards by description">Description</label>
         <input 
           v-model="filters.description"
           type="text"
-          class="w-full p-2 border rounded"
+          class="w-full p-2 border rounded focus:ring-2 focus:ring-blue-500"
           placeholder="Search in description..."
           @input="emitFilters"
         >
       </div>
     </div>
 
-    <!-- Type filter -->
+    <!-- Type Filter -->
     <div class="mt-4">
-      <label class="block text-sm font-medium mb-1 text-gray-800">Card Type</label>
+      <label class="block text-sm font-medium mb-1 text-gray-800" aria-label="Filtrar cartas por tipo">Tipo de Carta</label>
       <div class="flex flex-wrap gap-2">
         <button
           v-for="type in availableTypes"
           :key="type"
           @click="toggleType(type)"
           :class="[ 
-            'px-3 py-1 rounded-full text-sm',
+            'px-3 py-1 rounded-full text-sm transition-all duration-150',
             filters.types.includes(type)
               ? 'bg-blue-500 text-white'
-              : 'bg-gray-200 text-gray-700'
+              : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
           ]"
+          aria-pressed="filters.types.includes(type)"
         >
           {{ type }}
         </button>
       </div>
     </div>
 
-    <!-- Search and Clear filters buttons -->
+    <!-- Search and Clear Filters -->
     <div class="mt-4 flex justify-end gap-2">
       <button
         @click="searchFilters"
-        class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+        class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 focus:ring-2 focus:ring-blue-500"
+        aria-label="Apply search filters"
       >
         Search
       </button>
       <button
         @click="clearFilters"
-        class="px-4 py-2 bg-gray-600 text-white rounded hover:bg-gray-700"
+        class="px-4 py-2 bg-gray-600 text-white rounded hover:bg-gray-700 focus:ring-2 focus:ring-gray-500"
+        aria-label="Clear all search filters"
       >
         Clear Filters
       </button>
-    </div>
-
-    <!-- Filtered cards list -->
-    <div class="mt-4">
-      <div v-for="card in filteredCards" :key="card.id" class="card text-gray-800">
-        <h3>
-          <strong>
-            {{ card.name }}
-          </strong>
-        </h3>
-        <p>Mana cost: {{ card.cost }}</p>
-        <p>Type: {{ card.type }}</p>
-        <p>Description: {{ card.description }}</p>
-        <br>
-        <hr>
-      </div>
     </div>
   </div>
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref } from 'vue';
 
-const emit = defineEmits(['filter'])
+// Define o evento que o componente emitirá para o pai
+const emit = defineEmits(['filter']);
 
-const props = defineProps({
+/**
+ * Props:
+ * - availableTypes: Array de tipos de cartas disponíveis.
+ */
+ const props = defineProps({
   availableTypes: {
     type: Array,
-    default: () => []
-  }
-})
+    default: () => ["Criatura", "Mágica Instantânea", "Encantamento", "Artefato", "Feitiço", "Terreno"],
+  },
+});
+
+/**
+ * Estado reativo dos filtros:
+ * - name: Nome da carta.
+ * - costMin: Custo mínimo.
+ * - costMax: Custo máximo.
+ * - description: Texto de busca na descrição.
+ * - types: Lista de tipos selecionados.
+ */
 const filters = ref({
   name: '',
   costMin: null,
   costMax: null,
   description: '',
-  types: []
-})
+  types: [],
+});
 
-const cards = ref([]) 
-const filteredCards = ref([])  
+/**
+ * Função: emitFilters
+ * - Emite os filtros atualizados para o componente pai.
+ */
+const emitFilters = () => {
+  emit('filter', { ...filters.value });
+};
 
-// Função para converter o custo de mana (como {2}{G}) em um valor numérico
-function parseManaCost(cost) {
-  let totalCost = 0
-  const costPattern = /\{(\d+)?([A-Za-z])?\}/g
-  let match
-
-  while ((match = costPattern.exec(cost)) !== null) {
-    if (match[1]) {
-      totalCost += parseInt(match[1], 10)
-    } else if (match[2]) {
-      totalCost += 1
-    }
+/**
+ * Função: toggleType
+ * - Adiciona ou remove um tipo da lista de tipos selecionados.
+ * @param {string} type - Tipo a ser alternado.
+ */
+const toggleType = (type) => {
+  // Certifique-se de que filters.types existe e é um array
+  if (!Array.isArray(filters.value.types)) {
+    filters.value.types = [];
   }
 
-  return totalCost
-}
-
-
-async function loadCards() {
-  try {
-    const response = await fetch('cards/cards.json')
-    if (!response.ok) {
-      throw new Error('Erro ao carregar o arquivo JSON')
-    }
-
-    const data = await response.json()
-    console.log('Cartas carregadas:', data)
-    cards.value = data  
-  } catch (error) {
-    console.error(error)
+  if (filters.value.types.includes(type)) {
+    filters.value.types = filters.value.types.filter((t) => t !== type);
+  } else {
+    filters.value.types.push(type);
   }
-}
+  emitFilters(); // Emite os filtros atualizados
+};
 
+/**
+ * Função: clearFilters
+ * - Reseta todos os filtros para os valores padrão e os emite para o pai.
+ */
 const clearFilters = () => {
   filters.value = {
     name: '',
     costMin: null,
     costMax: null,
     description: '',
-    types: []
-  }
-  filteredCards.value = []  
-  emitFilters()
-}
+    types: [],
+  };
+  emitFilters(); // Reaplica filtros limpos
+};
 
-const searchFilters = async () => {
-  console.log('Applying filters:', filters.value)
-  try {
-    if (!filters.value.name && !filters.value.costMin && !filters.value.costMax && !filters.value.description && filters.value.types.length === 0) {
-      filteredCards.value = []  
-      return
-    }
-
-    filteredCards.value = cards.value.filter(card => {
-
-      const nameMatch = card.name && card.name.toLowerCase().includes(filters.value.name.toLowerCase())
-
-      const costMatch = (
-        (!filters.value.costMin || parseManaCost(card.cost) >= filters.value.costMin) &&
-        (!filters.value.costMax || parseManaCost(card.cost) <= filters.value.costMax)
-      )
-
-      const descriptionMatch = card.description && card.description.toLowerCase().includes(filters.value.description.toLowerCase())
-
-      const typeMatch = filters.value.types.length === 0 || filters.value.types.includes(card.type)
-
-      return nameMatch && costMatch && descriptionMatch && typeMatch
-    })
-
-    filteredCards.value = filteredCards.value.map(({ id, ...card }) => card)
-
-    console.log('Filtered cards:', filteredCards.value.map(card => card.name))
-  } catch (error) {
-    console.error('Error filtering cards:', error)
-  }
-  emitFilters()
-}
-
-const emitFilters = () => {
-  emit('filter', { ...filters.value })
-}
-
-onMounted(loadCards)
+/**
+ * Função: searchFilters
+ * - Aplica explicitamente os filtros no clique do botão "Search".
+ */
+const searchFilters = () => {
+  emitFilters(); // Reutiliza a função emitFilters
+};
 </script>
