@@ -13,16 +13,16 @@ Não queremos uma aplicação 100% perfeita de começo, vamos seguir uma metodol
 
 ### Requisitos do MVP.
 
-* [ ] Ser uma aplicação totalmente web, o mais leve possível e que possa ser utilizada via browser(Chrome/Firefox).
+* [X] Ser uma aplicação totalmente web, o mais leve possível e que possa ser utilizada via browser(Chrome/Firefox).
 
-* [ ] Permitir que o usuário filtre as cartas por: Nome, tipo e custo de mana.
-* [ ] Permitir que o usuário selecione a carta e envie para um "Deck".
-* [ ] Permitir que o usuário analise o deck de cartas, adicionando e removendo cartas, cada deck só pode conter no máximo 60 cartas e no máximo 4 de cada tipo.
-* [ ] Permitir que uma vez que o deck esteja definido o usuário possa salvar um arquivo .json com Deck que ele definiu.
-* [ ] Permitir que o usuário imprima o deck dele.
-    * [ ] A aplicação deverá colocar a página em portrait mode, e colocar 10 fundos de cartas igualmente espaçados,
-    * [ ] Na página seguinte a aplicação deverá colocar 10 cartas selecionadas no deck, igualmente espaçadas de forma que ao imprimir frente e verso as cartas fiquem alinhadas.
-* [ ] Primeira versão no ar até 01/12/2024. (14 dias antes da H2HC)
+* [X] Permitir que o usuário filtre as cartas por: Nome, tipo e custo de mana.
+* [X] Permitir que o usuário selecione a carta e envie para um "Deck".
+* X ] Permitir que o usuário analise o deck de cartas, adicionando e removendo cartas, cada deck só pode conter no máximo 60 cartas e no máximo 4 de cada tipo.
+* [X] Permitir que uma vez que o deck esteja definido o usuário possa salvar um arquivo .json com Deck que ele definiu.
+* [X] Permitir que o usuário imprima o deck dele.
+    * [X] A aplicação deverá colocar a página em portrait mode, e colocar 10 fundos de cartas igualmente espaçados,
+    * [X] Na página seguinte a aplicação deverá colocar 10 cartas selecionadas no deck, igualmente espaçadas de forma que ao imprimir frente e verso as cartas fiquem alinhadas.
+* [X] Primeira versão no ar até 01/12/2024. (14 dias antes da H2HC)
 
 ## Como contribuir:
 
