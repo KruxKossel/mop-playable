@@ -2,6 +2,8 @@
 
 Este repositório tem como objetivo manter o código de uma aplicação web capaz de selecionar um conjunto de cartas de uma biblioteca em JSON, montar um baralho de cartas e criar arquivos PDF para serem impressos frente e verso com a imagem das cartas.
 
+Você pode acessar aqui: https://masters-of-pwnage.github.io/mop-playable/
+
 Todo o projeto será gerenciado através do Github, isso é: toda comunicação, milestones, releases etc.... Será inteiramente desenvolvido por voluntários e portanto Open source.
 
 ## MVP (Minimum viable product).
