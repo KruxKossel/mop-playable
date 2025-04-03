@@ -1,10 +1,12 @@
 {
   "id": "cfa99bc7-8b6e-4c0d-ac37-e5cd47d74f1d",
   "name": "Endrigo Antonini",
-  "cost": "{W}{B}{B}",
+  "cost": "{1}{W}{W}",
   "type": "Criatura — CISSP Paladin",
   "description": "Vigilancia\nQuando Endrigo Antonini entra no campo de batalha, você ganha 3 pontos de vida.\n{W}, {B}: Previna o próximo 1 de dano que seria causado a qualquer alvo neste turno.",
   "image": "image/endrigo-antonini.webp",
   "edition": "Player Card",
-  "year": ""
+  "year": "",
+  "power": 3,
+  "toughness": 4
 }

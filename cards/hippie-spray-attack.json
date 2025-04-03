@@ -1,7 +1,7 @@
 {
   "id": "725d3e81-34b6-4ee7-b31d-ec32ec53a5c1",
   "name": "Hippie Spray Attack",
-  "cost": "{R}",
+  "cost": " {1}{R}",
   "type": "Sorcery",
   "description": "Hippie Spray Attack deals 3 damage to any target. If a creature is dealt damage this way, it can't block this turn.",
   "image": "image/hippie-spray-attack.webp",

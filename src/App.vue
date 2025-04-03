@@ -75,6 +75,7 @@
     <section class="col-span-12 lg:col-span-4 bg-slate-800 p-3 rounded shadow">
       <FilterBar
         :available-types="availableTypes"
+        :available-manas="availableManas"
         @filter="activeFilters = $event"
       />
       <div class="mt-4 bg-gray-100 p-2 rounded shadow max-h-[815px] overflow-y-auto">
@@ -175,6 +176,15 @@ const showPrintPreview = ref(false);
   "Terreno",
 ]);
 
+const availableManas = ref([
+  "{W}",
+  "{U}",
+  "{B}",
+  "{R}",
+  "{G}",
+  "{C}",
+]);
+
 /**
  * Filtros ativos:
  * - Define os critérios de pesquisa para exibição de cartas (nome, custo, etc.).
@@ -185,6 +195,7 @@ const activeFilters = ref({
   costMax: null,
   description: '',
   types: [],
+  manas: [],
 });
 
 /**
@@ -220,8 +231,27 @@ const currentPage = ref(1);
 // Função para interpretar o custo de mana
 const parseManaCost = (cost) => {
   if (!cost) return 0; // Retorna 0 para cartas sem custo de mana
-  const genericCostMatch = cost.match(/\d+/); // Extrai o número genérico de mana entre '{}'
-  return genericCostMatch ? parseInt(genericCostMatch[0], 10) : 0; // Retorna como número
+  
+  let totalCost = 0;
+  
+  // Encontra todos os padrões dentro de chaves {}
+  const manaSymbols = cost.match(/\{[^}]+\}/g) || [];
+  
+  manaSymbols.forEach(symbol => {
+    // Remove as chaves
+    const manaType = symbol.replace(/[{}]/g, '');
+    
+    // Se for um número, adiciona esse valor
+    if (/^\d+$/.test(manaType)) {
+      totalCost += parseInt(manaType, 10);
+    } 
+    // Se for um símbolo de mana colorido ou incolor, adiciona 1
+    else {
+      totalCost += 1;
+    }
+  });
+  
+  return totalCost;
 };
 
 const filteredCards = computed(() => {
@@ -246,8 +276,15 @@ const filteredCards = computed(() => {
             (filterType) => card.type && filterType && card.type.toLowerCase().includes(filterType.toLowerCase())
           )
         : true;
+        
+    const matchesMana =
+      activeFilters.value.manas && activeFilters.value.manas.length > 0
+        ? activeFilters.value.manas.every(
+            (manaType) => card.cost && card.cost.includes(manaType)
+          )
+        : true;
 
-    return matchesName && matchesCost && matchesDescription && matchesType;
+    return matchesName && matchesCost && matchesDescription && matchesType && matchesMana;
   });
 });
 
