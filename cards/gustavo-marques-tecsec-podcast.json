@@ -1,0 +1,10 @@
+{
+  "id": "f3b3c39d-c164-4531-8c46-7832d24aaeb2",
+  "name": "Gustavo Marques - TecSec Podcast",
+  "cost": "{2}{R}{R}",
+  "type": "Criatura - Humano Hacker",
+  "description": "Gustavo Marques tem ímpeto. Quando Gustavo Marques entrar no campo de batalha, crie X fichas de criatura vermelhas 1/1 do tipo Bot com ímpeto, onde X é o número de artefatos que seus oponentes controlam. {1}{t}: Artefatos que seus oponentes controlam entram no campo de batalha virados no próximo turno.",
+  "image": "image/gustavo-marques-tecsec-podcast.webp",
+  "edition": null,
+  "year": null
+}
