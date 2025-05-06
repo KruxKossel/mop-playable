@@ -71,6 +71,27 @@
       </div>
     </div>
 
+    <!-- Mana Type Filter -->
+    <div class="mt-4">
+      <label class="block text-sm font-medium mb-1 text-gray-800" aria-label="Filter cards by mana type">Mana Type</label>
+      <div class="flex flex-wrap gap-2">
+        <button
+          v-for="mana in availableManas"
+          :key="mana"
+          @click="toggleMana(mana)"
+          :class="[ 
+            'px-3 py-1 rounded-full text-sm transition-all duration-150',
+            filters.manas.includes(mana)
+              ? getManaButtonStyle(mana)
+              : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+          ]"
+          aria-pressed="filters.manas.includes(mana)"
+        >
+          {{ mana }}
+        </button>
+      </div>
+    </div>
+
     <!-- Search and Clear Filters -->
     <div class="mt-4 flex justify-end gap-2">
       <button
@@ -100,11 +121,16 @@ const emit = defineEmits(['filter']);
 /**
  * Props:
  * - availableTypes: Array de tipos de cartas disponíveis.
+ * - availableManas: Array de tipos de mana disponíveis.
  */
  const props = defineProps({
   availableTypes: {
     type: Array,
     default: () => ["Criatura", "Mágica Instantânea", "Encantamento", "Artefato", "Feitiço", "Terreno"],
+  },
+  availableManas: {
+    type: Array,
+    default: () => ["{R}", "{G}", "{B}", "{U}", "{W}"],
   },
 });
 
@@ -115,6 +141,7 @@ const emit = defineEmits(['filter']);
  * - costMax: Custo máximo.
  * - description: Texto de busca na descrição.
  * - types: Lista de tipos selecionados.
+ * - manas: Lista de tipos de mana selecionados.
  */
 const filters = ref({
   name: '',
@@ -122,6 +149,7 @@ const filters = ref({
   costMax: null,
   description: '',
   types: [],
+  manas: [],
 });
 
 /**
@@ -152,6 +180,43 @@ const toggleType = (type) => {
 };
 
 /**
+ * Função: toggleMana
+ * - Adiciona ou remove um tipo de mana da lista de manas selecionados.
+ * @param {string} mana - Tipo de mana a ser alternado.
+ */
+const toggleMana = (mana) => {
+  // Certifique-se de que filters.manas existe e é um array
+  if (!Array.isArray(filters.value.manas)) {
+    filters.value.manas = [];
+  }
+
+  if (filters.value.manas.includes(mana)) {
+    filters.value.manas = filters.value.manas.filter((m) => m !== mana);
+  } else {
+    filters.value.manas.push(mana);
+  }
+  emitFilters(); // Emite os filtros atualizados
+};
+
+/**
+ * Função: getManaButtonStyle
+ * - Retorna as classes CSS para o botão de mana com base no tipo.
+ * @param {string} mana - Tipo de mana.
+ * @returns {string} - Classes CSS.
+ */
+const getManaButtonStyle = (mana) => {
+  const styles = {
+    "{R}": "bg-red-500 text-white",
+    "{G}": "bg-green-500 text-white",
+    "{B}": "bg-black text-white",
+    "{U}": "bg-blue-500 text-white",
+    "{W}": "bg-yellow-100 text-gray-800",
+  };
+  
+  return styles[mana] || "bg-blue-500 text-white";
+};
+
+/**
  * Função: clearFilters
  * - Reseta todos os filtros para os valores padrão e os emite para o pai.
  */
@@ -162,6 +227,7 @@ const clearFilters = () => {
     costMax: null,
     description: '',
     types: [],
+    manas: [],
   };
   emitFilters(); // Reaplica filtros limpos
 };

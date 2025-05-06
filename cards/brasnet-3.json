@@ -1,9 +1,9 @@
 {
   "id": "8e9a17f2-9e0f-4d06-92ad-67f327e2aa82",
   "name": "BrasNET",
-  "cost": "{C}",
+  "cost": "",
   "type": "Cyberland",
-  "description": "Adiciona {C} ao seu pool de mana.",
+  "description": "Adiciona {R} ao seu pool de mana.",
   "image": "image/brasnet-3.webp",
   "edition": "Cyberland",
   "year": ""

@@ -1,10 +1,12 @@
 {
   "id": "a0b6f7e4-e6e6-4e75-ad0e-9aba64ddfa98",
   "name": "Breno Silva",
-  "cost": "{2}{B}{B}",
+  "cost": "{2}{W}{W}",
   "type": "Criatura — Hacker Raiz",
   "description": "Patentes: Sempre que você conjura um feitiço de encantamento, coloque um marcador +1/+1 em Breno Silva.\n1 {B}, {T}: Olhe os três primeiros cards do seu deck. Você pode revelar um feitiço de encantamento entre eles e colocá-lo na sua mão. Coloque os demais no fundo do seu deck em qualquer ordem.",
   "image": "image/breno-silva.webp",
   "edition": null,
-  "year": null
+  "year": null,
+  "power": 2,
+  "toughness": 3
 }
