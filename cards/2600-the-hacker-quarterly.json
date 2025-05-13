@@ -1,0 +1,13 @@
+{
+  "id": "d2e6fd5c-dcf0-4905-8ff3-a8b0be5ad7ff",
+  "name": "2600 The Hacker Quarterly",
+  "cost": "2600",
+  "type": "hertz",
+  "description": "",
+  "image": "image/2600-the-hacker-quarterly.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

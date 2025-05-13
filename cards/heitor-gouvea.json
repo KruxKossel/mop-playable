@@ -1,0 +1,13 @@
+{
+  "id": "6f6c6e42-d80c-4fc3-949e-fafe4a6b3ec6",
+  "name": "Heitor Gouvêa",
+  "cost": "{2}{W}",
+  "type": "Criatura — Pentester",
+  "description": "HACK — {0}, {T}: Até o final do turno, a criatura alvo que você controla ganha hexproof. \"Entre linhas de código, sua lealdade se transforma num escudo que protege a rede contra invasores.\"",
+  "image": "image/heitor-gouvea.webp",
+  "power": "2",
+  "toughness": "3",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

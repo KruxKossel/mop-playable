@@ -1,0 +1,13 @@
+{
+  "id": "d18df54d-5e3d-4375-9586-dde9b78f2a98",
+  "name": "Divina Vitorino",
+  "cost": "{1}{U}",
+  "type": "Criatura — Diva Hacker",
+  "description": "Quando Divina Vitorino entrar no campo de batalha, você pode escolher um feitiço ou habilidade que um oponente esteja conjurando. O oponente deve pagar {1}{U} para continuar a conjuração. Se ele não pagar, o feitiço ou habilidade é contrariado e vai para o cemitério.",
+  "image": "image/divina-vitorino.webp",
+  "power": "2",
+  "toughness": "2",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

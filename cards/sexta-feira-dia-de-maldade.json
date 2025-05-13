@@ -1,0 +1,13 @@
+{
+  "id": "f7f62a32-e9aa-4c4e-8d9d-27a9fd8fb61a",
+  "name": "Sexta-Feira, Dia de Maldade",
+  "cost": "{3}",
+  "type": "Artefato — Evento Sombrio",
+  "description": "No início da sua fase de combate, se for sexta-feira no mundo real, ative um dos efeitos abaixo (uma vez por turno): — Liberação de Payload: O oponente alvo perde 2 pontos de vida e revela um card da mão à sua escolha. — Caos Programado: A criatura alvo recebe -1/-1 até o final do turno. Se ela for destruída, exile-a em vez disso.",
+  "image": "image/sexta-feira-dia-de-maldade.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

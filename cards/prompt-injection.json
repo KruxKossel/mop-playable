@@ -1,0 +1,13 @@
+{
+  "id": "21e00874-1cfe-4d92-98b3-a8d15164c50a",
+  "name": "Prompt Injection",
+  "cost": "2{U}",
+  "type": "Sorcery",
+  "description": "Escolha um artefato de LLM do oponente. Você pode usar as habilidades desse artefato como se fossem suas.",
+  "image": "image/prompt-injection.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "e8bcdef6-9b40-4aab-8cf9-f72dbbcd54c7",
+  "name": "Rafael Granha",
+  "cost": "{2}{G}",
+  "type": "Criatura — Ancient Hacker",
+  "description": "1, {T}: Um oponente revela sua mão. Escolha um card não-terreno dela e exile-o. Se fizer isso, adicione {G} à sua reserva de mana para cada ponto de custo de mana convertido daquele card e coloque um contador +1/+1 em Rafael Granha.",
+  "image": "image/rafael-granha.webp",
+  "power": 3,
+  "toughness": 3,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "e3ac0905-8a70-4f6d-957e-b7b9aa95c4f6",
+  "name": "Voluntário de Evento",
+  "cost": "{3}{W}",
+  "type": "Criatura — Humano Hacker",
+  "description": "No início do seu combate, você pode escolher outra criatura que você controla. Até o final do turno, aquela criatura ganha +X/+X, onde X é o número de cartas de voluntários que você controla.",
+  "image": "image/voluntario-de-evento.webp",
+  "power": 3,
+  "toughness": 4,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

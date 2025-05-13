@@ -1,0 +1,13 @@
+{
+  "id": "7f0b9c6b-c708-4feb-b4bd-cb8e61b8fb0d",
+  "name": "RCE Lateral",
+  "cost": "3{B}{B}",
+  "type": "Encantamento — Habilidade Ofensiva",
+  "description": "Sempre que um oponente conjurar um feitiço ou artefato, você pode pagar 1 {B}. Se o fizer, o oponente deve exibir sua mão e você pode escolher uma carta de artefato ou feitiço da mão dele e jogá-la no cemitério. Se um oponente tiver mais de 5 cartas na mão, você pode ativar esse efeito novamente sem pagar o custo de mana.",
+  "image": "image/rce-lateral.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

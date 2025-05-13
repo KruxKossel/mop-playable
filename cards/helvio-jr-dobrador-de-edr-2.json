@@ -1,0 +1,13 @@
+{
+  "id": "dbe58a38-2da7-4d33-a63b-57e5e9d07f15",
+  "name": "Helvio JR - Dobrador de EDR-2",
+  "cost": "2{B}{B}",
+  "type": "Criatura — Humano Hacker",
+  "description": "Ímpeto, Atravessar\nQuando Helvio JR — Dobrador de EDR entra no campo de batalha, você pode exilar um artefato ou feitiço de proteção (como encantamentos ou artefatos que representam medidas de segurança) até o final do turno.\nSempre que um oponente usar um feitiço de proteção ou defesa, você pode pagar 1 {B} para atravessar e ignorar o efeito de qualquer artefato ou feitiço de proteção daquele jogador, causando 1 ponto de dano a ele.",
+  "image": "image/helvio-jr-dobrador-de-edr-2.webp",
+  "power": 3,
+  "toughness": 3,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

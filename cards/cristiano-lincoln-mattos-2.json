@@ -1,0 +1,13 @@
+{
+  "id": "5cd1a2df-b70e-4834-8b4e-58fd2bc2b24b",
+  "name": "Cristiano Lincoln Mattos-2",
+  "cost": "2⏣⏣",
+  "type": "Criatura — Entrepreneur Hacker",
+  "description": "Quando Cristiano Lincoln Mattos entra no campo de batalha, escolha uma criatura alvo e dê -1/-1. 2{T}, dê -1/-1 para uma criatura alvo. Toda vez que uma criatura for para o cemitério dessa forma, compre uma carta.",
+  "image": "image/cristiano-lincoln-mattos-2.webp",
+  "power": "2",
+  "toughness": "3",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

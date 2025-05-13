@@ -1,0 +1,13 @@
+{
+  "id": "e60c9b48-bc2d-4d16-8bb4-f49f40edb0e4",
+  "name": "Yumi Ambriola",
+  "cost": "{1}{W}{U}",
+  "type": "Criatura — Diva Hacker",
+  "description": "Quando Yumi Ambriola entra no campo de batalha, você pode olhar as três primeiras cartas do grimório de um oponente. Você pode escolher uma delas para devolver ao fundo do grimório na ordem que preferir. Se você devolver duas cartas com o mesmo custo de mana ou que se combinem de alguma forma, você pode anular uma delas. {T}: Crie um token de criatura +1/+1 Guardião com Vigilância.",
+  "image": "image/yumi-ambriola.webp",
+  "power": "3",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

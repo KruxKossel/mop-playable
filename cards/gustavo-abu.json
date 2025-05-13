@@ -1,0 +1,13 @@
+{
+  "id": "ce4db9f3-f1d9-4fea-9c23-aca3d5d9db6d",
+  "name": "Gustavo Abu",
+  "cost": "1{B}{B}",
+  "type": "Criatura — Hacker Raiz",
+  "description": "2,{T} : Um oponente revela sua mão. Escolha um card não-terreno dela; esse jogador descarta o card. Se ele for descartado desta forma, você ganha 1 ponto de vida e compra um card.",
+  "image": "image/gustavo-abu.webp",
+  "power": "2",
+  "toughness": "3",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

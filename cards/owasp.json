@@ -1,0 +1,13 @@
+{
+  "id": "7ca3a4b2-2be6-4ec6-aea6-fea87d1d738e",
+  "name": "OWASP",
+  "cost": "{1}{w}",
+  "type": "Criatura",
+  "description": "Voar\nToda vez que uma mágica ou habilidade de um oponente mirar OWASP ou outra criatura que você controla, anule aquela mágica ou habilidade, a menos que aquele jogador pague {2}.\n\"Ela não ataca primeiro — apenas quando sente o sistema exposto.\"",
+  "image": "image/owasp.webp",
+  "power": "2",
+  "toughness": "1",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

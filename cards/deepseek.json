@@ -1,0 +1,13 @@
+{
+  "id": "2ce5dd2c-1ab7-4dbd-9741-7f03d3c6e9c2",
+  "name": "DeepSeek",
+  "cost": "{2}",
+  "type": "Artefato — Equipamento Hacker",
+  "description": "Toda vez que um artefato entrar no campo de batalha sob o controle de um oponente, você pode pagar {1}. Se fizer isso, compre um card. {T}, Sacrifique DeepSeek: Revele a carta do topo do seu grimório e coloque-a na sua mão. Se for uma carta de artefato, o jogador alvo perde 3 pontos de vida.",
+  "image": "image/deepseek.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

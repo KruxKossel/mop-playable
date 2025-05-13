@@ -1,0 +1,13 @@
+{
+  "id": "53c0f054-fb97-4b7e-b2d8-a0c8e8d5ced9",
+  "name": "Magali - Guardiã da Sabedoria",
+  "cost": "{3}{G}{U}",
+  "type": "Criatura — Diva Hacker",
+  "description": "Toque de Sabedoria — Quando Magali — Guardiã da Sabedoria entra no campo de batalha, você pode procurar em seu grimório por uma carta de permanente e colocá-la na parte superior de seu grimório.\n{T}: Revele uma carta do topo do seu grimório. Se for uma carta de permanente, coloque-a em campo.\n\"Com o conhecimento vem a harmonia, e com a harmonia, o poder do crescimento.\"",
+  "image": "image/magali-guardia-da-sabedoria.webp",
+  "power": 4,
+  "toughness": 5,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "8b6a3d6a-8721-4ff3-b4e1-9af5d9ed6bc6",
+  "name": "Cobalt Strike",
+  "cost": "{4}",
+  "type": "Artefato — Ferramenta Hacker",
+  "description": "{2}, {T}: Crie uma ficha de artefato chamada Beacon com \"1, {T}, sacrifique este artefato: O oponente alvo descarta um card aleatório. Ative esta habilidade apenas como feitiço.\" \n\n {3}, {T}, sacrifique um Beacon: Compre um card.",
+  "image": "image/cobalt-strike.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

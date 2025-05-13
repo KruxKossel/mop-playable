@@ -1,0 +1,13 @@
+{
+  "id": "d2a88fe9-a5a4-4a2b-b731-86ee50787bf0",
+  "name": "Nash Leon",
+  "cost": "3{R}{R}",
+  "type": "Criatura — Ancient Hacker",
+  "description": "Ímpeto, Destruição Aleatória\nQuando Nash Leon entra no campo de batalha, escolha um alvo. Destrúa um artefato ou terreno alvo de forma aleatória.\nSempre que Nash Leon causar dano, você pode pagar 1{R}. Se o fizer, Nash Leon causa dano igual à sua força a qualquer alvo aleatório.\n\"Eu não sou uma ameaça. Eu sou a tempestade que você nunca viu chegando.\"",
+  "image": "image/nash-leon.webp",
+  "power": "3",
+  "toughness": "2",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

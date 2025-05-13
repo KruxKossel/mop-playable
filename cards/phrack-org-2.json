@@ -1,0 +1,13 @@
+{
+  "id": "a0eebc99-9c0b-4ef8-bb6d-abcdef098765",
+  "name": "Phrack.org-2",
+  "cost": "{C}",
+  "type": "Cyberland",
+  "description": "{T}, Add [B] de mana ou pague 1 de vida e add {B}{B} de mana",
+  "image": "image/phrack-org-2.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "7453b4cd-d3ab-4b94-a22d-bf36fb6e50f0",
+  "name": "Saque Offline",
+  "cost": "2{U}",
+  "type": "Encantamento — Mítico",
+  "description": "No início da fase de manutenção do oponente alvo, você pode olhar o card do topo do grimório dele. Você pode devolvê-lo ao topo do grimório. Enquanto este encantamento estiver no campo de batalha, sempre que aquele jogador comprar um card com o mesmo nome do card que você olhou dessa forma, ele perde 1 ponto de vida.",
+  "image": "image/saque-offline.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

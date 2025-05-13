@@ -1,0 +1,13 @@
+{
+  "id": "c6d95a13-d8dd-4704-93cc-7cbd7fc01a05",
+  "name": "Victor M0nad",
+  "cost": "{1}{B}",
+  "type": "Criatura — Mythological Hacker",
+  "description": "Enquanto Victor M0nad estiver em jogo, todos os artefatos do tipo \"Rootkit\" são indestrutíveis até que \"Purificação de Sistema\" seja executado.",
+  "image": "image/victor-m0nad.webp",
+  "power": "1",
+  "toughness": "2",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

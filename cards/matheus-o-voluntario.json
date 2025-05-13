@@ -1,0 +1,13 @@
+{
+  "id": "c9efeaf0-ed3d-4da7-b6c8-41d8b8a19e13",
+  "name": "Matheus - O voluntário",
+  "cost": "2{W}",
+  "type": "Criatura — Humano Hacker",
+  "description": "Vigilância, Quando Matheus — O voluntário entra no campo de batalha, você pode escolher um jogador para cada cyberland de evento. Até o final do turno, todos os efeitos que causam dano ou fazem com que um jogador perca pontos de vida são prevenidos. {T}: Crie um token de criatura +1/+1 de Voluntário com Vigilância. Esses tokens têm a habilidade de sacrificar-se para prevenir 3 pontos de dano de qualquer fonte.",
+  "image": "image/matheus-o-voluntario.webp",
+  "power": "3",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

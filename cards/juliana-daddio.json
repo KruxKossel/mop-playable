@@ -1,0 +1,13 @@
+{
+  "id": "b2e0d0ef-2a39-4acb-857b-c3d7b69c0a81",
+  "name": "Juliana D'addio",
+  "cost": "2{W}{W}",
+  "type": "Criatura — Diva Hacker",
+  "description": "Vigilância, Prevenção de Dano\n\nSempre que um oponente causaria dano a você ou a uma criatura que você controla, você pode pagar 1{W}. Se o fizer, o dano é prevenido e aquele oponente descarta uma carta aleatória da sua mão.\n\n{T}: Crie um token de criatura 1/1 de Guardião com Vigilância.",
+  "image": "image/juliana-daddio.webp",
+  "power": "4",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "7ed5822e-d1c9-4af9-9a9b-ae5fcfe72c41",
+  "name": "Forense Digital",
+  "cost": "{1}{U}{R}",
+  "type": "Mágica instantânea",
+  "description": "Essa carta custa {1} a menos para ser conjurada se for utilizada uma mana gerada pela PurpleBird Security. Escolha até uma mágica ou habilidade no cemitério de um oponente: — Investigar: Copie o texto dessa mágica ou habilidade. Você pode conjurá-la este turno sem pagar seu custo de mana se ela tiver como alvo um permanente seu que foi destruído ou exilado neste turno. — Se um artefato ou encantamento de um oponente foi destruído neste turno, exile até duas cartas do cemitério dele. Você ganha 2 pontos de vida para cada card exilado desta forma.",
+  "image": "image/forense-digital.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

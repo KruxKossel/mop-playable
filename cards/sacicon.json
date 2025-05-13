@@ -1,0 +1,13 @@
+{
+  "id": "4b6c1921-c745-4d84-8e36-0f0e7a95a6bf",
+  "name": "SaciCON",
+  "cost": "{C}",
+  "type": "Cyberland — Conferência",
+  "description": "{T}, Adicione {R}{R} de mana.\n\nEm briga de Saci, todo chute é voadora.",
+  "image": "image/sacicon.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

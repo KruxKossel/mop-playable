@@ -1,0 +1,13 @@
+{
+  "id": "c8d5b8fc-27c4-4c86-940c-ff34d4e88d51",
+  "name": "Glauco Sampaio-2",
+  "cost": "4{W}{W}",
+  "type": "Criatura — Entrepreneur Hacker",
+  "description": "Vigilância\nQuando Glauco Sampaio entra no campo de batalha, você pode escolher até dois oponentes. Até o final do turno, todas as criaturas que esses oponentes controlam não podem atacar, bloquear ou ativar habilidades.\n{T}: Crie um token de criatura 2/2 de Guardião com Vigilância.",
+  "image": "image/glauco-sampaio-2.webp",
+  "power": "4",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

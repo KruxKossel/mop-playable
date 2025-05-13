@@ -1,0 +1,13 @@
+{
+  "id": "9d12da8c-02e4-4389-a2a2-61eac7d25b79",
+  "name": "Eva Pereira",
+  "cost": "3{B}{B}{B}",
+  "type": "Criatura — Diva Hacker",
+  "description": "Vigilância,\n\nQuando Eva Pereira entra no campo de batalha, você pode criar dois tokens de criatura +1/+1 \"Jovem Aprendiz\" com Vigilância.\n\nSempre que você criar um token de criatura, você pode escolher um token alvo. Esse token recebe +1/+1 até o final do turno, simbolizando o impacto da educação e o crescimento das futuras gerações.\n\n\"Educar é semear o futuro, uma jovem mente de cada vez.\"",
+  "image": "image/eva-pereira.webp",
+  "power": "4",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

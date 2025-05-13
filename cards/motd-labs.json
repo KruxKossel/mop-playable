@@ -1,0 +1,13 @@
+{
+  "id": "dfb7a2fc-9d6c-4c5e-9c52-63b08c8b2db7",
+  "name": "MOTD Labs",
+  "cost": "{C}",
+  "type": "Cyberland",
+  "description": "{T}: Adicione {R} à sua reserva de mana.\n\n\"Hacking não é para qualquer um... (IP_FIX)\"",
+  "image": "image/motd-labs.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "e0c27b62-d8c1-4c61-96a3-2bdcd6f07ca0",
+  "name": "DoublePulsar",
+  "cost": "2{U}",
+  "type": "Pettico ┽ Código Malicioso",
+  "description": "Exile as três primeiras cartas do grimório de um oponente. Você pode conjurar um card não-terreno exilado desta forma sem pagar seu custo de mana até o final do turno. Esse card ganha \"Não pode ser anulado\" até o final do turno.",
+  "image": "image/doublepulsar.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

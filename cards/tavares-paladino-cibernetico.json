@@ -1,0 +1,13 @@
+{
+  "id": "9ccda4f5-4ee5-4f20-9e1c-ff6d8f0cebd5",
+  "name": "Tavares, Paladino cibernético",
+  "cost": "{3}{B}{U}",
+  "type": "Criatura — Humano Hacker",
+  "description": "Vigilância,\nQuando Tavares, Paladino cibernético entra no campo de batalha, você pode escolher até dois feitiços ou artefatos que um oponente controla. Exile esses feitiços ou artefatos até o final do turno. Sempre que um feitiço ou artefato for exilado dessa forma, você pode copiar a habilidade daquele feitiço ou artefato e escolher outro alvo.\n\"Da Roma eterna aos domínios digitais, meu gládio agora empunha código. A ameaça muda. O juramento permanece.\"",
+  "image": "image/tavares-paladino-cibernetico.webp",
+  "power": "3",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

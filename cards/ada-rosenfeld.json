@@ -1,0 +1,13 @@
+{
+  "id": "a4d2bf89-8d74-4f0f-9e76-a471b2f1a61a",
+  "name": "Ada Rosenfeld",
+  "cost": "{2}{w}{w}",
+  "type": "Criatura — Diva Hacker",
+  "description": "Quando Ada Rosenfeld entra no campo de batalha, você pode escolher um jogador. Esse jogador revela a carta do topo de seu grimório. Se for uma carta de permanente, você pode colocá-la em campo sob seu controle. {t}: Crie um token de criatura +1/+1 de Hacker com Vigilância. \"Os sonhos são mais do que ilusões. São os laços que criamos para proteger e guiar.\"",
+  "image": "image/ada-rosenfeld.webp",
+  "power": "3",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "aeb57b87-e32c-4f2c-ba92-bef6ec9c79cd",
+  "name": "Agente da ABIN",
+  "cost": "3{B}{B}",
+  "type": "Criatura — Humano Hacker",
+  "description": "Quando Agente da ABIN entra no campo de batalha, escolha um oponente.\n\nEnquanto Agente da ABIN estiver em campo, você pode olhar o primeiro card do grimório do oponente escolhido durante sua fase de manutenção.\n\nSe for uma mágica ou permanente, você pode pagar 2 pontos de vida. Se o fizer, exile aquele card e coloque uma cópia dele em sua mão.\n\nSacrifique um artefato Cobalt Strike: O oponente alvo revela a mão. Escolha uma carta não-terreno. Aquele jogador a descarta.",
+  "image": "image/agente-da-abin.webp",
+  "power": "2",
+  "toughness": "3",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}
