@@ -1,0 +1,13 @@
+{
+  "id": "8eaf3dc6-c0ef-4559-8c7c-d76f59ff5a09",
+  "name": "Phishing",
+  "cost": "1{B}",
+  "type": "Encantamento — Habilidade Ofensiva",
+  "description": "Sempre que um oponente sacrificar uma permanente, você pode pagar 1 {B}. Se o fizer, o oponente \"clicou em um phishing\" e você pode escolher uma carta da mão do oponente. O oponente deve revelar sua mão e você pode exilar uma carta da mão dele até o próximo turno.\n\n\"Às vezes, as melhores armadilhas não são aquelas que você vê, mas sim aquelas que você é induzido a cair.\"",
+  "image": "image/phishing.webp",
+  "power": "3",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

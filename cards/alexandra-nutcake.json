@@ -1,0 +1,13 @@
+{
+  "id": "4c5c8e6f-ccd1-4cbd-924b-25d89d7f56d5",
+  "name": "Alexandra - Nutcake",
+  "cost": "{4}{r}{r}",
+  "type": "Criatura — Hardware Hacker",
+  "description": "Impeto, Quando Alexandra — Nutcake entra no campo de batalha realize fault injection: destrúa até um artefato e force o oponente a descartar uma carta aleatória da sua mão. \"Cada falha é uma oportunidade para explorar o que está escondido no coração da máquina.\"",
+  "image": "image/alexandra-nutcake.webp",
+  "power": "5",
+  "toughness": "3",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

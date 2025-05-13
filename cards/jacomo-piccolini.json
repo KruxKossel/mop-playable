@@ -1,0 +1,13 @@
+{
+  "id": "4aa8bd9e-1aa9-4e2c-9a63-b15af3d8a9c0",
+  "name": "Jacomo Piccolini",
+  "cost": "3{U}{U}",
+  "type": "Criatura — Mythological Hacker",
+  "description": "Quando Jacomo Piccolini entra no campo de batalha, você pode olhar as cartas do topo do grimório de qualquer jogador e colocar até duas cartas no fundo do grimório daquele jogador. Sempre que um jogador revelar uma carta feitiço ou mágica instantânea: {2}{T}: Anule o efeito da carta revelada. \"A inteligência de ameaças não é apenas reagir; é antecipar e prevenir antes que o ataque aconteça.\"",
+  "image": "image/jacomo-piccolini.webp",
+  "power": "4",
+  "toughness": "5",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

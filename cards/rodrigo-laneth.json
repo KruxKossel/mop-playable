@@ -1,0 +1,13 @@
+{
+  "id": "c8e66fe8-1b03-4ef9-a58e-d51d8ed9f14e",
+  "name": "Rodrigo Laneth",
+  "cost": "{2}{G}",
+  "type": "Criatura — Humano Hacker",
+  "description": "Sempre que Rodrigo Laneth causar dano de combate a um jogador, revele o card do topo do seu grimório. Se for um card de terreno, coloque-o no campo de batalha virado; caso contrário, adicione {G} à sua reserva de mana.",
+  "image": "image/rodrigo-laneth.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

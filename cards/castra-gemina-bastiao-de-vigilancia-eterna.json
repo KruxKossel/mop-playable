@@ -1,0 +1,13 @@
+{
+  "id": "3e24ae74-2d32-4b1e-a4c0-3a7adbf27a7d",
+  "name": "Castra Gemina – Bastião de Vigilância Eterna",
+  "cost": "{C}",
+  "type": "Cyberland",
+  "description": "{C}: Adicione {W}, {U} ou {B} de mana.\n\n\"Das cinzas de Alesia aos nós digitais da guerra moderna, a Legião vigia, resiste e responde.\"",
+  "image": "image/castra-gemina-bastiao-de-vigilancia-eterna.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

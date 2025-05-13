@@ -1,0 +1,13 @@
+{
+  "id": "dd79a7b8-f582-4f64-9c5d-b3c5d9f33c3f",
+  "name": "CSH-2",
+  "cost": "2{B}{B}",
+  "type": "Criatura — Mythological Hacker",
+  "description": "Toque de Morte, Sacrifício\nQuando CSH entra no campo de batalha, você pode sacrificar uma criatura. Se o fizer, procure por uma carta de artefato ou encantamento em seu grimório e coloque-a em sua mão.\n{T}, Sacrifique uma criatura ou artefato: {CSH} causa dano igual ao custo de mana convertido da criatura ou artefato a qualquer alvo.\n\"Tamandua Laboratories. — CONFIDENTIAL — *** PROOF OF CONCEPT ***\"",
+  "image": "image/csh-2.webp",
+  "power": "3",
+  "toughness": "5",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

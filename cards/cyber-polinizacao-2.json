@@ -1,0 +1,13 @@
+{
+  "id": "d3426468-70e9-4fd8-8d20-5b4edc0d8e68",
+  "name": "Cyber polinização-2",
+  "cost": "{2}{W}",
+  "type": "Mágica Instantânea",
+  "description": "Previna todo o dano que o oponente causará no próximo turno. O jogador alvo revela sua mão. Se houver um feitiço ou artefato de phishing, você pode exilá-lo até o final do turno. Se fizer isso, aquele jogador perde 4 pontos de vida. \"A verdadeira segurança digital começa com a educação. Proteja-se antes que o dano seja feito.\"",
+  "image": "image/cyber-polinizacao-2.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

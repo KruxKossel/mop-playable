@@ -1,0 +1,13 @@
+{
+  "id": "a9a7be80-7870-4bf9-85c7-d6fec38c1c50",
+  "name": "Felipe Prado-2",
+  "cost": "{2}{G}{G}",
+  "type": "Criatura — Humano Hacker",
+  "description": "Vigilância, Quando Felipe Prado entra no campo de batalha, você pode procurar no seu grimório por até dois terrenos básicos e colocá-los no campo de batalha virados. \"A natureza tem seus segredos, e eu sei como desbloqueá-los.\"",
+  "image": "image/felipe-prado-2.webp",
+  "power": "3",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

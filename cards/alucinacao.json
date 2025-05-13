@@ -1,0 +1,13 @@
+{
+  "id": "a4d65d7e-f72a-4eee-be6d-d2ab32e64ba9",
+  "name": "Alucinação",
+  "cost": "2{U}",
+  "type": "Mágica instantânea",
+  "description": "Até o final do próximo turno, o oponente só poderá desvirar suas cartas durante a fase final do turno. Se o oponente controlar mais de 3 criaturas, ele perde o controle de todas as criaturas que tiver em jogo até o final do turno. \"Perceber a realidade é apenas uma questão de quando você vai acordar... e eu posso garantir que será tarde demais.\"",
+  "image": "image/alucinacao.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

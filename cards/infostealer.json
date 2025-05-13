@@ -1,0 +1,13 @@
+{
+  "id": "11e5af78-84e0-4d19-b9d1-6e57c3a6e8c0",
+  "name": "InfoStealer",
+  "cost": "{2}{B}",
+  "type": "Feitiço — Código Malicioso",
+  "description": "Um oponente revela sua mão. Escolha um card: Se for não-terreno: Exile-o. Você pode conjurá-lo gratuitamente neste turno, usando mana como se fosse de qualquer cor. Se esse card seria para o cemitério neste turno, exile-o em vez disso. Se for um permanente, ele entra com um contador Hacker e, se esse contador ainda estiver nele na etapa final, sacrifique-o. Se for terreno: Destrúa o terreno alvo.",
+  "image": "image/infostealer.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

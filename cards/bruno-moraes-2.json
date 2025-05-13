@@ -1,0 +1,13 @@
+{
+  "id": "2fca0d1e-0f32-4c0a-9a6d-4c97ca63c3fd",
+  "name": "Bruno Moraes-2",
+  "cost": "{3}{G}",
+  "type": "Criatura — Entrepreneur Hacker",
+  "description": "Vigilância, Quando Bruno Moraes entra no campo de batalha, e sempre que você conjurar outra mágica ou um novo artefato, você pode criar uma ficha de criatura Startup +1/+1. \"O verdadeiro sucesso vem do crescimento contínuo e da criação de algo inovador.\"",
+  "image": "image/bruno-moraes-2.webp",
+  "power": "4",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "a8f7ed10-9c8b-4943-b0b9-3c81d61b5b6b",
+  "name": "Ranieri Romera",
+  "cost": "{3}{R}{R}",
+  "type": "Criatura — Mythological Hacker",
+  "description": "Ímpeto, Destruição Explosiva\nQuando Ranieri Romera entra no campo de batalha, destrúa até um feitiço ou artefato alvo. Se o feitiço ou artefato for um \"vírus\" (qualquer malware), o oponente perde 3 pontos de vida.\n\"A única maneira de parar um vírus é com fogo. Vamos queimar até que não sobre nada.\"",
+  "image": "image/ranieri-romera.webp",
+  "power": "4",
+  "toughness": "3",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

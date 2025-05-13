@@ -1,0 +1,13 @@
+{
+  "id": "96eeb738-cf2b-4cd8-ab3e-23a1c8e542f6",
+  "name": "VPN Complicada",
+  "cost": "{1}{U}{R}",
+  "type": "Encantamento — Saga",
+  "description": "Conforme esta Saga entra no campo de batalha e após sua etapa de compra, adicione um marcador de história. Sacrifique-a após o III.\nI\nCrie uma ficha lendária de artefato chamada \"Servidor VPN Chileno\" com, \"As criaturas que seus oponentes controlam recebem -1/-0 enquanto este artefato permanecer no campo de batalha.\"\nII\nO oponente alvo revela a mão dele. Você escolhe um card que não seja terreno dela. Aquele jogador descarta aquele card. Você pode dizer: \"Desculpa, Paraguai, número errado!\"\nIII\nExile \"Servidor VPN Chileno\". Cada jogador compra dois cards. Diga: \"Missão comprometida! De volta para o Brasil!\"",
+  "image": "image/vpn-complicada.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

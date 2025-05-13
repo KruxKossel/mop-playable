@@ -1,0 +1,13 @@
+{
+  "id": "0c92f9c3-8154-4e66-97f6-7bcfc7fb7fb6",
+  "name": "Cena Recifense",
+  "cost": "{1}{B}",
+  "type": "Feitiço — Místico",
+  "description": "Pague X pontos de vida: compre X cartas.\n\n\"Recife, cidade do mangue, onde a lama é a insurreição\"",
+  "image": "image/cena-recifense.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

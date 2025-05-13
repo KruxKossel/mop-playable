@@ -1,0 +1,10 @@
+{
+  "id": "b3c16a77-ea0e-436e-8474-b16e5c86c5e7",
+  "name": "PurpleBird Security",
+  "cost": "{C}",
+  "type": "Carta",
+  "description": "{T},Adiciona {R} ou {U} ao pool de mana.",
+  "image": "image/purplebird-security.webp",
+  "edition": null,
+  "year": null
+}

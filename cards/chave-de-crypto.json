@@ -1,0 +1,13 @@
+{
+  "id": "0feb4d53-6bf6-4cf9-8deb-75d7c3ba5dea",
+  "name": "Chave de Crypto",
+  "cost": "{2}{U}",
+  "type": "Artefato — Hacker",
+  "description": "{1}, {T}: O oponente alvo revela sua mão. Você escolhe um card que não seja terreno. Aquele jogador descarta aquele card. Se um card for descartado dessa forma, faça vidência {1}.",
+  "image": "image/chave-de-crypto.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "8bfcf7b7-b8ef-4ecb-8fe3-d1f8b3dea4c2",
+  "name": "Marcelo Caiado-4",
+  "cost": "4{B}{B}",
+  "type": "Criatura — Ancient Hacker",
+  "description": "Vigilância, Quando Marcelo Caiado entra no campo de batalha, revele a mão de um oponente. Você pode exilar uma carta de feitiço ou artefato daquela mão até o próximo turno. Sempre que um oponente causar dano a você ou a uma criatura que você controla, você pode pagar 1{B}. Se o fizer, previna esse dano e, em seguida, o oponente deve devolver uma carta de sua mão para o grimório. \"A verdade está no detalhe. E o detalhe sempre encontra a luz.\"",
+  "image": "image/marcelo-caiado-4.webp",
+  "power": "4",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

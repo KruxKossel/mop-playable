@@ -1,0 +1,13 @@
+{
+  "id": "0bd24c95-d86c-4f54-9b05-54d4ae16b0df",
+  "name": "André Landim-2",
+  "cost": "2{G}{W}",
+  "type": "Criatura — Mythological Hacker",
+  "description": "Quando André Landim entra no campo de batalha, escolha um oponente. Durante o próximo turno, qualquer feitiço ou habilidade que esse oponente conjurar que causar dano a você ou a uma criatura que você controla será anulado. \n\nG: Escolha uma criatura ou artefato que você controla. Até o final do turno, essa permanente recebe proteção contra todas as formas de remoção e efeitos adversos.\n\n\"O tempo é a chave para o conhecimento e o conhecimento é a chave para o tempo.\"",
+  "image": "image/andre-landim-2.webp",
+  "power": "4",
+  "toughness": "5",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ecb7ab1a-79f2-4704-ac11-b7f19417deaa",
+  "name": "Nelson Novaes Neto-2",
+  "cost": "{3}{W}{W}",
+  "type": "Criatura — CISSP Paladin",
+  "description": "Vigilância, Proteção contra Dano\n\nQuando Nelson Novaes Neto entra no campo de batalha, você pode escolher até dois jogadores. Até o final do turno, qualquer dano que um dos jogadores alvo causaria a outro é prevenido, e suas criaturas recebem +1/+1 até o final do turno.\n\n{T}: Crie um token de criatura +1/+1 de Guardião com Vigilância.",
+  "image": "image/nelson-novaes-neto-2.webp",
+  "power": "4",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

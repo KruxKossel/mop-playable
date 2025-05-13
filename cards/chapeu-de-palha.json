@@ -1,0 +1,13 @@
+{
+  "id": "f2d1b87d-f9bb-4e8c-9f6f-8dc36c67c94c",
+  "name": "Chapéu de Palha ",
+  "cost": "{1}{U}{B}",
+  "type": "Criatura — Pentester",
+  "description": "Voar. Sempre que Chapéu de Palha causa dano de combate a um jogador, esse jogador descarta um card. {G}: Olhe para o card do topo do seu grimório. Se for um card que não seja um terreno, você pode colocá-lo na sua mão. Caso contrário, coloque-o no fundo do seu grimório.",
+  "image": "image/chapeu-de-palha.webp",
+  "power": 2,
+  "toughness": 2,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

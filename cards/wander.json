@@ -1,0 +1,13 @@
+{
+  "id": "f5927ed4-a9d2-4b9d-b6e3-eb35fe753c73",
+  "name": "Wander",
+  "cost": "3{U}{B}",
+  "type": "Criatura — Oráculo Lendário",
+  "description": "Sempre que um oponente conjura uma mágica, você pode exilar a carta do topo do grimório dele. Se fizer isso, coloque um contador Threat Intel em Wander. No início da sua etapa final, se Wander tiver três ou mais contadores Threat Intel, compre um card e remova todos os contadores Threat Intel dele.",
+  "image": "image/wander.webp",
+  "power": "3",
+  "toughness": "3",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}
