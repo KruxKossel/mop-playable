@@ -273,7 +273,16 @@ const filteredCards = computed(() => {
     const matchesType =
       activeFilters.value.types.length > 0
         ? activeFilters.value.types.some(
-            (filterType) => card.type && filterType && card.type.toLowerCase().includes(filterType.toLowerCase())
+            (filterType) => {
+              if (!card.type || !filterType) return false;
+              
+              // Special case: when "Terreno" is selected, also include cards with types starting with "cyberland"
+              if (filterType.toLowerCase() === "terreno" && card.type.toLowerCase().startsWith("cyberland")) {
+                return true;
+              }
+              
+              return card.type.toLowerCase().includes(filterType.toLowerCase());
+            }
           )
         : true;
         
