@@ -1,0 +1,13 @@
+{
+  "id": "6f26ef97-5bab-4feb-9ec3-73284efc2e9b",
+  "name": "Lock Picking",
+  "cost": "{R}",
+  "type": "Mágica Instantânea",
+  "description": "Técnica hacker que te permite abrir cadeados, portas e algemas - quando lock picking entra em jogo você pode abrir as próximas 2 cartas do oponente e reordená-las no topo do deck.",
+  "image": "image/lock-picking.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

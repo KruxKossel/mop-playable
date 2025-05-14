@@ -1,0 +1,13 @@
+{
+  "id": "1d7c8b7e-ef72-4d2c-8abb-711fec9f0d8d",
+  "name": "Rafael Silva - rfdslabs",
+  "cost": "{1}{U}{U}",
+  "type": "Criatura - Jurassic Hacker",
+  "description": "Hacking do bilhão - Ao conjurar essa carta, você pode olhar a carta do topo do oponente e pesca-la  para o seu campo de batalha.",
+  "image": "image/rafael-silva-rfdslabs.webp",
+  "power": 4,
+  "toughness": 3,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

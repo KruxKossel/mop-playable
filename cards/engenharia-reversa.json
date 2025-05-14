@@ -1,0 +1,13 @@
+{
+  "id": "e75a8572-c81b-4e39-9293-dbf2ddf3c06f",
+  "name": "Engenharia Reversa",
+  "cost": "{1}{R}{R}",
+  "type": "Mágica Instantânea",
+  "description": "Examine as cartas da mão do seu adversário e revele todas as suas habilidades. Em seguida, escolha uma dessas habilidades e copie-a. Você pode conjurar a habilidade copiada como se fosse sua até o final do turno pagando 1 ponto de vida.",
+  "image": "image/engenharia-reversa.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+  "id": "b83d7a73-ef31-4952-8c55-59f50f0acb67",
+  "name": "Rafael Choko",
+  "cost": "{2}{R}",
+  "type": "Criatura - Pentester",
+  "description": "{2}, {T}: Escolha um artefato alvo que um oponente controla. Rafael Choko ganha controle daquele artefato até o final do turno.",
+  "image": "image/rafael-choko.webp",
+  "power": "5",
+  "toughness": "3",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

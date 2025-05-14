@@ -1,0 +1,13 @@
+{
+  "id": "73249a26-985e-4e52-95d5-e7a59b6b1aeb",
+  "name": "Vinícius Perallis",
+  "cost": "{1}{W}",
+  "type": "Criatura - Empreendedor Hacker",
+  "description": "Mestre da conscientização e gamificação. Quando Vinícius Perallis entra em jogo, todas as suas criaturas que forem para o campo de batalha neste turno ganham ímpeto.",
+  "image": "image/hacker-rangers-vinicius-perallis.webp",
+  "power": "2",
+  "toughness": "2",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

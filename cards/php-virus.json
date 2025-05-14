@@ -1,0 +1,13 @@
+{
+    "id": "09dda57d-b23c-4de9-b5c7-af96cd797559",
+    "name": "PHP Virus",
+    "cost": "{2}{R}",
+    "type": "Mágica Instantânea",
+    "description": "Infecte uma criatura com um virus.php, para cada turno que seu adversário baixa uma mana a craitura infectada perde -1/-1",
+    "image": "image/php-virus.webp",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "edition": null,
+    "year": 2025
+  }

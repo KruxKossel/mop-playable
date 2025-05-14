@@ -1,0 +1,13 @@
+{
+  "id": "2bc3c9eb-fd67-4b1d-aefe-0f7d44a77197",
+  "name": "Hacker Rangers",
+  "cost": "",
+  "type": "Cyberland",
+  "description": "{t}, Adicione {W} em sua mana pool.",
+  "image": "image/hacker-rangers.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

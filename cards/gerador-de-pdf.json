@@ -1,0 +1,13 @@
+{
+  "id": "b5d5b86b-2b4e-4caf-b76f-1b0635df9c84",
+  "name": "Gerador de PDF",
+  "cost": "{G}{G}{G}{G}",
+  "type": "Mágica instantânea",
+  "description": "Ao utilizar essa carta o adversário perde 1 turno lendo PDFs infectados.",
+  "image": "image/gerador-de-pdf.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

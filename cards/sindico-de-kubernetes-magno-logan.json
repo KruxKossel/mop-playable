@@ -1,0 +1,13 @@
+{
+  "id": "b0fcb9c8-4b73-4e41-8b59-81fdc61ea211",
+  "name": "Magno Logan",
+  "cost": "{1}{R}{R}",
+  "type": "Criatura - Cloud Hacker",
+  "description": "Kubernetes Ninja - Quando você conjurar essa carta, todos os seus clusters Kubernetes automaticamente são ownados pelo \"Síndico\". Crie um pod, escolha uma criatura do oponente e isole esta criatura enviando para o exílio.",
+  "image": "image/sindico-de-kubernetes-magno-logan.webp",
+  "power": 2,
+  "toughness": 4,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

@@ -1,0 +1,13 @@
+{
+    "id": "b0fcb9c8-4b93-4e41-8b59-81fdc61ea211",
+    "name": "Igor Rincon",
+    "cost": "{1}{W}{R}",
+    "type": "Criatura - Humano Hacker",
+    "description": "Quando essa carta entra em jogo, todas as suas criaturas recebem +1/0. Se você ouviu o podcast Hackers Brasil, ganhe +1 de vida.",
+    "image": "image/the-180k-hacker-igor-rincon.webp",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "edition": null,
+    "year": 2025
+  }
