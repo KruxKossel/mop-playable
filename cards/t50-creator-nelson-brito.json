@@ -1,0 +1,13 @@
+{
+  "id": "c8c30a83-b0ca-4e42-825c-6c0bfc07a9a9",
+  "name": "T50 Creator (Nelson Brito)",
+  "cost": "{U}{U}{U}",
+  "type": "Creature - Mythological Hacker",
+  "description": "Quando stderr entra em jogo, todas as cartas sofrem denial of service e não atacam neste turno. \"É fo** bicho\"",
+  "image": "image/t50-creator-nelson-brito.webp",
+  "power": "4",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

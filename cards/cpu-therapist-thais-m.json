@@ -1,0 +1,13 @@
+{
+  "id": "5ea52ac9-f99a-4237-8de4-3da70eaa20eb",
+  "name": "CPU Therapist (Thais M.)",
+  "cost": "{1}{C}{P}",
+  "type": "Criatura — Mythological Hacker",
+  "description": "Sempre que Thais M. causar dano de combate a um jogador, olhe o card do topo do grimório daquele jogador. Você pode colocá-lo no cemitério. {1}{C}, {P}: Olhe o card do topo do seu grimório. Você pode colocá-lo no fundo do grimório.",
+  "image": "image/cpu-therapist-thais-m.webp",
+  "power": "2",
+  "toughness": "4",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}
