@@ -1,0 +1,13 @@
+{
+  "id": "7a362d0f-f03b-4c41-bedb-74fc04c1e1ae",
+  "name": "Rafael Sousa",
+  "cost": "{2}{W}",
+  "type": "Criatura - Humano Hacker",
+  "description": "Sempre que Rafael Sousa bloqueia ou é bloqueado, você pode revelar o topo do seu deck. Se for uma carta de artefato hacker, coloque-a na sua mão. \"Nos recessos sombrios da BIOS, onde o código se enrosca em segredos, Rafael implanta uma backdoor silenciosa, tornando-se o guardião invisível.\"",
+  "image": "image/rafael-sousa-rare.webp",
+  "power": 2,
+  "toughness": 3,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

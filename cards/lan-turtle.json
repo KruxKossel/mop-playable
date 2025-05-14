@@ -1,10 +1,13 @@
 {
-  "id": "9239fbd7-8fc7-4ee7-97ce-d7bb8481e0d4",
-  "name": "LAN Turtle",
-  "cost": "{W}{W}",
-  "type": "Artefato - Equipamento Hacker",
-  "description": "Equipar {0}\nSe você controla uma criatura Maga, LAN Turtle pode ser jogado. Caso a criatura morra, você pode mover seu controle a outra criatura que você controla.\nAs criaturas LAN Turtle: Escolha um personagem Mago. Copie todas as habilidades de ativação desse personagem para esta criatura até o fim do turno. Apenas as ativações de lealdade copiadas dessa maneira são opcionais.",
-  "image": "image/lan-turtle.webp",
-  "edition": "Collector Edition",
-  "year": ""
-}
+    "id": "09dda57d-b23c-4de9-b5c7-af96cd797580",
+    "name": "Lan Turtle",
+    "cost": "{G}",
+    "type": "Artefato - Equipamento Hacker",
+    "description": "Equipar {2}: Quando Lan Turtle é equipado a uma criatura, sempre que aquela criatura  causar dano de combate a um jogador, você pode olhar a mão daquele jogador. {t} sacrifique Lan turtle: escolha um oponente, aquele oponente revela cartas do topo do seu grimório até encontrar uma carta de terreno e a colocar no campo de batalha. Todas as outras cartas reveladas desta maneira são exiladas. ",
+    "image": "image/lan-turtle.webp",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "edition": null,
+    "year": 2025
+  }

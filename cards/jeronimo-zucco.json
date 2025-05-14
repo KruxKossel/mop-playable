@@ -1,0 +1,13 @@
+{
+    "id": "09dda57d-b23c-4de9-b5c7-236cd797559",
+    "name": "Jeronimo Zucco",
+    "cost": "{G}",
+    "type": "Criatura - Humano Hacker",
+    "description": "{1}{t}, Escolha um artefato no campo de batalha. Jeronimo Zucco pode fazer com que aquele artefato não tivesse habilidades até o seu próximo turno. Sacrifique Jeronimo Zucco: Procure em seu grimório por um a carta de artefato ou encantamento e coloque-a no topo do seu grimório, sem seguida embaralhe o grimório.",
+    "image": "image/jeronimo-zucco.webp",
+    "power": "1",
+    "toughness": "2",
+    "loyalty": null,
+    "edition": null,
+    "year": 2025
+  }

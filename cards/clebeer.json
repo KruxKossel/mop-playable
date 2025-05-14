@@ -1,0 +1,13 @@
+{
+  "id": "09dda57d-b23c-4de9-b5c7-af96cd797559",
+  "name": "CleBeer",
+  "cost": "{G}",
+  "type": "Criatura - Hacker Raiz",
+  "description": "Quando CleBeer entra em jogo, quem estiver bebendo cerveja ganha +1 de vida. Se controla um terreno H2HC, ganhe +2 de vida.",
+  "image": "image/clebeer.webp",
+  "power": "2",
+  "toughness": "2",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}
