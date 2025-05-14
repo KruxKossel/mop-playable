@@ -1,0 +1,13 @@
+{
+  "id": "4bcb8c12-52e3-4e70-97ad-ece0d2a7de89",
+  "name": "Cyber Defense Operations Center",
+  "cost": "2{R/U}",
+  "type": "Encantamento",
+  "description": "2, {T}: No início da manutenção do oponente escolhido, olhe a mão dele. Você pode exilar até um feitiço daquela mão. Até o início da sua próxima manutenção, você pode conjurá-lo sem pagar seu custo de mana.\nNo início do passo de combate do oponente escolhido, você pode pagar 1 de vida e olhar a mão ou o grimório dele. Se fizer isso, anule a mágica alvo que esse oponente controlar até o final do turno.\nSempre que o oponente escolhido lançar uma mágica, você pode pagar 2 de vida. Se fizer, exile-a e compre um card.",
+  "image": "image/cyber-defense-operations-center.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

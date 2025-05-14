@@ -1,0 +1,13 @@
+{
+  "id": "f6f99e70-8a3d-4fcb-8f1e-2ee7e6ce928a",
+  "name": "Snyk Patch",
+  "cost": "2{U}",
+  "type": "Mágica instantânea",
+  "description": "Exile todas as cartas sobre vulnerabilidades da mão de um oponente alvo.\n\n\"Find the flaw, apply the fix.\"\n—Snyk.io",
+  "image": "image/snyk-patch.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

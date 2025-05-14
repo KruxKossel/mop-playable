@@ -1,0 +1,13 @@
+{
+  "id": "a9d5a75c-5fcb-4b0b-846f-6e7c3d6b4a4b",
+  "name": "Snyk.io",
+  "cost": "",
+  "type": "Cyberland",
+  "description": "{T}, Adicione {B} à sua reserva de mana. Feitiços que corrigem ou anulam vulnerabilidades custam {1} a menos para lançar. Feitiços de Vulnerabilidade custam {1} a mais para lançar.",
+  "image": "image/snyk-io.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}
