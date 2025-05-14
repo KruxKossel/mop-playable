@@ -1,0 +1,13 @@
+{
+    "id": "a7a30a8f-cd97-4faa-939d-f9f562a54d92",
+    "name": "Thiago Musa",
+    "cost": "{1}{U}{G}",
+    "type": "Criatura - Underground Pirate",
+    "description": "Conexão Subterrânea: No início da sua fase de manutenção, você pode olhar o topo do deck de qualquer jogador. Você pode revelar uma carta de feitiço ou encantamento desse topo. Se fizer isso, coloque um marcador de \"conhecimento\" em Thiago Musa.\nMercado Negro{t}: Remova dois marcadores de \"conhecimento\" de Thiago Musa: Busque em seu deck por uma carta de feitiço ou encantamento, revele-a e coloque-a na sua mão. Em seguida, embaralhe seu deck.",
+    "image": "image/thiago-musa.webp",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "edition": null,
+    "year": 2025
+  }

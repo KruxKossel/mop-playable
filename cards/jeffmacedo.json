@@ -1,0 +1,13 @@
+{
+  "id": "c5aa9ac2-bf57-4e9c-8b57-76dd6b3d9e77",
+  "name": "jeffmacedo",
+  "cost": "3{U}{B}{R}",
+  "type": "Criatura — Entrepreneur Hacker",
+  "description": "Quando Jeff Macedo entra no campo de batalha, investigue duas vezes. (Crie duas fichas de artefato incolor \"Pista\" com \"2, sacrifique este artefato: Compre um card.\") {R}, sacrifique uma Pista: Você pode olhar a mão do oponente alvo. 1{U}{B}, {R}, sacrifique uma Pista: Anule a mágica alvo. Se isso acontecer, exile-a em vez de colocá-la no cemitério.",
+  "image": "image/jeffmacedo.webp",
+  "power": "2",
+  "toughness": "3",
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

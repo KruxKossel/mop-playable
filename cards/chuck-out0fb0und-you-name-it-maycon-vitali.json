@@ -1,0 +1,13 @@
+{
+  "id": "fc352a43-0de2-4bdf-8a2e-49d24ba26e63",
+  "name": "Chuck, Out0fB0und you name it! (Maycon Vitali)",
+  "cost": "{2}{G}",
+  "type": "Criatura - Underground Pirate",
+  "description": "Quando OutOfB0und entra em jogo, todos os adversários devem desbloquear seus celulares. O primeiro que receber uma mensagem deve mostrar para todos e se for audio, perde 1 ponto de vida. Se for p0rn ganha 1 ponto de vida. Válido por 3 turnos.",
+  "image": "image/chuck-out0fb0und-you-name-it-maycon-vitali.webp",
+  "power": 5,
+  "toughness": 2,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}

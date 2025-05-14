@@ -1,0 +1,13 @@
+{
+  "id": "8b0fd0bd-7171-4bda-b48c-efcd0fac4aa3",
+  "name": "Gabriel Barbosa",
+  "cost": "3️⚫⚫",
+  "type": "Criatura - Hacker Raiz",
+  "description": "Ímpeto\n\nSempre que Gabriel Barbosa causa dano de combate a um jogador, aquele jogador sacrifica um terreno.\n\n⚫⚫: Gabriel Barbosa ganha +2/+0 e \"Atropelar\" até o final do turno. Quando você ativa esta habilidade, Gabriel Barbosa empresta sua máquina e causa 1 ponto de dano a você.",
+  "image": "image/gabriel-barbosa.webp",
+  "power": 4,
+  "toughness": 4,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}
