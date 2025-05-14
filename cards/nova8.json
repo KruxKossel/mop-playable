@@ -1,0 +1,13 @@
+{
+  "id": "b4e5c6d9-e9db-4859-865f-b44db6a8cceb",
+  "name": "Nova8",
+  "cost": "",
+  "type": "Cyberland",
+  "description": "{T}, Add {W} na sua pool de mana.",
+  "image": "image/nova8.webp",
+  "power": null,
+  "toughness": null,
+  "loyalty": null,
+  "edition": null,
+  "year": 2025
+}
